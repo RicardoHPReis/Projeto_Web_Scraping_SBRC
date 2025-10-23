@@ -3,7 +3,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-def ler_transformar_web(link_url:str) -> list:
+def ler_transformar_web(link_url:str, ano_evento:int) -> list:
     anais = []
     pdf_dados = requests.get(link_url)
     soup = BeautifulSoup(pdf_dados.content, 'html.parser')
@@ -24,15 +24,17 @@ def ler_transformar_web(link_url:str) -> list:
         texto_autores = texto_descricao.split('\n')[-1]
         link_anais = link.find('a').get('href')
         
+        if ano_evento <= 1998:
+            pass
+        
         dados_anais_com_ano = {
-            "Título": texto_titulo,
-            "Páginas": paginas,
-            "Autores": texto_autores,
-            "Universidade": "",
-            "Email": "",
-            "Língua": "",
-            "Resumo": "",
-            "Link": link_anais
+            "titulo": texto_titulo,
+            "paginas": paginas,
+            "autores": texto_autores,
+            "universidade": "",
+            "lingua": "",
+            "resumo": "",
+            "link": link_anais
         }
         anais.append(dados_anais_com_ano)
     return anais

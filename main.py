@@ -25,7 +25,7 @@ def web_scraping_sbrc(url:str) -> list:
         eventos[i].append(link_pdf)
 
     eventos.reverse()
-    eventos = [e for e in eventos if int(e[0]) < 2017]
+    eventos = [e for e in eventos if int(e[0]) == 2016]
     for i,j in enumerate(eventos):
         eventos[i][0] = int(eventos[i][0])
     
@@ -46,9 +46,9 @@ def web_scraping_eventos(eventos:list) -> list:
         link_evento = e[-1]
         
         if ano_evento > 2012:
-            anais = c_pdf.ler_transformar_pdf(link_evento)
+            anais = c_pdf.ler_transformar_pdf(link_evento, ano_evento)
         else:
-            anais = c_link.ler_transformar_web(link_evento)
+            anais = c_link.ler_transformar_web(link_evento, ano_evento)
         
         lista_anais = {
             "ano": ano_evento,
