@@ -23,4 +23,5 @@ def ler_premios(link_url:str) -> list:
     premios.reverse()
     #print(premios)
     return premios
+
 ler_premios('https://ce-resd.sbc.org.br/?page_id=296')

@@ -4,7 +4,10 @@ import pymupdf as f
 import requests
 import io
 
+# Função para transformar os caracteres acentuados e especiais dos textos extraídos dos PDFs, 
+# retornando o texto com os caracteres corrigidos
 def transformar_texto(texto:str) -> str:
+    texto = texto.replace("´ ", "´").replace("` ", "`").replace("ˆ ", "ˆ").replace("˜ ", "˜")
     texto = texto.replace("c¸", "ç").replace("`a", "à").replace("`A", "À")
     texto = texto.replace("´a", "á").replace("´A", "Á").replace("´e", "é").replace("´E", "É").replace("´ı", "í").replace("´I", "Í").replace("´o", "ó").replace("´O", "Ó").replace("´u", "ú").replace("´U", "Ú")
     texto = texto.replace("ˆa", "â").replace("ˆA", "Â").replace("ˆe", "ê").replace("ˆE", "Ê").replace("ˆı", "î").replace("ˆI", "Î").replace("ˆo", "ò").replace("ˆO", "Ô").replace("ˆu", "û").replace("ˆU", "Û")
@@ -12,7 +15,8 @@ def transformar_texto(texto:str) -> str:
     texto = texto.replace("˘g", "ğ")
     return texto
 
-
+# Função para ler e transformar o conteúdo dos PDFs dos anais dos eventos da SBRC, 
+# retornando uma lista de dicionários com as informações dos artigos
 def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
     anais = []
     pdf_dados = requests.get(link_pdf)

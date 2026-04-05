@@ -3,8 +3,32 @@
 import pymupdf as f
 import requests
 import io
+import re
+
+def limpar_nome_arquivo(nome:str) -> str:
+    """
+    Remove ou substitui caracteres que não são permitidos em nomes de arquivos 
+    (Windows, Linux e macOS).
+    """
+    
+    padrao_invalido = r'[<>:"/\\|?*\x00-\x1f]'
+    
+    # Substitui os caracteres inválidos
+    nome_seguro = re.sub(padrao_invalido, "", nome)
+    nome_seguro = nome_seguro.replace("  ", " ")
+    
+    
+    nome_arquivo = nome_arquivo if len(nome_arquivo) <= 130 else nome_arquivo[:130] 
+        
+    return nome_seguro
+
 
 def transformar_texto(texto:str) -> str:
+    """
+    Remove ou substitui caracteres que não foram corretamente extraídos dos PDFs 
+    e que podem causar problemas de formatação ou leitura, retornando o texto corrigido.
+    """
+    
     texto = texto.replace("c¸", "ç").replace("`a", "à").replace("`A", "À")
     texto = texto.replace("´a", "á").replace("´A", "Á").replace("´e", "é").replace("´E", "É").replace("´ı", "í").replace("´I", "Í").replace("´o", "ó").replace("´O", "Ó").replace("´u", "ú").replace("´U", "Ú")
     texto = texto.replace("ˆa", "â").replace("ˆA", "Â").replace("ˆe", "ê").replace("ˆE", "Ê").replace("ˆı", "î").replace("ˆI", "Î").replace("ˆo", "ò").replace("ˆO", "Ô").replace("ˆu", "û").replace("ˆU", "Û")
@@ -12,6 +36,7 @@ def transformar_texto(texto:str) -> str:
     texto = texto.replace("˘g", "ğ").replace("s’", "’s")
     texto = texto.replace(" ,", ",").replace(",,", ",").replace(" .", ".").replace(" ;", ";").replace(" :", ":")
     texto = texto.replace("-\n", "").replace("\n", " ").replace("  ", " ").replace("–", "-")
+    
     return texto
 
 
@@ -49,7 +74,7 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
                             texto_base = transformar_texto(span["text"])
                             font_name = span["font"]
                             font_size = span["size"]
-                            print(f"Texto: '{texto_base}', Fonte: {font_name}, Tamanho: {font_size}")
+                            #print(f"Texto: '{texto_base}', Fonte: {font_name}, Tamanho: {font_size}")
                             
                             if texto_base.strip() == "":
                                 continue
@@ -142,5 +167,21 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
         anais[-1]['paginas'].append(len(pdf_document)-inicio_artigos-2)
         anais[-1]['paginas_pdf'].append(len(pdf_document)-1)
         anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0]
+    
+    for i, artigo in enumerate(anais):
+        novo_doc = f.open()  # Cria um novo documento PDF
+        nome_arquivo = limpar_nome_arquivo(artigo['titulo'])
+        novo_doc.insert_pdf(pdf_document, from_page=artigo['paginas_pdf'][0]-1, to_page=artigo['paginas_pdf'][1]-1)
+        novo_doc.save(f"SOL_SBRC/SBRC_{ano_evento}/{i+1}_{nome_arquivo}.pdf")
+    
+    paginas_nao_utilizadas = range(1, len(pdf_document))
+    for artigo in anais:
+        paginas_nao_utilizadas = [p for p in paginas_nao_utilizadas if p < artigo['paginas_pdf'][0] or p > artigo['paginas_pdf'][1]]
+    
+    resto_doc = f.open()  # Cria um novo documento PDF
+    for paginas in paginas_nao_utilizadas:
+        resto_doc.insert_pdf(pdf_document, from_page=paginas-1, to_page=paginas-1)
+    
+    resto_doc.save(f"SOL_SBRC/SBRC_{ano_evento}/paginas_nao_utilizadas.pdf")
     
     return anais
