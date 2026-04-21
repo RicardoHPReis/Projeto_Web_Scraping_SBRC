@@ -28,7 +28,7 @@ def web_scraping_sbrc(url:str) -> list:
         eventos_sbrc[i].append(link_pdf)
 
     eventos_sbrc.reverse()
-    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 1990]
+    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 2013]
     for i,j in enumerate(eventos_sbrc):
         eventos_sbrc[i][0] = int(eventos_sbrc[i][0])
     

@@ -18,7 +18,7 @@ def limpar_nome_arquivo(nome:str) -> str:
     nome_seguro = nome_seguro.replace("  ", " ")
     
     
-    nome_arquivo = nome_arquivo if len(nome_arquivo) <= 130 else nome_arquivo[:130] 
+    nome_seguro = nome_seguro if len(nome_seguro) <= 130 else nome_seguro[:130] 
         
     return nome_seguro
 
@@ -43,7 +43,7 @@ def transformar_texto(texto:str) -> str:
 def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
     anais = []
     inicio_artigos = 0
-    flag_ref = False
+    fl_referencias = False
     pdf_dados = requests.get(link_pdf)
     pdf_dados.raise_for_status()
     pdf_bytes = io.BytesIO(pdf_dados.content)
@@ -51,6 +51,7 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
     #print(f"Number of pages: {len(pdf_document)}")
     
     for page_num in range(len(pdf_document)):
+    #for page_num in range(864, 878):
         page = pdf_document.load_page(page_num)
         blocks = page.get_text("dict") # Obter texto como um dicionário com informações detalhadas
         text = transformar_texto(page.get_text("text"))
@@ -61,60 +62,85 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
         universidades = ''
         ordem = ''
         resumo = ''
-        flag = False
+        fl_inicio_artigo = False
         flag_numeros = False
         flag_universidade = False
         
-        if text.find("Abstract.") != -1:
-            flag_ref = False
+        if (text.find("Abstract.") != -1 or text.find("Abstract -") != -1):
+            fl_referencias = False
             for block in blocks["blocks"]:
                 if "lines" in block:
                     for line in block["lines"]:
-                        for span in line["spans"]:
+                        for span in line["spans"]: 
                             texto_base = transformar_texto(span["text"])
                             font_name = span["font"]
                             font_size = span["size"]
-                            #print(f"Texto: '{texto_base}', Fonte: {font_name}, Tamanho: {font_size}")
+                            print(f"Texto: '{texto_base}', Fonte: {font_name}, Tamanho: {font_size}")
                             
                             if texto_base.strip() == "":
+                                print("Pulou")
                                 continue
                             
+                            # Regras 
+                            # A ideia é usar uma combinação de regras para tentar identificar o título da melhor forma possível, mesmo que haja algumas inconsistências na formatação dos PDFs.
+                            # A ideia é identificar o título do artigo, que é a informação mais fácil de identificar, pois geralmente tem uma formatação mais clara e consistente.
+                            
+                            # Titulo: Fonte >= 15 e texto com mais de 2 caracteres
                             if font_size >= 15 and len(texto_base) > 2:
                                 nomes_artigos += texto_base + ' '
-                                flag = True
-                            elif font_name == 'NimbusMonL-Regu' or font_name.find("Italic") != -1 or font_name.find("Courier") != -1:
+                                fl_inicio_artigo = True
+                            
+                            # Fim dos dados iniciais do artigo: Fonte padrão ou início do Resumo/Abstract
+                            elif font_name == 'NimbusMonL-Regu' or font_name.find("Ital") != -1 or font_name.find("Courier") != -1:
                                 flag_numeros = False
-                                flag = False
-                            elif (font_name == 'CMMI8') and flag and len(texto_base) <= 2:
-                                ordem += texto_base
-                                flag_numeros = False
-                            elif (font_name == 'CMR8' or (font_size<=8.1)) and not flag_numeros and flag and not flag_universidade and len(texto_base) <= 2:
-                                ordem += texto_base
-                                flag_numeros = True
-                            elif (font_name == 'CMR8' or (font_size<=8.1)) and flag_universidade and flag and len(texto_base) <= 2:
-                                universidades += '|'
-                            elif (font_name == 'NimbusRomNo9L-Medi' or font_name.find("Bold") != -1) and font_size >= 11 and flag:
-                                autores += ', ' if not autores.endswith(',') and autores != '' else ''
-                                autores += texto_base + ' '
+                                fl_inicio_artigo = False
+                            
+                            #Regras para identificar os dados de autores, universidade e a ordem, que são os mais difíceis de identificar, pois não possuem uma formatação tão clara quanto os dados de título e autores. A ideia é usar uma combinação de regras para tentar identificar esses dados da melhor forma possível, mesmo que haja algumas inconsistências na formatação dos PDFs.
+                            elif fl_inicio_artigo:
+                                # Ordem: Fonte CMMI8 e texto com até 3 caracteres, ou Fonte CMR8 (ou tamanho <= 8.1)
+                                #if (font_name == 'CMMI8') and len(texto_base) <= 3:
+                                #    ordem += texto_base
+                                #    flag_numeros = False
+                                    
+                                # Ordem: Fonte de tamanho <= 8.1, texto com até 3 caracteres, flag e sem flag_numeros e sem flag_universidade
+                                if font_size <= 8.1 and not flag_numeros and not flag_universidade and len(texto_base) <= 3:
+                                    ordem += texto_base
+                                    flag_numeros = True
                                 
-                                ordem += '|' if not ordem.endswith('|') else ''
-                                flag_numeros = False
-                            elif (font_name == 'NimbusRomNo9L-Regu' or font_name.find("Times") != -1) and font_size >= 11 and flag:
-                                universidades += texto_base + ' '
-                                flag_numeros = False
-                            elif (font_name == 'CMR8' or (font_size<=8.1)) and flag and flag_numeros:
-                                universidades += '|'
-                                flag_universidade = True
+                                # Se tiver algum numero no meio dos dados de universidade, é mais provável que seja parte da ordem do que da universidade, então há um pipe para separar os dados de universidade
+                                elif font_size<=8.1 and flag_universidade and len(texto_base) <= 3:
+                                    universidades += '|'
+                                
+                                # Autores: Fonte NimbusRomNo9L-Medi ou fonte com "Bold" e fonte maior que 11
+                                elif (font_name == 'NimbusRomNo9L-Medi' or font_name.find("Bold") != -1) and font_size >= 11:
+                                    autores += ', ' if not autores.endswith(',') and autores != '' else ''
+                                    autores += texto_base + ' '   
+                                    ordem += '|' if not ordem.endswith('|') else ''
+                                    flag_numeros = False
+                                
+                                # Universidade: Fonte NimbusRomNo9L-Regu ou fonte com "Times"
+                                elif (font_name == 'NimbusRomNo9L-Regu' or font_name.find("Times") != -1):
+                                    universidades += texto_base + ' '
+                                    flag_numeros = False
+                                
+                                # Universidade: Fonte de tamanho <= 8.1 e flag_numeros
+                                elif font_size<=8.1 and flag_numeros:
+                                    universidades += '|'
+                                    flag_universidade = True
 
-            abstract = text.split("Abstract.", 1)[-1]
-            if text.find("Resumo.") != -1:
+            # Se o texto da página contém "Resumo." ou "Resumo -", é provável que seja o início do resumo em português, caso contrário, é provável que seja o início do resumo em inglês. 
+            # A ideia é usar essa informação para tentar identificar o resumo da melhor forma possível, mesmo que haja algumas inconsistências na formatação dos PDFs.
+            if (text.find("Resumo.") != -1 or text.find("Resumo -") != -1):
                 lingua = 'Pt'
-                resumo = text.split("Resumo.", 1)[-1]
+                resumo = text.split("Resumo -", 1)[-1] if text.find("Resumo -") != -1 else text.split("Resumo.", 1)[-1]
                 resumo = resumo.split("1.", 1)[0].strip()
             else:
                 lingua = 'En'
+                abstract = text.split("Abstract -", 1)[-1] if text.find("Abstract -") != -1 else text.split("Abstract.", 1)[-1]
                 resumo = abstract.split("1.", 1)[0].strip()
             
+            # Junção de todos os dados do artigo em um dicionário, que é adicionado a uma lista de anais. 
+            # A ideia é criar um dicionário com todas as informações do artigo, para facilitar a organização e o acesso a essas informações posteriormente.
             dados_anais_com_ano = {
                 "titulo": transformar_texto(nomes_artigos.strip()),
                 "autores": transformar_texto(autores.strip()),
@@ -128,52 +154,58 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
                 "referencias": "",
                 "link": ""
             }
+            
+            # Se o artigo anterior não tiver o número de páginas definido, é provável que o início do próximo artigo seja o final do artigo anterior, então há uma atualização do número de páginas do artigo anterior.
             if len(anais) > 0 and anais[-1]['num_paginas'] == 0:
                 anais[-1]['paginas'].append(int(page_num) - inicio_artigos - 1)
                 anais[-1]['paginas_pdf'].append(int(page_num))
                 anais[-1]['num_paginas'] = dados_anais_com_ano['paginas'][0] - anais[-1]['paginas'][0]
+            
+            # Se o artigo atual for o primeiro artigo encontrado, é provável que o início do artigo seja o início do PDF, então há uma atualização do número de páginas do artigo atual.
             if len(anais) == 0:
                 inicio = 3 if ano_evento != 2015 else 1
                 inicio_artigos = int(page_num) - inicio
                 dados_anais_com_ano['paginas'][0] = page_num - inicio_artigos
+                
+            print(f"{dados_anais_com_ano}")
             anais.append(dados_anais_com_ano)
-            
-        if text.find("Resumo.") != -1 and anais[-1]['resumo'] != "" :
-            flag_ref = False
-            resumo_pt = text.split("Resumo.", 1)[-1]
-            resumo_pt = resumo_pt.split("1.", 1)[0].strip()
-            anais[-1]['resumo'] = transformar_texto(resumo_pt.strip())
-            anais[-1]['lingua'] = 'Pt'
-            
-        if text.find("Índice por Autor") != -1 and (ano_evento == 2013 or ano_evento == 2014) and inicio_artigos > 0:
-            anais[-1]['paginas'].append(int(page_num) - inicio_artigos - 1)
-            anais[-1]['paginas_pdf'].append(int(page_num))
-            anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0] + 1
-            flag_ref = False
-        if text.find("Sessão Técnica ") != -1 and (ano_evento == 2013 or ano_evento == 2014) and inicio_artigos > 0:
-            anais[-1]['paginas'].append(int(page_num) - inicio_artigos - 1)
-            anais[-1]['paginas_pdf'].append(int(page_num))
-            anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0] + 1
-            flag_ref = False
         
-        if text.find("Referências") != -1 or text.find("References") != -1 or flag_ref:
-            if flag_ref:
-                anais[-1]['referencias'] += text
-            else:
-                anais[-1]['referencias'] = text.split("Referências", 1)[-1] if text.find("Referências") != -1 else text.split("References", 1)[-1]
-            flag_ref = True
+        if len(anais) > 0:           
+            # Se o texto da página conter "Índice por Autor" ou "Sessão Técnica", é preciso atualizar o número de páginas do artigo.
+            if text.find("Índice por Autor") != -1 and (ano_evento == 2013 or ano_evento == 2014) and inicio_artigos > 0:
+                anais[-1]['paginas'].append(int(page_num) - inicio_artigos - 1)
+                anais[-1]['paginas_pdf'].append(int(page_num))
+                anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0] + 1
+                fl_referencias = False
+            if text.find("Sessão Técnica ") != -1 and (ano_evento == 2013 or ano_evento == 2014) and inicio_artigos > 0:
+                anais[-1]['paginas'].append(int(page_num) - inicio_artigos - 1)
+                anais[-1]['paginas_pdf'].append(int(page_num))
+                anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0] + 1
+                fl_referencias = False
+            
+            # Se o texto da página contém "Referências" ou "References", é provável que seja o início das referências do artigo, então há uma atualização do campo de referências do artigo atual.
+            if text.find("Referências") != -1 or text.find("References") != -1 or fl_referencias:
+                if fl_referencias:
+                    anais[-1]['referencias'] += text
+                else:
+                    anais[-1]['referencias'] = text.split("Referências", 1)[-1] if text.find("Referências") != -1 else text.split("References", 1)[-1]
+                fl_referencias = True
     
-    if anais[-1]['num_paginas'] == 0:
-        anais[-1]['paginas'].append(len(pdf_document)-inicio_artigos-2)
-        anais[-1]['paginas_pdf'].append(len(pdf_document)-1)
-        anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0]
+    # Necessário para atualizar o número de páginas do último artigo, pois o final do PDF pode ser o final do último artigo, então há uma atualização do número de páginas do último artigo.
+    if len(anais) > 0:
+        if anais[-1]['num_paginas'] == 0:
+            anais[-1]['paginas'].append(len(pdf_document)-inicio_artigos-2)
+            anais[-1]['paginas_pdf'].append(len(pdf_document)-1)
+            anais[-1]['num_paginas'] = anais[-1]['paginas'][1] - anais[-1]['paginas'][0]
     
+    # Criação de um novo documento PDF para cada artigo, contendo apenas as páginas correspondentes a esse artigo, e salvando esses documentos em uma pasta específica para o ano do evento.
     for i, artigo in enumerate(anais):
         novo_doc = f.open()  # Cria um novo documento PDF
         nome_arquivo = limpar_nome_arquivo(artigo['titulo'])
         novo_doc.insert_pdf(pdf_document, from_page=artigo['paginas_pdf'][0]-1, to_page=artigo['paginas_pdf'][1]-1)
         novo_doc.save(f"SOL_SBRC/SBRC_{ano_evento}/{i+1}_{nome_arquivo}.pdf")
     
+    # Criação de um novo documento PDF contendo as páginas que não foram utilizadas para os artigos, e salvando esse documento em uma pasta específica para o ano do evento.
     paginas_nao_utilizadas = range(1, len(pdf_document))
     for artigo in anais:
         paginas_nao_utilizadas = [p for p in paginas_nao_utilizadas if p < artigo['paginas_pdf'][0] or p > artigo['paginas_pdf'][1]]
