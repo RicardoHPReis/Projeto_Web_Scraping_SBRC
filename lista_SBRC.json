@@ -8,7 +8,7 @@
         "anais": [
             {
                 "titulo": "Uma Nova Abordagem para Acesso ao Meio em Redes de Sensores Sem Fio",
-                "autores": "Felipe D. Cunha, , ´, Italo Cunha, Antonio A. F. Loureiro, Leonardo B. Oliveira",
+                "autores": "Felipe D. Cunha, ´, Italo Cunha, Antonio A. F. Loureiro, Leonardo B. Oliveira",
                 "ordem": "1|1|1|1",
                 "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Belo Horizonte - MG - 31270-901 - Brasil",
                 "lingua": "Pt",
@@ -29,7 +29,7 @@
                 "titulo": "NodePM: Um Sistema de Monitoramento Remoto do Consumo de Energia Elétrica via Redes de Sensores sem Fio",
                 "autores": "Geraldo P. R. Filho, Jó Ueyama, Leandro A. Villas, A. R. Pinto, Sibelius Seraphini",
                 "ordem": "1|1|2|3|1",
-                "universidade": "Instituto de Ciência Matemáticas e de Computação - ICMC Universidade de São Paulo - USP 13566 - 590 - São Carlos - SP - Brasil |Instituto de Computação - Universidade Estadual de Campinas - UNICAMP Campinas - SP - Brasil |Universidade Estadual Paulista - UNESP São José do Rio Preto - SP - Brasil",
+                "universidade": "Instituto de Ciência Matemáticas e de Computação - ICMC Universidade de São Paulo - USP 13566 - 590 - São Carlos - SP - Brasil|Instituto de Computação - Universidade Estadual de Campinas - UNICAMP Campinas - SP - Brasil|Universidade Estadual Paulista - UNESP São José do Rio Preto - SP - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -46,9 +46,9 @@
             },
             {
                 "titulo": "QoE-aware Multiple Path Video Transmission for Wireless Multimedia Sensor Networks",
-                "autores": "Denis Rosário, Rodrigo Costa, Aldri Santos,, Torsten Braun, Eduardo Cerqueira",
+                "autores": "Denis Rosário, Rodrigo Costa, Aldri Santos, Torsten Braun, Eduardo Cerqueira",
                 "ordem": "1,2|1|3|2|1",
-                "universidade": "Federal University of Pará (UFPA), Belém - PA - Brazil |Institute of Computer Science and Applied Mathematics, University of Bern, Bern - Switzerland |Federal University of Paraná (UFPR), Curitiba - PR - Brazil",
+                "universidade": "Federal University of Pará (UFPA), Belém - PA - Brazil|Institute of Computer Science and Applied Mathematics, University of Bern, Bern - Switzerland|Federal University of Paraná (UFPR), Curitiba - PR - Brazil",
                 "lingua": "En",
                 "num_paginas": 14,
                 "paginas": [
@@ -65,7 +65,7 @@
             },
             {
                 "titulo": "Explorando o processamento paralelo na classificação de tráfego em redes de alta velocidade",
-                "autores": "Alysson F. Santos, Petrônio G. L. Júnior, Stenio F. L. Fernandes, Djamel F. H. , Sadok",
+                "autores": "Alysson F. Santos, Petrônio G. L. Júnior, Stenio F. L. Fernandes, Djamel F. H., Sadok",
                 "ordem": "",
                 "universidade": "Centro de Informática - Universidade de Federal de Pernambuco (UFPE) Recife - PE - Brasil",
                 "lingua": "Pt",
@@ -122,9 +122,9 @@
             },
             {
                 "titulo": "Tolerância a Faltas Bizantinas usando Registradores Compartilhados Distribuídos",
-                "autores": "Marcelo Ribeiro Xavier Silva, Lau Cheuk Lung, Aldelir Fernando Luiz,, Leandro Quibem Magnabosco",
+                "autores": "Marcelo Ribeiro Xavier Silva, Lau Cheuk Lung, Aldelir Fernando Luiz, Leandro Quibem Magnabosco",
                 "ordem": "1|1|2,3|1",
-                "universidade": "Departamento de Informática e Estatística - Universidade Federal de Santa Catarina - Brasil |Câmpus Avançado de Blumenau - Instituto Federal Catarinense - Brasil |Departamento de Automação e Sistemas - Universidade Federal de Santa Catarina - Brasil",
+                "universidade": "Departamento de Informática e Estatística - Universidade Federal de Santa Catarina - Brasil|Câmpus Avançado de Blumenau - Instituto Federal Catarinense - Brasil|Departamento de Automação e Sistemas - Universidade Federal de Santa Catarina - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -162,7 +162,7 @@
                 "titulo": "Um novo Algoritmo de Roteamento para a Escolha da Melhor Entre as Menores Rotas",
                 "autores": "Iallen Gábio S. Santos, Gilvan Durães, William Giozza, André Soares",
                 "ordem": "1|2|3|1",
-                "universidade": "Departamento de Computação - Universidade Federal do Piauí (UFPI) Teresina - PI - Brasil |Laboratório de Computação Aplicada -Instituto Federal Baiano (IFBaiano) Catu, BA - Brasil |Departamento de Engenharia Elétrica (ENE) - Universidade de Brasília (UnB) Brasília - DF - Brasil.",
+                "universidade": "Departamento de Computação - Universidade Federal do Piauí (UFPI) Teresina - PI - Brasil|Laboratório de Computação Aplicada -Instituto Federal Baiano (IFBaiano) Catu, BA - Brasil|Departamento de Engenharia Elétrica (ENE) - Universidade de Brasília (UnB) Brasília - DF - Brasil.",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -200,7 +200,7 @@
                 "titulo": "RemapRoute: Reduzindo o custo do remapeamento de mudanças de roteamento na Internet",
                 "autores": "Ítalo Cunha, Renata Teixeira, Darryl Veitch, Christophe Diot",
                 "ordem": "1|2|3|4",
-                "universidade": "Departamento de Ciência da Computação, Universidade Federal de Minas Gerais |UPMC Sorbonne Universités & conseil Nationale de la Recherche Cientiﬁque |Department of Electrical and Electronic Engineering, University of Melbourne |Technicolor",
+                "universidade": "Departamento de Ciência da Computação, Universidade Federal de Minas Gerais|UPMC Sorbonne Universités & conseil Nationale de la Recherche Cientiﬁque|Department of Electrical and Electronic Engineering, University of Melbourne|Technicolor",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -217,9 +217,9 @@
             },
             {
                 "titulo": "Localização 3D em Redes de Sensores Sem Fio Utilizando Veículo Aéreo não Tripulado",
-                "autores": "Leandro A. Villas, Daniel L. Guidoni, Azzedine Boukerche,, Antonio A. F. Loureiro, e Jo Ueyama",
+                "autores": "Leandro A. Villas, Daniel L. Guidoni, Azzedine Boukerche, Antonio A. F. Loureiro, e Jo Ueyama",
                 "ordem": "1,5|2|3|4|5",
-                "universidade": "Instituto de Computação - UNICAMP |Departamento de Ciência da Computação - UFSJ |PARADISE Research Laboratory - University of Ottawa |Departamento de Ciência da Computação - UFMG |Instituto de Ciências Matemáticas e de Computação - USP",
+                "universidade": "Instituto de Computação - UNICAMP|Departamento de Ciência da Computação - UFSJ|PARADISE Research Laboratory - University of Ottawa|Departamento de Ciência da Computação - UFMG|Instituto de Ciências Matemáticas e de Computação - USP",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -237,8 +237,8 @@
             {
                 "titulo": "Sistemas de Monitoramento Passivo para RSSF - Soluções Existentes e uma Nova Proposta Energeticamente Eficiente",
                 "autores": "Fernando P. Garcia, José Neuman de Souza, Rossana M. C. Andrade",
-                "ordem": "123",
-                "universidade": "1,2,3 1,2,a 1,2,b Universidade Federal do Ceará (UFC) Mestrado e Doutorado em Ciência da Computação (MDCC) Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat) Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)",
+                "ordem": "1,2,3|1,2,a|1,2,b",
+                "universidade": "Universidade Federal do Ceará (UFC) |Mestrado e Doutorado em Ciência da Computação (MDCC) |Grupo de Redes de Computadores, Engenharia de Software e Sistemas (GREat) |Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -276,7 +276,7 @@
                 "titulo": "Mecanismo Conjunto de Atribuição de Canais e Roteamento para Redes em Malha Sem Fio de Múltiplos Rádios",
                 "autores": "Celso Barbosa Carvalho, José Ferreira de Rezende",
                 "ordem": "1|2",
-                "universidade": "GPComp - ICET - Universidade Federal do Amazonas (UFAM) |COPPE - Universidade Federal do Rio de Janeiro (UFRJ)",
+                "universidade": "GPComp - ICET - Universidade Federal do Amazonas (UFAM)|COPPE - Universidade Federal do Rio de Janeiro (UFRJ)",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -352,7 +352,7 @@
                 "titulo": "Análise e Contra-Ataque à Poluição e Whitewashing em Sistemas P2P de Vídeo ao Vivo.",
                 "autores": "Rafael B. de Almeida, José Augusto M. Nacif, Ana Paula C. da Silva, Alex B. Vieira",
                 "ordem": "1|2|3|1",
-                "universidade": "DCC Universidade Federal de Juiz de Fora - Juiz de Fora - MG |Universidade Federal de Viçosa - MG |Universidade Federal de Minas Gerais - MG",
+                "universidade": "DCC Universidade Federal de Juiz de Fora - Juiz de Fora - MG|Universidade Federal de Viçosa - MG|Universidade Federal de Minas Gerais - MG",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -445,9 +445,9 @@
             },
             {
                 "titulo": "Algoritmo Adaptativo Baseado em Energia-Conectividade para Roteamento em Redes de Sensores sem Fio Subaquáticas",
-                "autores": "Eduardo Chinelate Costa, Leonardo Chinelate Costa,, Luciano Jerez Chaves, Alex Borges Vieira, Ana Paula Couto da Silva",
+                "autores": "Eduardo Chinelate Costa, Leonardo Chinelate Costa, Luciano Jerez Chaves, Alex Borges Vieira, Ana Paula Couto da Silva",
                 "ordem": "1|1|2|1|3",
-                "universidade": "|Departamento de Ciência da Computação Universidade Federal de Juiz de Fora - Juiz de Fora - MG |Instituto de Computação Universidade Estadual de Campinas - Campinas - SP |Departamento de Ciência da Computação Universidade Federal de Minas Gerais - Belo Horizonte - MG",
+                "universidade": "|Departamento de Ciência da Computação Universidade Federal de Juiz de Fora - Juiz de Fora - MG|Instituto de Computação Universidade Estadual de Campinas - Campinas - SP|Departamento de Ciência da Computação Universidade Federal de Minas Gerais - Belo Horizonte - MG",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -465,8 +465,8 @@
             {
                 "titulo": "Controle energeticamente eficiente de múltiplos saltos para Redes de Sensores sem Fio heterogêneas utilizando Lógica Fuzzy",
                 "autores": "Alexandre M. Silva, Christiano Maciel",
-                "ordem": "1|22",
-                "universidade": "1 Instituto de Ciências da Computação - PPGCC - Universidade Federal do Pará (UFPA) Caixa Postal 479 - 66.075-110 - Belém - PA - Brasil Instituto de Engenharia Elétrica - PPGEE - Universidade Federal do Pará (UFPA) Belém, PA - Brasil.",
+                "ordem": "1|2",
+                "universidade": "Instituto de Ciências da Computação - PPGCC - Universidade Federal do Pará (UFPA) Caixa Postal 479 - 66.075-110 - Belém - PA - Brasil |Instituto de Engenharia Elétrica - PPGEE - Universidade Federal do Pará (UFPA) Belém, PA - Brasil.",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -521,9 +521,9 @@
             },
             {
                 "titulo": "Padrões de Mobilidade de Vizinhança em Redes de Contato Intermitente",
-                "autores": "Tiphaine Phe-Neau, Miguel Elias M. Campista,, Marcelo Dias de Amorim, e Vania Conan",
+                "autores": "Tiphaine Phe-Neau, Miguel Elias M. Campista, Marcelo Dias de Amorim, e Vania Conan",
                 "ordem": "1|1,2|1|3",
-                "universidade": "UPMC Sorbonne Universités, Paris - França | Universidade Federal do Rio de Janeiro, RJ - Brasil | Thales Communications, Paris - França",
+                "universidade": "UPMC Sorbonne Universités, Paris - França| Universidade Federal do Rio de Janeiro, RJ - Brasil| Thales Communications, Paris - França",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -579,8 +579,8 @@
             {
                 "titulo": "Uma Nova Estratégia Completamente Distribuída para Combate à Poluição de Conteúdo em Transmissões ao Vivo",
                 "autores": "Roverli P. Ziwich, Glaucio P. Silveira, Elias P. Duarte Jr.",
-                "ordem": "1|2|112",
-                "universidade": "Universidade Federal do Paraná (UFPR), Curitiba, PR, Brasil Dept. de Informática, P.O.Box 19018, CEP 81531-980 Centro de Computação Eletrònica, P.O.Box 19037, CEP 81531-980",
+                "ordem": "1|2|1",
+                "universidade": "Universidade Federal do Paraná (UFPR), Curitiba, PR, Brasil|Dept. de Informática, P.O.Box 19018, CEP 81531-980|Centro de Computação Eletrònica, P.O.Box 19037, CEP 81531-980",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -597,7 +597,7 @@
             },
             {
                 "titulo": "Uma Fotograﬁa do Instagram: Caracterização e Aplicação",
-                "autores": "Thiago H. Silva, Pedro O. S. Vaz de Melo, Jussara M. Almeida,, Antonio A. F. Loureiro",
+                "autores": "Thiago H. Silva, Pedro O. S. Vaz de Melo, Jussara M. Almeida, Antonio A. F. Loureiro",
                 "ordem": "1|1|1|1",
                 "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais (UFMG) 31270-010 Belo Horizonte, MG - Brasil",
                 "lingua": "Pt",
@@ -618,7 +618,7 @@
                 "titulo": "Seleção de paradigmas em redes ópticas híbridas integradas",
                 "autores": "Lucas P. Melo, Messias Bittencourt, Gustavo B. Figueiredo, Tertuliano Franco",
                 "ordem": "1|1|1|2",
-                "universidade": "Departamento de Ciência Computação - Universidade Federal da Bahia (UFBA) |Departamento de Matemática - Universidade Federal da Bahia (UFBA)",
+                "universidade": "Departamento de Ciência Computação - Universidade Federal da Bahia (UFBA)|Departamento de Matemática - Universidade Federal da Bahia (UFBA)",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -637,7 +637,7 @@
                 "titulo": "Heurísticas para Roteamento com Agregação de Tráfego em Redes Opticas Multi-domínio",
                 "autores": "´, Rangel Oliveira, Fernanda Sumika Hojo de Souza, Geraldo Robson Mateus",
                 "ordem": "1|2|1",
-                "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais Av. Antònio Carlos, 6627 - Pampulha - 31270-010 Belo Horizonte - Minas Gerais - Brasil |Departamento de Ciência da Computação Universidade Federal de São João del-Rei Av. Visconde do Rio Preto, s/n - Colònia do Bengo - 36301-360 São João del-Rei - Minas Gerais - Brazil",
+                "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais Av. Antònio Carlos, 6627 - Pampulha - 31270-010 Belo Horizonte - Minas Gerais - Brasil|Departamento de Ciência da Computação Universidade Federal de São João del-Rei Av. Visconde do Rio Preto, s/n - Colònia do Bengo - 36301-360 São João del-Rei - Minas Gerais - Brazil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -656,7 +656,7 @@
                 "titulo": "Proteção Parcial para Demandas de Alta Capacidade em Redes WDM Utilizando Mecanismo de Bloqueio Preventivo",
                 "autores": "Paulo J. S. Júnior, André C. Drummond",
                 "ordem": "1|2",
-                "universidade": "Departamento de Engenharia Elétrica Faculdade de Tecnologia Universidade de Brasília |Departamento de Ciência da Computação Instituto de Ciências Exatas Universidade de Brasília |",
+                "universidade": "Departamento de Engenharia Elétrica Faculdade de Tecnologia Universidade de Brasília|Departamento de Ciência da Computação Instituto de Ciências Exatas Universidade de Brasília||",
                 "lingua": "Pt",
                 "num_paginas": 13,
                 "paginas": [
@@ -673,9 +673,9 @@
             },
             {
                 "titulo": "Adaptação do Algoritmo BSR para Redes Ópticas SLICE",
-                "autores": "Alex F. Santos, Raul C. Almeida Jr, Karcius D. R. Assis, Gilvan M. Durães, , André Soares, e William F. Giozza",
-                "ordem": "1|2| 1|1|3|4234",
-                "universidade": "1 Universidade Federal da Bahia (UFBA) Universidade Federal de Pernambuco (UFPE) Universidade Federal do Piauí (UFPI) Universidade de Brasília (UnB)",
+                "autores": "Alex F. Santos, Raul C. Almeida Jr, Karcius D. R. Assis, Gilvan M. Durães, André Soares, e William F. Giozza",
+                "ordem": "1|2| 1|1|3|4",
+                "universidade": "Universidade Federal da Bahia (UFBA) |Universidade Federal de Pernambuco (UFPE) |Universidade Federal do Piauí (UFPI) |Universidade de Brasília (UnB)",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -692,9 +692,9 @@
             },
             {
                 "titulo": "Agrupamento Dinâmico de Sensores Baseado na Similaridade de Leitura de Dados",
-                "autores": "",
-                "ordem": "1",
-                "universidade": "|",
+                "autores": "Fernando Henrique Gielow, Aldri L. dos Santos",
+                "ordem": "1|1",
+                "universidade": "NR2 - Departamento de Informática - Universidade Federal do Paraná Caixa Postal 19.081 - 81.531-980 - Curitiba - PR - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -711,9 +711,9 @@
             },
             {
                 "titulo": "Roteamento e Agregação de Dados Usando Sinks em Alta Velocidade em Redes de Sensores Sem Fio",
-                "autores": "Leandro N. Balico, Horácio A.B.F. Oliveira, Eduardo F. Nakamura,, Raimundo S. Barreto, e Antonio A.F. Loureiro",
+                "autores": "Leandro N. Balico, Horácio A.B.F. Oliveira, Eduardo F. Nakamura, Raimundo S. Barreto, e Antonio A.F. Loureiro",
                 "ordem": "1|1|12|1|3",
-                "universidade": "Instituto de Computação - Universidade Federal do Amazonas |Centro de Analise, Pesquisa e Inovação Tecnológica - FUCAPI Manaus - AM - Brasil |Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Belo Horizonte - MG - Brasil |",
+                "universidade": "Instituto de Computação - Universidade Federal do Amazonas|Centro de Analise, Pesquisa e Inovação Tecnológica - FUCAPI Manaus - AM - Brasil|Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Belo Horizonte - MG - Brasil||",
                 "lingua": "Pt",
                 "num_paginas": 13,
                 "paginas": [
@@ -730,7 +730,7 @@
             },
             {
                 "titulo": "Roteamento e Agregação de Dados baseado no RSSI em Redes de Sensores Sem Fio",
-                "autores": "Moysés M. Lima, Horácio A. B. F. de Oliveira, Eduardo F. Nakamura, e, Antònio A. F. Loureiro",
+                "autores": "Moysés M. Lima",
                 "ordem": "",
                 "universidade": "1 2 1 1 3 4 1 Instituto de Computação - Universidade Federal do Amazonas 2 Coordenação de Tecnologia da Informação - Instituto Nacional de Pesquisas da Amazònia 3 Centro de Análise, Pesquisa e Inovação Tecnológica - FUCAPI Manaus - Amazonas - Brasil 4 Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Belo Horizonte - Minas Gerais - Brasil",
                 "lingua": "Pt",
@@ -751,7 +751,7 @@
                 "titulo": "Planejamento de Capacidade a Longo Prazo Dirigido por Métricas de Negócio para Aplicações SaaS",
                 "autores": "David Candeia, Raquel Lopes, Ricardo Araújo Santos",
                 "ordem": "1|2|2",
-                "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campina Grande - PB - Brasil |Universidade Federal de Campina Grande Laboratório de Sistemas Distribuídos (LSD) - Campina Grande - PB - Brasil",
+                "universidade": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba Campina Grande - PB - Brasil|Universidade Federal de Campina Grande Laboratório de Sistemas Distribuídos (LSD) - Campina Grande - PB - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -768,9 +768,9 @@
             },
             {
                 "titulo": "Um Arcabouço Para Provisionamento Automático de Recursos em Provedores de IaaS Independente do Tipo de Aplicação",
-                "autores": "Fábio Morais, Francisco Brasileiro, Raquel Lopes, Ricardo Araújo,, Augusto Macedo, Wade Satterﬁeld, Leandro Rosa",
+                "autores": "Fábio Morais, Francisco Brasileiro, Raquel Lopes, Ricardo Araújo, Augusto Macedo, Wade Satterﬁeld, Leandro Rosa",
                 "ordem": "1|1|1|1|1|2|3",
-                "universidade": "Universidade Federal de Campina Grande Laboratório de Sistemas Distribuídos, Campina Grande - Brasil |Hewlett-Packard - ESSN - Fort Collins, Colorado Area - USA |Hewlett-Packard - ESSN - Brazil Lab, Porto Alegre - Brasil",
+                "universidade": "Universidade Federal de Campina Grande Laboratório de Sistemas Distribuídos, Campina Grande - Brasil|Hewlett-Packard - ESSN - Fort Collins, Colorado Area - USA|Hewlett-Packard - ESSN - Brazil Lab, Porto Alegre - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -787,7 +787,7 @@
             },
             {
                 "titulo": "Diagnóstico do Provisionamento de Recursos para Máquinas Virtuais em Nuvens IaaS",
-                "autores": "Ricardo J. Pﬁtscher, Maurício A. Pillon, Rafael R. Obelheiro",
+                "autores": "Ricardo J. Pﬁtscher",
                 "ordem": "",
                 "universidade": "1 1 1 1 PPGCA - Programa de Pós-Graduação em Computação Aplicada - Universidade do Estado de Santa Catarina (UDESC/Joinville)",
                 "lingua": "Pt",
@@ -808,7 +808,7 @@
                 "titulo": "Um Middleware para Provisionamento de Contextos para Redes Veiculares",
                 "autores": "Fabrício A. Silva, Thais Regina M. B. Silva, Linnyer B. Ruiz, e Antonio A. F. Loureiro",
                 "ordem": "1,2|2|3|1",
-                "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais (UFMG) |Campus Florestal - Universidade Federal de Viçosa (UFV) |Departamento de Informática - Universidade Estadual de Maringá (UEM)",
+                "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais (UFMG)|Campus Florestal - Universidade Federal de Viçosa (UFV)|Departamento de Informática - Universidade Estadual de Maringá (UEM)",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -863,7 +863,7 @@
             },
             {
                 "titulo": "Uma Solução para Gerenciamento de Dispositivos de Rádio Cognitivo Baseada na MIB IEEE 802.22",
-                "autores": "Lucas Bondan, Maicon Kist, Rafael Kunst,, Cristiano B. Both, Juergen Rochol, Lisandro Z. Granville",
+                "autores": "Lucas Bondan, Maicon Kist, Rafael Kunst, Cristiano B. Both, Juergen Rochol, Lisandro Z. Granville",
                 "ordem": "1|1|1|1|1|1",
                 "universidade": "Instituto de Informática - Universidade Federal do Rio Grande do Sul (UFRGS) Av. Bento Gonçalves, 9500 - Porto Alegre, RS - Brasil",
                 "lingua": "Pt",
@@ -882,9 +882,9 @@
             },
             {
                 "titulo": "Redes de Rádios Cognitivos Utilizando Sequências de Saltos de Canais Baseadas em Papéis",
-                "autores": "Raphael Melo Guedes, Marcel William Rocha da Silva,, Pedro Smith Coutinho, José Ferreira de Rezende",
+                "autores": "Raphael Melo Guedes, Marcel William Rocha da Silva, Pedro Smith Coutinho, José Ferreira de Rezende",
                 "ordem": "1|2|1|1",
-                "universidade": "COPPE - Universidade Federal do Rio de Janeiro (UFRJ) |DTL - IM - Universidade Federal Rural do Rio de Janeiro (UFRRJ)",
+                "universidade": "COPPE - Universidade Federal do Rio de Janeiro (UFRJ)|DTL - IM - Universidade Federal Rural do Rio de Janeiro (UFRRJ)",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -901,9 +901,9 @@
             },
             {
                 "titulo": "Uma avaliação do uso de mecanismos de custódia compartilhada em redes tolerantes a atrasos e desconexões",
-                "autores": "Ely S. Miranda, Juliano F. Naves, Igor M. Moraes, Pedro B. Velloso",
-                "ordem": "1|",
-                "universidade": "|||||||Instituto Federal do Piauí |Instituto Federal de Rondônia |Instituto de Computação-PGC Universidade Federal Fluminense",
+                "autores": "Ely S. Miranda",
+                "ordem": "1",
+                "universidade": "|||||||Instituto Federal do Piauí|Instituto Federal de Rondônia|Instituto de Computação-PGC Universidade Federal Fluminense",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -958,9 +958,9 @@
             },
             {
                 "titulo": "Redes Orientadas a Conteúdo: Abordagem no Nível de Enlace",
-                "autores": "Lisiane Maria Bannwart Ambiel, Christian Esteve Rothenberg,, Maurício Ferreira Magalhães",
+                "autores": "Lisiane Maria Bannwart Ambiel, Christian Esteve Rothenberg, Maurício Ferreira Magalhães",
                 "ordem": "1|2|1",
-                "universidade": "Faculdade de Engenharia Elétrica e Computação (FEEC) Universidade Estadual de Campinas (UNICAMP) Campinas, São Paulo, Brasil |Fundação CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunicações Campinas, São Paulo, Brasil",
+                "universidade": "Faculdade de Engenharia Elétrica e Computação (FEEC) Universidade Estadual de Campinas (UNICAMP) Campinas, São Paulo, Brasil|Fundação CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunicações Campinas, São Paulo, Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -996,9 +996,9 @@
             },
             {
                 "titulo": "IoNCloud: uma abordagem não entrópica orientada a tráfego para reserva e isolamento de recursos em nuvens",
-                "autores": "Miguel C Neves, Daniel S Marcon, Rodrigo R Oliveira,, Leonardo R Bays, Luciano P Gaspary, Marinho P Barcellos",
+                "autores": "Miguel C Neves, Daniel S Marcon, Rodrigo R Oliveira, Leonardo R Bays, Luciano P Gaspary, Marinho P Barcellos",
                 "ordem": "1|1|1|1|1|1",
-                "universidade": "Universidade Federal do Rio Grande do Sul (UFRGS) Instituto de Informática |",
+                "universidade": "Universidade Federal do Rio Grande do Sul (UFRGS) Instituto de Informática||",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1015,9 +1015,9 @@
             },
             {
                 "titulo": "Avaliando o Aprisionamento entre Várias Plataformas de Computação em Nuvem",
-                "autores": "Arthur E. C. da Silva Souza, José A. Medeiros de Lima, Renato Gondim, , Thomás Diniz, Nélio Cacho, Frederico Lopes, Thais Batista",
+                "autores": "Arthur E. C. da Silva Souza, José A. Medeiros de Lima, Renato Gondim, Thomás Diniz, Nélio Cacho, Frederico Lopes, Thais Batista",
                 "ordem": "1|1|1|2|1|2|1",
-                "universidade": "1 Departamento de Informática e Matemática Aplicada - Universidade Federal do Rio Grande do Norte (UFRN) Natal - RN - Brasil",
+                "universidade": "Departamento de Informática e Matemática Aplicada - Universidade Federal do Rio Grande do Norte (UFRN) Natal - RN - Brasil |Escola de Ciências e Tecnologia - Universidade Federal do Rio Grande do Norte (UFRN) Natal - RN - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1036,7 +1036,7 @@
                 "titulo": "Detecção de Alertas de Segurança em Redes de Computadores Usando Redes Sociais",
                 "autores": "Luiz Arthur F. Santos, Rodrigo Campiolo, Marco A. Gerosa, Daniel M. Batista",
                 "ordem": "1,2|1,2|2|2",
-                "universidade": "Universidade Tecnológica Federal do Paraná (UTFPR) Campo Mourão - PR - Brasil |Departamento de Ciência da Computação - Universidade de São Paulo (USP) São Paulo - SP - Brasil",
+                "universidade": "Universidade Tecnológica Federal do Paraná (UTFPR) Campo Mourão - PR - Brasil|Departamento de Ciência da Computação - Universidade de São Paulo (USP) São Paulo - SP - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1054,8 +1054,8 @@
             {
                 "titulo": "Gerenciamento de Identidades Tolerante a Intrusões",
                 "autores": "Luciano Barreto, Frank Siqueira, Joni da Silva Fraga, Eduardo Feitosa",
-                "ordem": "1|1|1|2 2",
-                "universidade": "1 Universidade Federal de Santa Catarina Caixa Postal 476 - 88040-900 - Florianópolis - Santa Catarina - Brasil Instituto de Computação - Universidade Federal do Amazonas",
+                "ordem": "1|1|1|2",
+                "universidade": "Universidade Federal de Santa Catarina Caixa Postal 476 - 88040-900 - Florianópolis - Santa Catarina - Brasil |Instituto de Computação - Universidade Federal do Amazonas",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1072,9 +1072,9 @@
             },
             {
                 "titulo": "Análise do tráfego de spam coletado ao redor do mundo",
-                "autores": "",
-                "ordem": "1",
-                "universidade": "|||||||||",
+                "autores": "Pedro Henrique B. Las-Casas, Dorgival Guedes, Wagner Meira Jr., Cristine Hoepers, Klaus Steding-Jessen, Marcelo H. P. Chaves, Osvaldo Fonseca, Elverton Fazzion, Rubens E. A. Moreira",
+                "ordem": "1|1|1|2|2|2|1|1|1",
+                "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais|CERT.br - Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança NIC.br - Núcleo de Informação e Coordenação do Ponto BR",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1091,9 +1091,9 @@
             },
             {
                 "titulo": "Certificados Sociais para Segurança em Redes Veiculares Tolerantes a Interrupções",
-                "autores": "Thiago R. Oliveira, Sérgio de Oliveira, Daniel F. Macedo, José Marcos S. , Nogueira",
-                "ordem": "1,2|2|1|12",
-                "universidade": "1 Departamento de Ciência da Computação, Universidade Federal de Minas Gerais Av. Antônio Carlos, 6627, Pampulha - Belo Horizonte, MG - Brasil  Universidade Federal de São João Del Rei Campus Alto Paraopeba - Ouro Branco, MG - Brasil",
+                "autores": "Thiago R. Oliveira, Sérgio de Oliveira, Daniel F. Macedo, José Marcos S., Nogueira",
+                "ordem": "1,2|2|1|1",
+                "universidade": "Departamento de Ciência da Computação, Universidade Federal de Minas Gerais Av. Antônio Carlos, 6627, Pampulha - Belo Horizonte, MG - Brasil | Universidade Federal de São João Del Rei Campus Alto Paraopeba - Ouro Branco, MG - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1129,9 +1129,9 @@
             },
             {
                 "titulo": "Sistema para Monitoramento Descentralizado de Trânsito Baseado em Redes Veiculares Infraestruturadas",
-                "autores": "José Geraldo Ribeiro Júnior, Igor M. Quintanilha, Miguel Elias M. Campista,, Luís Henrique M. K. Costa",
+                "autores": "José Geraldo Ribeiro Júnior, Igor M. Quintanilha, Miguel Elias M. Campista, Luís Henrique M. K. Costa",
                 "ordem": "1,2|1|1|1",
-                "universidade": "Grupo de Teleinformática e Automação - Universidade Federal do Rio de Janeiro (UFRJ) Rio de Janeiro - RJ - Brasil |Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG Leopoldina - MG - Brasil",
+                "universidade": "Grupo de Teleinformática e Automação - Universidade Federal do Rio de Janeiro (UFRJ) Rio de Janeiro - RJ - Brasil|Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG Leopoldina - MG - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1148,9 +1148,9 @@
             },
             {
                 "titulo": "Building upon RouteFlow: a SDN development experience",
-                "autores": "Allan Vidal, Fábio Verdi, Eder Leão Fernandes,, Christian Esteve Rothenberg, Marcos Rogério Salvador,",
-                "ordem": "12|2|1|1|1|12",
-                "universidade": "Fundação CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunicações Campinas - SP - Brazil Universidade Federal de São Carlos (UFSCar) Sorocaba - SP - Brazil",
+                "autores": "Allan Vidal, Fábio Verdi, Eder Leão Fernandes, Christian Esteve Rothenberg, Marcos Rogério Salvador",
+                "ordem": "12|2|1|1|1|1",
+                "universidade": "Fundação CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunicações Campinas - SP - Brazil|Universidade Federal de São Carlos (UFSCar) Sorocaba - SP - Brazil",
                 "lingua": "En",
                 "num_paginas": 14,
                 "paginas": [
@@ -1167,7 +1167,7 @@
             },
             {
                 "titulo": "Uma Arquitetura para o Aprovisionamento de QoS Interdomínios em Redes Virtuais baseadas no OpenFlow",
-                "autores": "Diego dos Passos Silva, Allan Borges Pontes, Edson Adriano Maravalho Avelar, , Kelvin Lopes Dias.",
+                "autores": "Diego dos Passos Silva, Allan Borges Pontes, Edson Adriano Maravalho Avelar, Kelvin Lopes Dias.",
                 "ordem": "",
                 "universidade": "Centro de Informática - Universidade Federal de Pernambuco (UFPE) CEP: 50740-540 - Recife - PE - Brasil",
                 "lingua": "Pt",
@@ -1205,9 +1205,9 @@
             },
             {
                 "titulo": "KeyFlow: Comutação por Chaves Locais de Fluxos Roteados na Borda via Identiﬁcadores Globais",
-                "autores": "Rafael Emerick Zape de Oliveira, Ròmulo Vitoi,, Magnos Martinello, Moisés Renato Nunes Ribeiro",
+                "autores": "Rafael Emerick Zape de Oliveira, Ròmulo Vitoi, Magnos Martinello, Moisés Renato Nunes Ribeiro",
                 "ordem": "1|2|2|1",
-                "universidade": "Laboratório de Telecomunicações (LabTel) - Depto. de Engenharia Elétrica |Laboratório de Pesquisa em Redes e Multimídia (LPRM) - Depto. de Informática Universidade Federal do Espírito Santo (UFES) CEP 29075-910 - Vitória - ES - Brasil",
+                "universidade": "Laboratório de Telecomunicações (LabTel) - Depto. de Engenharia Elétrica|Laboratório de Pesquisa em Redes e Multimídia (LPRM) - Depto. de Informática Universidade Federal do Espírito Santo (UFES) CEP 29075-910 - Vitória - ES - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1243,9 +1243,9 @@
             },
             {
                 "titulo": "Sobre o Uso de Dispositivos de Alta Granularidade, Alta Volatilidade e Alta Dispersão em Just in Time Clouds",
-                "autores": "",
-                "ordem": "1 2",
-                "universidade": "|||| Universidade Federal de Campina Grande - Departamento de Sistemas e Computação Av. Aprígio Veloso, s/n, Bodocongó 58.429-900 - Campina Grande, PB - Brasil",
+                "autores": "Rostand Costa, Diénert Vieira, Francisco Brasileiro, Dênio Mariz, Guido Lemos",
+                "ordem": "1 2|2|1|2|2",
+                "universidade": "Universidade Federal de Campina Grande - Departamento de Sistemas e Computação Av. Aprígio Veloso, s/n, Bodocongó 58.429-900 - Campina Grande, PB - Brasil|Universidade Federal da Paraíba - Departamento de Informática Laboratório de Aplicações de Vídeo Digital 58.050-900, João Pessoa, PB",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1264,7 +1264,7 @@
                 "titulo": "Replicação de Máquina de Estados Tolerante a Faltas Bizantinas usando Máquinas Virtuais Gêmeas",
                 "autores": "Fernando Dettoni, Lau Cheuk Lung, Miguel Correia, Aldelir Fernando Luiz",
                 "ordem": "1|1,4|2|3,4",
-                "universidade": "Departamento de Informática e Estatística - Universidade Federal de Santa Catarina - Brasil |Instituto Superior Técnico - Universidade Técnica de Lisboa / INESC-ID - Portugal |Câmpus Avançado de Blumenau - Instituto Federal Catarinense - Brasil |Departamento de Automação e Sistemas - Universidade Federal de Santa Catarina - Brasil",
+                "universidade": "Departamento de Informática e Estatística - Universidade Federal de Santa Catarina - Brasil|Instituto Superior Técnico - Universidade Técnica de Lisboa / INESC-ID - Portugal|Câmpus Avançado de Blumenau - Instituto Federal Catarinense - Brasil|Departamento de Automação e Sistemas - Universidade Federal de Santa Catarina - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1283,7 +1283,7 @@
                 "titulo": "Processamento Justo de Transações em Bancos de Dados Tolerantes a Faltas Bizantinas",
                 "autores": "Aldelir Fernando Luiz, Lau Cheuk Lung, Miguel Correia",
                 "ordem": "1,2|2,3|4",
-                "universidade": "Câmpus Avançado de Blumenau - Instituto Federal Catarinense - Brasil |Departamento de Automação e Sistemas - Universidade Federal de Santa Catarina - Brasil |Departamento de Informática e Estatística - Universidade Federal de Santa Catarina - Brasil |Instituto Superior Técnico - Universidade Técnica de Lisboa / INESC-ID - Portugal",
+                "universidade": "Câmpus Avançado de Blumenau - Instituto Federal Catarinense - Brasil|Departamento de Automação e Sistemas - Universidade Federal de Santa Catarina - Brasil|Departamento de Informática e Estatística - Universidade Federal de Santa Catarina - Brasil|Instituto Superior Técnico - Universidade Técnica de Lisboa / INESC-ID - Portugal",
                 "lingua": "Pt",
                 "num_paginas": 14,
                 "paginas": [
@@ -1302,7 +1302,7 @@
                 "titulo": "Model Checking the Deferred Update Replication Protocol",
                 "autores": "Odorico Machado Mendizabal, Fernando Luís Dotti",
                 "ordem": "1,2|2",
-                "universidade": "Universidade Federal do Rio Grande - FURG Rio Grande - RS - Brazil |Pontifícia Universidade Católica do Rio Grande do Sul Porto Alegre - RS - Brazil",
+                "universidade": "Universidade Federal do Rio Grande - FURG Rio Grande - RS - Brazil|Pontifícia Universidade Católica do Rio Grande do Sul Porto Alegre - RS - Brazil",
                 "lingua": "En",
                 "num_paginas": 14,
                 "paginas": [
@@ -1319,7 +1319,7 @@
             },
             {
                 "titulo": "Processamento Distribuído de Operações de Junção Espacial com Bases de Dados Dinâmicas para Análise de Informações Geográﬁcas",
-                "autores": "Sávio S. T. de Oliveira, Vagner J. do Sacramento Rodrigues,, Anderson R. Cunha, Everton L. Aleixo, Thiago B. de Oliveira,, Marcelo de C. Cardoso, Roberto R. Junior",
+                "autores": "Sávio S. T. de Oliveira, Vagner J. do Sacramento Rodrigues, Anderson R. Cunha, Everton L. Aleixo, Thiago B. de Oliveira, Marcelo de C. Cardoso, Roberto R. Junior",
                 "ordem": "1|1|1|1|1|1|1",
                 "universidade": "Instituto de Informática - Universidade Federal de Goiás (UFG) Bloco IMF I, Campus II - Samambaia - Goiânia - GO - Brasil",
                 "lingua": "Pt",
@@ -1340,7 +1340,7 @@
                 "titulo": "Um novo Algoritmo Geográﬁco Ciente de Partições na Rede para Disseminação de Dados em Redes Veiculares",
                 "autores": "Leandro A. Villas, Azzedine Boukerche, Antonio A. F. Loureiro, e Jo Ueyama",
                 "ordem": "1,4|2|3|4",
-                "universidade": "Instituto de Computação - UNICAMP |PARADISE Research Laboratory - University of Ottawa |Departamento de Ciência da Computação - UFMG |Instituto de Ciências Matemáticas e de Computação - USP",
+                "universidade": "Instituto de Computação - UNICAMP|PARADISE Research Laboratory - University of Ottawa|Departamento de Ciência da Computação - UFMG|Instituto de Ciências Matemáticas e de Computação - USP",
                 "lingua": "Pt",
                 "num_paginas": 13,
                 "paginas": [
@@ -1395,7 +1395,7 @@
             },
             {
                 "titulo": "extMobilisTTS: Uma Arquitetura de Aplicação Móvel para Suporte a Fóruns usando Text-to-Speech em Ambientes Virtuais de Aprendizagem",
-                "autores": "Wellington W. F. Sarmento, Gabriel A. L. Paillard, Wedson de S. Lima,, Katryne F. Rabelo, Andrei B. B. Torres, Humberto O. O. Gomes,, Paulo M. B. Costa, Mauro C. Pequeno",
+                "autores": "Wellington W. F. Sarmento, Gabriel A. L. Paillard, Wedson de S. Lima, Katryne F. Rabelo, Andrei B. B. Torres, Humberto O. O. Gomes, Paulo M. B. Costa, Mauro C. Pequeno",
                 "ordem": "1|1|1|1|1|1|1|1",
                 "universidade": "Instituto Universidade Virtual - Universidade Federal do Ceará (UFC) CEP 60440-554 - Fortaleza - CE - Brazil",
                 "lingua": "Pt",
@@ -1433,7 +1433,7 @@
             },
             {
                 "titulo": "Desenvolvendo Aplicações de Rastreamento e Comunicação Móvel usando o Middleware SDDL",
-                "autores": "Igor Vasconcelos, Rafael Vasconcelos, Gustavo Baptista, Caio Seguin, Markus , Endler",
+                "autores": "Igor Vasconcelos, Rafael Vasconcelos, Gustavo Baptista, Caio Seguin, Markus, Endler",
                 "ordem": "",
                 "universidade": "Departamento de Informática - Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) Rio de Janeiro - RJ - Brazil",
                 "lingua": "Pt",
@@ -1452,9 +1452,9 @@
             },
             {
                 "titulo": "Sistema de Coleta e Disseminação de Dados de Trânsito",
-                "autores": "Sérgio de Oliveira, Fernando A. Teixeira, Daniel F. Macedo, , André L. L. de Aquino, David H. S. Lima, Cristiano M. da Silva, , Rone I. da Silva, Pedro M. Shiroma",
-                "ordem": "1|2|3|3|1|123",
-                "universidade": "1, 2 1, 2 1 Campus Alto Paraopeba - Universidade Federal de São João Del Rei MG 443, Km 7 - 36420-000 - Ouro Branco - MG - Brazil Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Av. Antônio Carlos, 6627 - Belo Horizonte - MG - Brazil Instituto de Computação - Universidade Federal de Alagoas - Av. Lourival Melo Mota, s/n - Maceió - AL - Brazil",
+                "autores": "Sérgio de Oliveira, Fernando A. Teixeira, Daniel F. Macedo, André L. L. de Aquino, David H. S. Lima, Cristiano M. da Silva, Rone I. da Silva, Pedro M. Shiroma",
+                "ordem": "1|1, 2|2|3|3|1, 2|1|1",
+                "universidade": "Campus Alto Paraopeba - Universidade Federal de São João Del Rei MG 443, Km 7 - 36420-000 - Ouro Branco - MG - Brazil|Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Av. Antônio Carlos, 6627 - Belo Horizonte - MG - Brazil |Instituto de Computação - Universidade Federal de Alagoas - Av. Lourival Melo Mota, s/n - Maceió - AL - Brazil",
                 "lingua": "Pt",
                 "num_paginas": 8,
                 "paginas": [
@@ -1473,7 +1473,7 @@
                 "titulo": "Uma nuvem privada oportunista para execução de aplicações Bag-of-Tasks",
                 "autores": "Patricia Alanis, Abmar Barros, Francisco Brasileiro, Marcos Nóbrega",
                 "ordem": "1|1|1|1",
-                "universidade": "1 Laboratório de Sistemas Distribuídos (LSD)  Universidade Federal de Campina Grande (UFCG) Caixa Postal 58.429-900 - Campina Grande - PB - Brazil",
+                "universidade": "Laboratório de Sistemas Distribuídos (LSD)  Universidade Federal de Campina Grande (UFCG) Caixa Postal 58.429-900 - Campina Grande - PB - Brazil",
                 "lingua": "Pt",
                 "num_paginas": 7,
                 "paginas": [
@@ -1490,9 +1490,9 @@
             },
             {
                 "titulo": "Just-in-Time Clouds Uma abordagem para Federação de Clouds Privadas",
-                "autores": "Edigley Fraga, Jonathan Brilhante, Rostand Costa, Francisco Brasileiro, Pedro , Bignatto, Diego Desani, Hermes Senger, Airton Pereira, Vinícius Garcia, , Rodrigo Assad, Fernando Trinta, Ana Cristina Oliveira, Henryson Chagas, , Aleciano Ferreira, Marco Spohn, Reinaldo Gomes, Philippe Navaux, Eduardo , Roloff, Otávio Carvalho, Marcos Barreto, Raimundo Macêdo, Alírio Sá",
-                "ordem": "1|1|1|1|2|2|2|3|3|3|7|5|5|5|1|1|4|4|4|7|7|7234567",
-                "universidade": "1 Laboratório de Sistemas Distribuídos - Departamento de Sistemas e Computação - Universidade Federal de Campina Grande (UFCG) Av. Aprígio Veloso, s/n, Bloco CO, Bodocongó, 58.429-900, Campina Grande, PB Universidade Federal de São Carlos (UFSCar) São Carlos - SP Universidade Federal de Pernambuco (UFPE) Recife - PE Universidade Federal do Rio Grande do Sul (UFRGS) Porto Alegre - RS Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) Campina Grande - PB Universidade Federal do Ceará Fortaleza - CE Universidade Federal da Bahia Salvador - BA",
+                "autores": "Edigley Fraga, Jonathan Brilhante, Rostand Costa, Francisco Brasileiro, Pedro, Bignatto, Diego Desani, Hermes Senger, Airton Pereira, Vinícius Garcia, Rodrigo Assad, Fernando Trinta, Ana Cristina Oliveira, Henryson Chagas, Aleciano Ferreira, Marco Spohn, Reinaldo Gomes, Philippe Navaux, Eduardo, Roloff, Otávio Carvalho, Marcos Barreto, Raimundo Macêdo, Alírio Sá",
+                "ordem": "1|1|1|1|2|2|2|3|3|3|7|5|5|5|1|1|4|4|4|7|7|7",
+                "universidade": "Laboratório de Sistemas Distribuídos - Departamento de Sistemas e Computação - Universidade Federal de Campina Grande (UFCG) Av. Aprígio Veloso, s/n, Bloco CO, Bodocongó, 58.429-900, Campina Grande, PB |Universidade Federal de São Carlos (UFSCar) São Carlos - SP |Universidade Federal de Pernambuco (UFPE) Recife - PE |Universidade Federal do Rio Grande do Sul (UFRGS) Porto Alegre - RS |Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) Campina Grande - PB |Universidade Federal do Ceará Fortaleza - CE |Universidade Federal da Bahia Salvador - BA",
                 "lingua": "En",
                 "num_paginas": 8,
                 "paginas": [
@@ -1509,9 +1509,9 @@
             },
             {
                 "titulo": "OpenBox: Ferramenta de Alta Disponibilidade e de Gerenciamento de Cópias de Segurança de Dados",
-                "autores": "Victor Dias de Oliveira, Matheus Bandini, Fábio Licht,, Bruno Schulze, Antonio Mury",
+                "autores": "Victor Dias de Oliveira, Matheus Bandini, Fábio Licht, Bruno Schulze, Antonio Mury",
                 "ordem": "1,2|1|2|1|1",
-                "universidade": "Laboratório Nacional de Computação Cientíﬁca (LNCC) Av. Getúlio Vargas, 333 - Quitandinha - 25660-004 - Petrópolis - RJ - Brasil |Universidade Estácio de Sá (UNESA) Rua Bingen, 45 - Bingen - 25651-075 - Petrópolis - RJ - Brasil",
+                "universidade": "Laboratório Nacional de Computação Cientíﬁca (LNCC) Av. Getúlio Vargas, 333 - Quitandinha - 25660-004 - Petrópolis - RJ - Brasil|Universidade Estácio de Sá (UNESA) Rua Bingen, 45 - Bingen - 25651-075 - Petrópolis - RJ - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 8,
                 "paginas": [
@@ -1528,9 +1528,9 @@
             },
             {
                 "titulo": "TVPP: A Research Oriented P2P Live Streaming System",
-                "autores": "João F. A. e Oliveira, Rodrigo S. M. Viana, Alex B. Vieira,, Marcus V. M. Rocha, Sérgio V. A. Campos",
+                "autores": "João F. A. e Oliveira, Rodrigo S. M. Viana, Alex B. Vieira, Marcus V. M. Rocha, Sérgio V. A. Campos",
                 "ordem": "1|1|2|3|1",
-                "universidade": "Departamento de Ciência da Computação - UFMG |Departamento de Ciência da Computação - UFJF |Assembléia Legislativa de Minas Gerais",
+                "universidade": "Departamento de Ciência da Computação - UFMG|Departamento de Ciência da Computação - UFJF|Assembléia Legislativa de Minas Gerais",
                 "lingua": "En",
                 "num_paginas": 8,
                 "paginas": [
@@ -1547,9 +1547,9 @@
             },
             {
                 "titulo": "Mini-CCNx: prototipagem rápida para Redes Orientadas a Conteúdo baseadas em CCN",
-                "autores": "Carlos Manuel Silvestre Cabral, Christian Esteve Rothenberg,, Maurício Ferreira Magalhães",
+                "autores": "Carlos Manuel Silvestre Cabral, Christian Esteve Rothenberg, Maurício Ferreira Magalhães",
                 "ordem": "1|2|1",
-                "universidade": "Faculdade de Engenharia Elétrica e Computação Universidade Estadual de Campinas Campinas, SP - Brasil (UNICAMP) |Fundação CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunicações Campinas, SP - Brasil",
+                "universidade": "Faculdade de Engenharia Elétrica e Computação Universidade Estadual de Campinas Campinas, SP - Brasil (UNICAMP)|Fundação CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunicações Campinas, SP - Brasil",
                 "lingua": "Pt",
                 "num_paginas": 8,
                 "paginas": [
@@ -1568,7 +1568,7 @@
                 "titulo": "JSensor: Um simulador paralelo para redes de sensores em larga escala",
                 "autores": "Matheus L. Silva, Danniel H. Ribeiro, Joubert C. Lima, Andre L. L. Aquino, Ricardo A. R. Oliveira",
                 "ordem": "1|1|1|2|1",
-                "universidade": "Departamento de computação - Universidade Federal de Ouro Preto (UFOP) Ouro Preto - MG - Brasil |Instituto de Computação - Universidade Federal de Alagoas (UFAL) Maceió - AL - Brasil.",
+                "universidade": "Departamento de computação - Universidade Federal de Ouro Preto (UFOP) Ouro Preto - MG - Brasil|Instituto de Computação - Universidade Federal de Alagoas (UFAL) Maceió - AL - Brasil.",
                 "lingua": "Pt",
                 "num_paginas": 8,
                 "paginas": [

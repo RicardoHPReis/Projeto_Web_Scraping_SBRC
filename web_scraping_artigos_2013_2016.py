@@ -51,7 +51,6 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
     #print(f"Number of pages: {len(pdf_document)}")
     
     for page_num in range(len(pdf_document)):
-    #for page_num in range(864, 878):
         page = pdf_document.load_page(page_num)
         blocks = page.get_text("dict") # Obter texto como um dicionário com informações detalhadas
         text = transformar_texto(page.get_text("text"))
@@ -63,8 +62,8 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
         ordem = ''
         resumo = ''
         fl_inicio_artigo = False
-        flag_numeros = False
-        flag_universidade = False
+        fl_ordem = False
+        fl_universidade = False
         
         if (text.find("Abstract.") != -1 or text.find("Abstract -") != -1):
             fl_referencias = False
@@ -78,7 +77,6 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
                             print(f"Texto: '{texto_base}', Fonte: {font_name}, Tamanho: {font_size}")
                             
                             if texto_base.strip() == "":
-                                print("Pulou")
                                 continue
                             
                             # Regras 
@@ -89,44 +87,54 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
                             if font_size >= 15 and len(texto_base) > 2:
                                 nomes_artigos += texto_base + ' '
                                 fl_inicio_artigo = True
-                            
+                                
                             # Fim dos dados iniciais do artigo: Fonte padrão ou início do Resumo/Abstract
-                            elif font_name == 'NimbusMonL-Regu' or font_name.find("Ital") != -1 or font_name.find("Courier") != -1:
-                                flag_numeros = False
+                            elif texto_base.find("Abstract") != -1 or texto_base.find("Resumo") != -1:
+                                fl_ordem = False
                                 fl_inicio_artigo = False
+                                
+                            # Fim dos dados iniciais do artigo: Fonte padrão ou início do Resumo/Abstract
+                            elif font_name == 'NimbusMonL-Regu' or font_name == 'NimbusMonoL' or font_name.find("Ital") != -1 or font_name.find("Courier") != -1:
+                                fl_ordem = False
+                                continue
                             
                             #Regras para identificar os dados de autores, universidade e a ordem, que são os mais difíceis de identificar, pois não possuem uma formatação tão clara quanto os dados de título e autores. A ideia é usar uma combinação de regras para tentar identificar esses dados da melhor forma possível, mesmo que haja algumas inconsistências na formatação dos PDFs.
                             elif fl_inicio_artigo:
                                 # Ordem: Fonte CMMI8 e texto com até 3 caracteres, ou Fonte CMR8 (ou tamanho <= 8.1)
-                                #if (font_name == 'CMMI8') and len(texto_base) <= 3:
-                                #    ordem += texto_base
-                                #    flag_numeros = False
-                                    
-                                # Ordem: Fonte de tamanho <= 8.1, texto com até 3 caracteres, flag e sem flag_numeros e sem flag_universidade
-                                if font_size <= 8.1 and not flag_numeros and not flag_universidade and len(texto_base) <= 3:
+                                if (font_name == 'CMMI8') and len(texto_base) <= 3:
                                     ordem += texto_base
-                                    flag_numeros = True
+                                    fl_ordem = False
+                                    
+                                # Ordem: Fonte de tamanho <= 8.1, texto com até 3 caracteres, flag e sem fl_ordem e sem fl_universidade
+                                elif font_size <= 8.1 and not fl_ordem and not fl_universidade:
+                                    if ordem != '' and not ordem.endswith(',') and not ordem.endswith('|'):
+                                        ordem += '|'
+                                    ordem += texto_base
+                                    fl_ordem = True
                                 
                                 # Se tiver algum numero no meio dos dados de universidade, é mais provável que seja parte da ordem do que da universidade, então há um pipe para separar os dados de universidade
-                                elif font_size<=8.1 and flag_universidade and len(texto_base) <= 3:
+                                elif font_size<=8.1 and fl_universidade:
                                     universidades += '|'
                                 
                                 # Autores: Fonte NimbusRomNo9L-Medi ou fonte com "Bold" e fonte maior que 11
-                                elif (font_name == 'NimbusRomNo9L-Medi' or font_name.find("Bold") != -1) and font_size >= 11:
-                                    autores += ', ' if not autores.endswith(',') and autores != '' else ''
-                                    autores += texto_base + ' '   
-                                    ordem += '|' if not ordem.endswith('|') else ''
-                                    flag_numeros = False
+                                elif (font_name == 'NimbusRomanNo9L' or font_name.find("Medi") != -1 or font_name.find("Bold") != -1) and not fl_universidade and font_size >= 10.9:
+                                    if autores != '' and not texto_base.startswith(','):
+                                        autores += ', '
+                                    if texto_base != ',' and texto_base != ', ':
+                                        autores += texto_base
+                                    fl_ordem = False
                                 
                                 # Universidade: Fonte NimbusRomNo9L-Regu ou fonte com "Times"
-                                elif (font_name == 'NimbusRomNo9L-Regu' or font_name.find("Times") != -1):
-                                    universidades += texto_base + ' '
-                                    flag_numeros = False
+                                elif (font_name == 'NimbusRomanNo9L' or font_name.find("Regu") != -1 or font_name.find("Times") != -1) and font_size > 8.1:
+                                    if universidades != '' and not universidades.endswith('|'):
+                                        universidades += ' '
+                                    universidades += texto_base
+                                    fl_universidade = True
+                                    fl_ordem = False
                                 
-                                # Universidade: Fonte de tamanho <= 8.1 e flag_numeros
-                                elif font_size<=8.1 and flag_numeros:
-                                    universidades += '|'
-                                    flag_universidade = True
+                                # Universidade: Fonte de tamanho <= 8.1 e fl_ordem
+                                elif font_size<=8.1 and fl_ordem:
+                                    fl_universidade = True
 
             # Se o texto da página contém "Resumo." ou "Resumo -", é provável que seja o início do resumo em português, caso contrário, é provável que seja o início do resumo em inglês. 
             # A ideia é usar essa informação para tentar identificar o resumo da melhor forma possível, mesmo que haja algumas inconsistências na formatação dos PDFs.
@@ -144,8 +152,8 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
             dados_anais_com_ano = {
                 "titulo": transformar_texto(nomes_artigos.strip()),
                 "autores": transformar_texto(autores.strip()),
-                "ordem": transformar_texto(ordem.replace('|','',1).strip()),
-                "universidade": transformar_texto(universidades.replace('|','',1).strip()),
+                "ordem": transformar_texto(ordem.strip()),
+                "universidade": transformar_texto(universidades.strip()),
                 "lingua": lingua,
                 "num_paginas": 0,
                 "paginas": [int(page_num-inicio_artigos)],
@@ -170,7 +178,15 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
             print(f"{dados_anais_com_ano}")
             anais.append(dados_anais_com_ano)
         
-        if len(anais) > 0:           
+        if len(anais) > 0:
+            # Caso haja algum artigo que apresente um resumo em protuguês, mas não foi identificado na primeira página, é feito a busca novamente.
+            if (text.find("Resumo.") != -1 or text.find("Resumo -") != -1) and anais[-1]['lingua'] != "En":
+                fl_referencias = False
+                resumo_pt = text.split("Resumo -", 1)[-1] if text.find("Resumo -") != -1 else text.split("Resumo.", 1)[-1]
+                resumo_pt = resumo_pt.split("1.", 1)[0].strip()
+                anais[-1]['resumo'] = transformar_texto(resumo_pt.strip())
+                anais[-1]['lingua'] = 'Pt'
+            
             # Se o texto da página conter "Índice por Autor" ou "Sessão Técnica", é preciso atualizar o número de páginas do artigo.
             if text.find("Índice por Autor") != -1 and (ano_evento == 2013 or ano_evento == 2014) and inicio_artigos > 0:
                 anais[-1]['paginas'].append(int(page_num) - inicio_artigos - 1)
