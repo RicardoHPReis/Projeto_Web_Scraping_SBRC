@@ -28,7 +28,7 @@ def web_scraping_sbrc(url:str) -> list:
         eventos_sbrc[i].append(link_pdf)
 
     eventos_sbrc.reverse()
-    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 2013]
+    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) <= 2016]
     for i,j in enumerate(eventos_sbrc):
         eventos_sbrc[i][0] = int(eventos_sbrc[i][0])
     
@@ -40,7 +40,11 @@ def web_scraping_eventos(eventos_sbrc:list) -> list:
     lista_anais = {}
     lista_geral = []
     anais = []
+    
     for ev in eventos_sbrc:
+        # Marca o tempo de início
+        inicio = time.perf_counter()
+        
         ano_evento = ev[0]
         dados_evento = ev[1].split(", ")
         
@@ -63,7 +67,13 @@ def web_scraping_eventos(eventos_sbrc:list) -> list:
             "estado": estado_evento,
             "anais": anais
         }
-        print(f"Ano: {ano_evento} - Total de artigos: {len(anais)}")
+        # Marca o tempo de fim
+        fim = time.perf_counter()
+
+        # Calcula a diferença
+        tempo_total = fim - inicio
+        
+        print(f"Ano: {ano_evento} - Total de artigos: {len(anais)} - Tempo: {tempo_total:.1f} segundos")
         lista_geral.append(lista_anais)
         
     return lista_geral

@@ -1,30 +1,16 @@
 # Código desenvolvido por Ricardo Reis
 
+import ler_artigos_ABNT_2003_2016 as abnt
 from bs4 import BeautifulSoup
 import pymupdf as f
 import requests
 import re
 import io
 
-def limpar_nome_arquivo(nome:str) -> str:
-    """
-    Remove ou substitui caracteres que não são permitidos em nomes de arquivos 
-    (Windows, Linux e macOS).
-    """
-    
-    padrao_invalido = r'[<>:"/\\|?*\x00-\x1f]'
-    
-    # Substitui os caracteres inválidos
-    nome_seguro = re.sub(padrao_invalido, "", nome)
-    nome_seguro = nome_seguro.replace("  ", " ")
-    
-    nome_seguro = nome_seguro if len(nome_seguro) <= 130 else nome_seguro[:130] 
-        
-    return nome_seguro
-
 
 def ler_transformar_web(link_url:str, ano_evento:int) -> list:
     anais = []
+    dados_pdf = []
     pdf_dados = requests.get(link_url)
     soup = BeautifulSoup(pdf_dados.content, 'html.parser')
     conteudo = soup.find('div', class_='entry-content')
@@ -32,6 +18,7 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         br.replace_with("\n")
     
     todos_links = conteudo.find_all('p')
+    #todos_links = todos_links[18:21]
     for i, link in enumerate(todos_links):
         if link.find('a') == None:
             continue
@@ -44,33 +31,40 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         texto_autores = texto_descricao.split('\n')[-1]
         link_artigo = link.find('a').get('href')
         
-        print(f"Processando artigo: {i} {texto_titulo} - {texto_autores} - {paginas} - {link_artigo}")
-        
-        if ano_evento <= 1998:
-            pass
+        if ano_evento >= 2003:
+            dados_pdf = abnt.ler_transformar_pdf_ABNT(link_artigo, ano_evento)
         
         pdf_artigo = requests.get(link_artigo)
         pdf_document = f.open(stream=io.BytesIO(pdf_artigo.content), filetype="pdf")
+        
+        if len(texto_des.split(' pp. ')) == 1 or texto_des.split(' pp. ')[-1].find('.') != -1 or paginas[0] == '' or paginas[-1] == '':
+            paginas = [1, len(pdf_document)]
+        else:
+            paginas = [int(re.sub(r'[^0-9]', '', paginas[0])), int(re.sub(r'[^0-9]', '', paginas[1]))]
+            
+        #print(f"Processando artigo: {i} {texto_titulo} - {texto_autores} - {paginas} - {link_artigo}")
+        
         if pdf_artigo.status_code == 200:
             # Salva o conteúdo em um arquivo binário (.pdf)
             if texto_descricao == "Páginas Iniciais":
                 with open(f"SOL_SBRC/SBRC_{ano_evento}/{i}_paginas_iniciais.pdf", 'wb') as doc:
                     doc.write(pdf_artigo.content)
             else:
-                nome_arquivo = limpar_nome_arquivo(texto_titulo)
+                nome_arquivo = abnt.limpar_nome_arquivo(texto_titulo)
                 with open(f"SOL_SBRC/SBRC_{ano_evento}/{i}_{nome_arquivo}.pdf", 'wb') as doc:
                     doc.write(pdf_artigo.content)
             
         dados_anais_com_ano = {
             "titulo": texto_titulo,
-            "paginas": paginas,
             "autores": texto_autores,
-            "universidade": "",
-            "lingua": "",
+            "ordem": "" if dados_pdf == [] else dados_pdf[0]['ordem'],
+            "universidade": "" if dados_pdf == [] else dados_pdf[0]['universidade'],
+            "lingua": "" if dados_pdf == [] else dados_pdf[0]['lingua'],
             "num_paginas": len(pdf_document),
-            "paginas": [int(paginas[0]), int(paginas[-1])] if texto_descricao != "Páginas Iniciais" else [1, len(pdf_document)],
-            "resumo": "",
-            "referencias": "",
+            "paginas": [paginas[0], paginas[-1]] if texto_descricao != "Páginas Iniciais" else [1, len(pdf_document)],
+            "paginas_pdf": [1, len(pdf_document)],
+            "resumo": "" if dados_pdf == [] else dados_pdf[0]['resumo'],
+            "referencias": "" if dados_pdf == [] else dados_pdf[0]['referencias'],
             "link": link_artigo
         }
         anais.append(dados_anais_com_ano)
