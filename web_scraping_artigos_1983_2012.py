@@ -26,8 +26,8 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         texto_descricao = link.get_text().replace('\n\n', '\n')
         
         texto_des = texto_descricao.split('\n')[0]
-        texto_titulo = texto_des.split(' pp. ')[0]
-        paginas = texto_des.split(' pp. ')[-1].split('-')
+        texto_titulo = texto_des.split('. pp. ')[0]
+        paginas = texto_des.split('. pp. ')[-1].split('-')
         texto_autores = texto_descricao.split('\n')[-1]
         link_artigo = link.find('a').get('href')
         
@@ -37,7 +37,7 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         pdf_artigo = requests.get(link_artigo)
         pdf_document = f.open(stream=io.BytesIO(pdf_artigo.content), filetype="pdf")
         
-        if len(texto_des.split(' pp. ')) == 1 or texto_des.split(' pp. ')[-1].find('.') != -1 or paginas[0] == '' or paginas[-1] == '':
+        if len(texto_des.split('. pp. ')) == 1 or texto_des.split('. pp. ')[-1].find('.') != -1 or paginas[0] == '' or paginas[-1] == '':
             paginas = [1, len(pdf_document)]
         else:
             paginas = [int(re.sub(r'[^0-9]', '', paginas[0])), int(re.sub(r'[^0-9]', '', paginas[1]))]

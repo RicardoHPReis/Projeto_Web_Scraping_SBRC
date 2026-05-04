@@ -1,0 +1,677 @@
+{
+    "ano": 1996,
+    "nr_simposio": "XIV",
+    "simposio": "SBRC",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "coord_geral": "Mauro Oliveira",
+    "coord_programa": "Luiz Fernando Gomes Soares",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Inicias",
+            "autores": "Páginas Inicias",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 9,
+            "paginas": [
+                1,
+                9
+            ],
+            "paginas_pdf": [
+                1,
+                9
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/frontmatter.pdf"
+        },
+        {
+            "titulo": "MMM: um correio eletrônico multimídia sobre o WWW",
+            "autores": "Thaís Vasconcelos Batista, Luiz Fernando Gomes Soares, Noemi da La Rocque Rodriguez, Marcos Cabral Resende",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                3,
+                17
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p01.pdf"
+        },
+        {
+            "titulo": "Modelo de objetos baseado no CORBA para sistemas hipermídia abertos com garantias de sincronização",
+            "autores": "Sérgio Colcher, Luiz Fernando G. Soares, Marco Antonio Casanova, Guido Lemos S. Filho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                18,
+                37
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p02.pdf"
+        },
+        {
+            "titulo": "Definição de um serviço de sincronização contínua para aplicações multimídias",
+            "autores": "Marcelo Gonçalves Rubinstein, Otto Carlos Muniz Bandeira Duarte",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                38,
+                55
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p03.pdf"
+        },
+        {
+            "titulo": "Extrator de dependências condicionais para sistemas de comunicação multimídias",
+            "autores": "Luiz Fernando Rust da Costa Carmo, Jean-Pierre Courtiat",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                56,
+                73
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p04.pdf"
+        },
+        {
+            "titulo": "Integração de logs em ambientes distribuídos utilizando gerenciamento OSI e modelagem de objetos",
+            "autores": "Guido Elwhin Peñaranda Silva Junior, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                77,
+                96
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p05.pdf"
+        },
+        {
+            "titulo": "Gerência pró-ativa de redes de computadores usando agentes e técnicas de inteligência artificial",
+            "autores": "Marco Antonio da Rocha, Luis Fernando Nunes Fernandez, Carlos Becker Westphall",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                97,
+                117
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p06.pdf"
+        },
+        {
+            "titulo": "Um sistema especialista para gerência pró-ativa remota",
+            "autores": "Esmilda Sáenz Artola, Liane M. R. Tarouco",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                118,
+                139
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p07.pdf"
+        },
+        {
+            "titulo": "Prototipação de um subagente adaptativo baseado em redes neurais",
+            "autores": "Elvis Melo Vieira, Solange Teresinha Sari",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                140,
+                156
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p08.pdf"
+        },
+        {
+            "titulo": "MCF: um protocolo multidestinatário configurável com gerenciamento de acesso por fichas de permissão",
+            "autores": "Marcelo Dias Nunes, Otto Carlos M. B. Duarte",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                159,
+                177
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p09.pdf"
+        },
+        {
+            "titulo": "Simulando um protocolo da camada de rede que suporta a comunicação móvel",
+            "autores": "Roberto Wagner da Silva Rodrigues, Adriano Augusto de Souza, José Augusto Suruagy Monteiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                178,
+                197
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p10.pdf"
+        },
+        {
+            "titulo": "Um estudo comparativo de técnicas de análise de escalonabilidade em um sistema de comunicação tempo-real",
+            "autores": "Keiko V. O. Fonseca, Joni Fraga, Jean-Marie Farines",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                198,
+                218
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p11.pdf"
+        },
+        {
+            "titulo": "Berkeley sockets on a SMPD environment",
+            "autores": "Fredy João Valente",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                219,
+                235
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p12.pdf"
+        },
+        {
+            "titulo": "Implementando especificações LOTOS na plataforma de distribuição ANSAware",
+            "autores": "Nelson S. Rosa, Paulo R. F. Cunha, Djamel F. H. Sadok",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                239,
+                252
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p13.pdf"
+        },
+        {
+            "titulo": "Mapeamento de Estelle em VHDL e estilos de descrição de protocolos de comunicação para síntese de alto nível",
+            "autores": "Luci Pirmez, Aloysio de Castro P. Pedroza, Antonio Carneiro de Mesquita, Ahmed Amine Jerraya",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                253,
+                272
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p14.pdf"
+        },
+        {
+            "titulo": "Especificação formal de uma plataforma de gerenciamento TMN para redes ATM",
+            "autores": "Marcelo Spindola Bacha, Aloysio de Castro P. Pedroza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                273,
+                291
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p15.pdf"
+        },
+        {
+            "titulo": "Fiber channel workstations interconnection through ATM local network: interworking issues",
+            "autores": "Alessandro Anzaloni",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                295,
+                313
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p16.pdf"
+        },
+        {
+            "titulo": "Um modelo aproximado para o processo de saída de um multiplexador ATM com mecanismo de descarte seletivo",
+            "autores": "Nelson L. S. Fonseca, John A. Silvester",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                314,
+                334
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p17.pdf"
+        },
+        {
+            "titulo": "Integração de um agente ATM a um protótipo destinado ao estudo de interoperabilidade entre sistemas TMN",
+            "autores": "Ana Luiza Bessa de P. B. Diniz, Mauro Oliveira, José Neuman de Souza, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                335,
+                354
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p18.pdf"
+        },
+        {
+            "titulo": "Especificação e análise de um sistema distribuído de realidade virtual",
+            "autores": "Regina Borges de Araujo, Cláudio Kirner",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                357,
+                374
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p19.pdf"
+        },
+        {
+            "titulo": "Desenvolvendo aplicações distribuídas em Cm",
+            "autores": "Celso Gonçalves Jr., Alexandre Teles, Rogério Drummond",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                375,
+                394
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p20.pdf"
+        },
+        {
+            "titulo": "LegoShell: linguagem visual de programação distribuída",
+            "autores": "Rogério Drummond, Celso Gonçalves Jr.",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                395,
+                410
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p21.pdf"
+        },
+        {
+            "titulo": "Uma metodologia para o desenvolvimento de aplicações na plataforma OSIMIS baseada no paradigma de configuração",
+            "autores": "Roberto Wagner da Silva Rodrigues, Paulo Roberto Freire Cunha, Mauro Oliveira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                411,
+                430
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p22.pdf"
+        },
+        {
+            "titulo": "Distributed object-based continuous media applications",
+            "autores": "Carlos A. G. Ferraz",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                433,
+                452
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p23.pdf"
+        },
+        {
+            "titulo": "QoSME: an environment to manage multimedia application QoS",
+            "autores": "Patrícia G. S. Florissi, Yechiam Yemini",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                453,
+                472
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p24.pdf"
+        },
+        {
+            "titulo": "Towards hypermedia documents design",
+            "autores": "Roberto Willrich, Patrick Sénac, Pierre de Saqui-Sanner, Michel Diaz",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                473,
+                491
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p25.pdf"
+        },
+        {
+            "titulo": "Análise da utilização das API XOM/XMP no desenvolvimento de aplicações de gerência para a rede de telecomunicações e computadores",
+            "autores": "Patrícia V. Corrêa Bicalho, Benedito Luís Fayan, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                495,
+                511
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p26.pdf"
+        },
+        {
+            "titulo": "Metodologia de desenvolvimento e implementações de agentes de supervisão de elementos de rede para a plataforma distribuída SIS",
+            "autores": "Rafael G. Rodrigues da Silva, Márcio Migueletto de Andrade, Henrique C. Moreira de Andrade, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                512,
+                531
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p27.pdf"
+        },
+        {
+            "titulo": "Desenvolvimento de agentes OSI para gerência de desempenho de sistemas de transmissão digital PDH – Plesiochronous Digital Hierarchy",
+            "autores": "José Félix Furtado de Mendonça, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                1,
+                19
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p28.pdf"
+        },
+        {
+            "titulo": "On the design of communication protocols that support coordination loss",
+            "autores": "Antonio A. F. Loureiro, Osvaldo S. F. de Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                553,
+                573
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p29.pdf"
+        },
+        {
+            "titulo": "On new classes of communication networks",
+            "autores": "Julio Cezar D. de Melo, Roy M. Jenevein",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                574,
+                591
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p30.pdf"
+        },
+        {
+            "titulo": "On the design and implementation of the Isoswitch, a novel multi-protocol high-speed switch",
+            "autores": "Danilo Florissi, Yechiam Yemini",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                592,
+                610
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p31.pdf"
+        },
+        {
+            "titulo": "Testing unstable properties in communication protocols",
+            "autores": "Antonio A. F. Loureiro, Osvaldo S. F. de Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                611,
+                630
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p32.pdf"
+        },
+        {
+            "titulo": "Buffer overflow avoidance techniques for group communication protocols",
+            "autores": "Raimundo J. de Araújo Macêdo, Paul D. Ezhilchelvan, Santosh K. Shrivastava",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                633,
+                652
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p33.pdf"
+        },
+        {
+            "titulo": "Obtendo interoperabilidade entre ORBs",
+            "autores": "Nuccio M. S. Zuquello, Edmundo R. M. Madeira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                653,
+                672
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1996/p34.pdf"
+        }
+    ]
+}

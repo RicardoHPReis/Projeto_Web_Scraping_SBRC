@@ -1,0 +1,544 @@
+{
+    "ano": 1990,
+    "nr_simposio": "VIII",
+    "simposio": "SBRC",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "coord_geral": "Maurício Ferreira Magalhães",
+    "coord_programa": "Maurício Ferreira Magalhães",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Iniciais",
+            "autores": "Páginas Iniciais",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 7,
+            "paginas": [
+                1,
+                7
+            ],
+            "paginas_pdf": [
+                1,
+                7
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/frontmatter.pdf"
+        },
+        {
+            "titulo": "Estruturação e implementação do protocolo FTAM",
+            "autores": "Clizenit, P. A. L., Joberto, S. B. M",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                1,
+                14
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p1.pdf"
+        },
+        {
+            "titulo": "Uma ferramenta para especificação e geração de modelos markovianos",
+            "autores": "Morganna Carmem Diniz, Edmundo de Souza e Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                15,
+                36
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p2.pdf"
+        },
+        {
+            "titulo": "Aspectos do sistema de arquivamento virtual no contexto da OSI",
+            "autores": "Esther de Castro Pacitti, Ana Claudia de Medeiros Rocha Vaz",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                37,
+                49
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p3.pdf"
+        },
+        {
+            "titulo": "Projeto de um monitor de desempenho para redes Ethernet",
+            "autores": "Jorge H. Rogoski, Joberto S. B. Martins",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                50,
+                65
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p4.pdf"
+        },
+        {
+            "titulo": "Experiências no desenvolvimento do sistema de manipulação de mensagem do NCE/UFRJ",
+            "autores": "Luci Pirmez, Suzan Karina Almada Mendes, Juan Pizzorno",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                66,
+                82
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p5.pdf"
+        },
+        {
+            "titulo": "Um modelo de sistemas especialistas para avaliação de desempenho de sistemas de computação",
+            "autores": "Paulo R. X. Ramos",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                83,
+                99
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p6.pdf"
+        },
+        {
+            "titulo": "Serviços de apresentação na REDE-RIO",
+            "autores": "Luiz Fernando Rust da Costa Carmo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                100,
+                117
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p7.pdf"
+        },
+        {
+            "titulo": "Proposta e analise de desempenho de um método de acesso para o sistema CDD",
+            "autores": "Sérgio A. S. de Moraes, Shusaburo Motoyama",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                118,
+                136
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p8.pdf"
+        },
+        {
+            "titulo": "Experiência da implementação do protocolo de transporte ISO, classe 2, em microprocessadores",
+            "autores": "Stefania Stiubiener, Wagner Luiz Zucchi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                137,
+                159
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p9.pdf"
+        },
+        {
+            "titulo": "Metodologia para análise de desempenho de sistemas de computação descritos através de redes de Petri temporizadas estendidas",
+            "autores": "Hamilton Fernandes de Mattias, Wilson Vicente Ruggiero",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 24,
+            "paginas": [
+                160,
+                183
+            ],
+            "paginas_pdf": [
+                1,
+                24
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p10.pdf"
+        },
+        {
+            "titulo": "Aspectos da implementação do protocolo MNP em modem V.22 BIS",
+            "autores": "Ricardo Nogueira Pianta",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                184,
+                199
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p11.pdf"
+        },
+        {
+            "titulo": "Estrutura de camadas de protocolo de comunicação para redes locais de computadores com integração de serviços",
+            "autores": "Maria Claudia C. Carneiro, Shusaburo Motoyama, Paulo Roberto Guardieiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                200,
+                219
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p12.pdf"
+        },
+        {
+            "titulo": "ANPRO: analisador automático de protocolos de comunicação modelados em RPN (Rede de Petri Numérica)",
+            "autores": "Berenice C. Damasceno, Walter C. Borelli",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                220,
+                239
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p13.pdf"
+        },
+        {
+            "titulo": "Análise do mapeamento do protocolo MMS na arquitetura Minimap",
+            "autores": "Flávio Neves Junior, Jean-Charles Valadier, Keiko V. Ono Fonseca",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 24,
+            "paginas": [
+                240,
+                263
+            ],
+            "paginas_pdf": [
+                1,
+                24
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p14.pdf"
+        },
+        {
+            "titulo": "Interface gráfica para o desenvolvimento de especificações em LOTOS",
+            "autores": "Maria Teresa Silva de Moura, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                264,
+                284
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p15.pdf"
+        },
+        {
+            "titulo": "Uma implementação das camadas MAC/LLC para a interface Mini-map",
+            "autores": "David J. Turnell, Joberto, S. B. M",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                285,
+                297
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p16.pdf"
+        },
+        {
+            "titulo": "Especificação algébrica de processos da camada de aplicação do RM OSI/ISO",
+            "autores": "Bernardo Gonçalves Riso, Wanderley Lopes de Souza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                298,
+                310
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p17.pdf"
+        },
+        {
+            "titulo": "QMProt, a experiência de uma rede local industrial segundo a proposta MAP",
+            "autores": "Emílio Carlos Gomes Wille, Irineu do Nascimento, Marcos Antonio Masnik Ferreira, Marcos de Macedo Valério",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                311,
+                330
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p18.pdf"
+        },
+        {
+            "titulo": "Um simulador funcional para especificações LOTOS",
+            "autores": "Carlos André Guimarães Ferraz, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                331,
+                350
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p19.pdf"
+        },
+        {
+            "titulo": "Modelamento de interfaces de aplicação e exemplo de implementação para o protocolo MMS",
+            "autores": "Edmundo Roberto Mauro Madeira, Jayme Nicolato Correa, Verônica Lima Pimentel de Sousa, Manuel de Jesus Mendes",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                351,
+                371
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p20.pdf"
+        },
+        {
+            "titulo": "Um sistema para geração automática de sequências de testes para protocolos de comunicação",
+            "autores": "Gutembergue Soares de Silva, Aloysio de Castro Pinto Pedroza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                372,
+                391
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p21.pdf"
+        },
+        {
+            "titulo": "RNCC (Reserva-e-notificação em ciclos conjugados) – um mecanismo de acesso para redes locais de alta velocidade",
+            "autores": "Paulo Cesar Nunes da Silva, Paulo Henrique de Aguiar Rodrigues",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                392,
+                411
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p22.pdf"
+        },
+        {
+            "titulo": "Um exemplo de aplicação de TTCN (The Tree Tabular Combined Notation) na descrição de cenários de teste de uma implementação do protocolo de transporte",
+            "autores": "José Pedro de Oliveira, Tereza Cristina Melo de Brito Carvalho, Stefania Stiubiener",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                412,
+                434
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p23.pdf"
+        },
+        {
+            "titulo": "Um algoritmo para compensação da variação estatística do retardo em redes comutadas por pacotes",
+            "autores": "L. F. G. Soares, S. L. Martins",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                435,
+                445
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p24.pdf"
+        },
+        {
+            "titulo": "Projeto topológico para interligação de redes locais",
+            "autores": "Virgílio José Martins Ferreira Filho, Paulo Henrique de Aguiar Rodrigues, Roberto Diéguez Galvão",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                446,
+                466
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p25.pdf"
+        },
+        {
+            "titulo": "Uma ponte híbrida para interconexão de inter-redes IEEE 802.1",
+            "autores": "Jorge H. Rogoski, William F. Giozza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                467,
+                487
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p26.pdf"
+        },
+        {
+            "titulo": "Interconexão de redes de computadores. Padronização e aspectos técnicos",
+            "autores": "Wagner Luiz Zucchi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                488,
+                505
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1990/p27.pdf"
+        }
+    ]
+}

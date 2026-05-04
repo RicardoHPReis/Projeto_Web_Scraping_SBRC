@@ -1,0 +1,1038 @@
+{
+    "ano": 2002,
+    "nr_simposio": "XX",
+    "simposio": "SBRC",
+    "cidade": "Búzios",
+    "estado": "RJ",
+    "coord_geral": "Luci Pirmez e Luiz Fernando Rust da Costa Carmo",
+    "coord_programa": "Raimundo José de Araújo Macêdo",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Anemona: uma linguagem de configuração para aplicações práticas de gerência distribuída.",
+            "autores": "Henrique Denes H. Fernandes, Elias Procópio Duarte Jr., Martin A. Musicante",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/001.pdf"
+        },
+        {
+            "titulo": "Uma ferramenta para geração de gateways e scripts em um ambiente CORBA.",
+            "autores": "Carlos Maurício S. Figueiredo, Eduardo Freire Nakamura, Antonio A. F. Loureiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/002.pdf"
+        },
+        {
+            "titulo": "A viabilidade do gerenciamento de desempenho pró-ativo baseado em uma arquitetura de gerenciamento que usa tecnologia ativa.",
+            "autores": "Edmundo Lopes Cecilio, Ana Paula Magalhães Dumont, Flávia Coimbra Delicato, Luiz Fernando Rust da Costa Carmo, Luci Pirmez",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/003.pdf"
+        },
+        {
+            "titulo": "Issues in designing network management systems based on mobile autonomous agents.",
+            "autores": "Hendrik Teixeira Macedo, Geber Lisboa Ramalho, Carlos A. G. Ferraz",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/004.pdf"
+        },
+        {
+            "titulo": "Detecção e análise de falhas usando redes de dependências em sistemas distribuídos de gerenciamento.",
+            "autores": "João Carlos F. Barbosa, José Marcos S. Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/005.pdf"
+        },
+        {
+            "titulo": "MS2VAN – um sistema para gerência de serviços em redes ativas virtuais.",
+            "autores": "Fábio Luciano Verdi, Edmundo R. M. Madeira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/006.pdf"
+        },
+        {
+            "titulo": "Algoritmo adaptativo para balanceamento de carga para tráfego tipo melhor esforço em redes IP/MPLS.",
+            "autores": "M. D. Cavalcante, T. M. R. Lima, V. L. da Costa, M. F. Magalhães, R. S. Mendes",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/007.pdf"
+        },
+        {
+            "titulo": "Uma plataforma para engenharia de tráfego com qualidade de serviço em redes MPLS.",
+            "autores": "Eduardo N. F. Zagari, Tomás A. C. Badan, Rodrigo C. M. Prado, Eleri Cardozo, Maurício Magalhães",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/008.pdf"
+        },
+        {
+            "titulo": "Um algoritmo de substituição de objetos em cache na Internet baseado em semântica.",
+            "autores": "Alcides Calsavara, Rogério Guaraci dos Santos",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/009.pdf"
+        },
+        {
+            "titulo": "Proxy ativo: diminuindo a latência através de pushing.",
+            "autores": "Bruno Gusmão Rocha, Adriano Alonso Veloso, Wagner Meira Jr., Virgilio A. F. Almeida",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/010.pdf"
+        },
+        {
+            "titulo": "Política de escalonamento para servidores Web baseada na velocidade da conexão.",
+            "autores": "Cristina Duarte Murta, Tarcísio Paulo Corlassoli",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/011.pdf"
+        },
+        {
+            "titulo": "Serviço robusto de Web-To-Dial baseado em SIP e java applet.",
+            "autores": "Cesar A. C. Marcondes, Paulo H. de Aguiar Rodrigues",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/012.pdf"
+        },
+        {
+            "titulo": "Caracterização de carga de redes Peer-to-Peer.",
+            "autores": "Juliano Santos, Leonardo Rocha, Diego Nogueira, Paulo Araújo, Virgílio Almeida, Wagner Meira Jr.",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/013.pdf"
+        },
+        {
+            "titulo": "Adjusted weight-balanced binary tree for IP routing table lookup.",
+            "autores": "Tsern-Huei Lee, Pau-Chuan Ting",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                1,
+                11
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/014.pdf"
+        },
+        {
+            "titulo": "Framework de serviços em ambiente heterogêneo de telefonia IP.",
+            "autores": "Cesar A. C. Marcondes, Paulo H. de Aguiar Rodrigues",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/015.pdf"
+        },
+        {
+            "titulo": "Uma arquitetura para disponibilização e gerência de serviços na Internet.",
+            "autores": "Rossano P. Pinto, Luis F. Faina, Antonio T. Maffeis, Eliane G. Guimarães, Carlos A. Miglinsk, Eleri Cardozo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/016.pdf"
+        },
+        {
+            "titulo": "Gerência de falhas distribuída e confiável baseada em clusters de agentes.",
+            "autores": "Aldri L. dos Santos, Elias P. Duarte Jr., Glenn Mansfield",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/017.pdf"
+        },
+        {
+            "titulo": "Um modelo para tolerância a falhas em sistemas distribuídos com QoS.",
+            "autores": "Sérgio Gorender, Raimundo José de Araújo Macêdo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/018.pdf"
+        },
+        {
+            "titulo": "Using remote memory to stabilise data efficiently on an EXT2 linux file system.",
+            "autores": "Francisco Brasileiro, Walfredo Cirne, Erick Passos, Tatiana Stanchi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/019.pdf"
+        },
+        {
+            "titulo": "Um protocolo de validação atômica não-bloqueante eficiente.",
+            "autores": "Fabíola Greve, Jean-Pierre Le Narzul",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/020.pdf"
+        },
+        {
+            "titulo": "Cálculo Eficiente da distribuição do tamanho de filas baseado em modelos de fluido.",
+            "autores": "Ana Paula Couto da Silva, Rosa Maria Meri Leão, Edmundo de Souza e Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/021.pdf"
+        },
+        {
+            "titulo": "Uso de Beowulf’s como servidores Web.",
+            "autores": "Roberto Ferreira Brandão, Ricardo de Oliveira Anido",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/022.pdf"
+        },
+        {
+            "titulo": "Análise estocástica de descarte de pacotes em redes TCP.",
+            "autores": "Jorge L. de C. e Silva, Marcilia A. Campos, Paulo R. F. Cunha, José N. de Souza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/023.pdf"
+        },
+        {
+            "titulo": "Um modelo para controle de erros usando ARQ e FEC em redes ATM sem fio.",
+            "autores": "Rejane C. Freitas, José A. Suruagy Monteiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/024.pdf"
+        },
+        {
+            "titulo": "Análise do retardo fim-a-fim em redes de servidores Generalized Processor Sharing com tráfego auto-similar.",
+            "autores": "Nelson L. S. da Fonseca, Flávio de M. Pereira, Dalton S. Arantes",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/025.pdf"
+        },
+        {
+            "titulo": "Avaliação de desempenho de protocolos para multicast com conhecimento de grupo baseados em polling.",
+            "autores": "Marinho Barcellos, André Detsch",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/026.pdf"
+        },
+        {
+            "titulo": "Modelo analítico para avaliar plataformas cliente/servidor e agentes móveis aplicado à gerência de redes.",
+            "autores": "Juliana Amaral Arantes, Carlos Becker Westphall, Ricardo Felipe Custódio",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/027.pdf"
+        },
+        {
+            "titulo": "Performance analysis for data service in mobile telecommunication networks.",
+            "autores": "Aloizio P. Silva, Geraldo R. Mateus",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/028.pdf"
+        },
+        {
+            "titulo": "Pr-PRMA: a PRMA-based protocol for third generation communication systems.",
+            "autores": "Luís Humberto R. Barbosa, Geraldo Robson Mateus",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/029.pdf"
+        },
+        {
+            "titulo": "Qualidade de serviço em redes 802.11.",
+            "autores": "Marcelo G. Rubinstein, José Ferreira de Rezende",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/030.pdf"
+        },
+        {
+            "titulo": "Enhancing performance of the bluetooth wireless channel through dynamic segmentation.",
+            "autores": "Carlos M. Cordeiro, Dharma P. Agrawal",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/031.pdf"
+        },
+        {
+            "titulo": "Um algoritmo eficiente de solução de modelos com aplicação a redes multimídia.",
+            "autores": "Morganna Carmem Diniz, Edmundo A. de Souza e Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/032.pdf"
+        },
+        {
+            "titulo": "Validação da estratégia de adaptação dinâmica de QoS do projeto ServiMídia.",
+            "autores": "Luiz F. Rust, Luci Pirmez, Roberta Gomes, Renata Correa, Reinaldo Correia",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/033.pdf"
+        },
+        {
+            "titulo": "Event-Driven programming for distributed multimedia applications.",
+            "autores": "Alésio Pfeifer, Cristina Ururahy, Noemi Rodriguez, Roberto Ierusalimschy",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/034.pdf"
+        },
+        {
+            "titulo": "Adaptação de conteúdo de mensagens HTTP baseada em perfis de dispositivo, conteúdo, usuário e serviço de rede.",
+            "autores": "Wanderley Lopes de Souza, Gregor von Bochmann, Khalil El-Khatib, Xiaoqing He",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/035.pdf"
+        },
+        {
+            "titulo": "Uma ferramenta para desenvolvimento de aplicações para dispositivos móveis.",
+            "autores": "André C. O. Minelli, Antonio A. F. Loureiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/036.pdf"
+        },
+        {
+            "titulo": "Design and evaluation of a protocol for atomic multicast among mobile hosts.",
+            "autores": "Mateus de Freitas Ribeiro, Markus Endler",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/037.pdf"
+        },
+        {
+            "titulo": "A mobile infostation system for wireless data communications.",
+            "autores": "Dave A. T. Cavalcanti, Djamel Sadok, Judith Kelner",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/038.pdf"
+        },
+        {
+            "titulo": "WorkToDo – um sistema de gerenciamento de workflows para ambientes de comunicação sem fio.",
+            "autores": "Leonardo Hartleben Reinehr, Maria Beatriz Felgar de Toledo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/039.pdf"
+        },
+        {
+            "titulo": "Otimização de controlador Fuzzy para provisionamento de recursos em ambiente DiffServ através de algoritmo genético.",
+            "autores": "Marcial Porto Fernandez, Aloysio de Castro P. Pedroza, José Ferreira de Rezende",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/040.pdf"
+        },
+        {
+            "titulo": "Implementação diferenciação de serviços em servidores Web através de escalonamento adaptativo.",
+            "autores": "Carlos Montez",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/041.pdf"
+        },
+        {
+            "titulo": "Especificação de requisitos de qualidade de serviço em sistemas abertos: a linguagem QSL.",
+            "autores": "Frank A. Siqueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/042.pdf"
+        },
+        {
+            "titulo": "Justiça em modelos de negociação de serviços na Internet.",
+            "autores": "Carlos Alberto Kamienski, Djmael Sadok, Alejandro Frery",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/043.pdf"
+        },
+        {
+            "titulo": "Seleção dinâmica de objetos distribuídos no ambiente LuaSpace.",
+            "autores": "Thais Batista, José Neilton Morais, Milano G. Carvalho, Wander Teixeira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/044.pdf"
+        },
+        {
+            "titulo": "MJaco – integração do multicast IP na arquitetura CORBA.",
+            "autores": "Alysson Neves Bessani, Joni da Silva Fraga, Lau Cheuk Lung",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/045.pdf"
+        },
+        {
+            "titulo": "Meta-ORB: a highly configurable and adaptable reflective middleware platform.",
+            "autores": "Fábio Moreira Costa",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/046.pdf"
+        },
+        {
+            "titulo": "Uma abordagem de escalonamento adaptativo no ambiente real-time CORBA.",
+            "autores": "Alexandre Cervieiri, Rômulo Silva de Oliveira, Cláudio F. Resin Geyer",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/047.pdf"
+        },
+        {
+            "titulo": "Reuse and validation of requiments for mobile systems.",
+            "autores": "Rossana Andrade, Luigi Logrippo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/048.pdf"
+        },
+        {
+            "titulo": "Análise de estabilidade e imparcialidade em um novo algoritmo para transmissão multicast em camadas.",
+            "autores": "Valter Roesler, Gaspare Giuliano Bruno, José Valdeni de Lima",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/049.pdf"
+        },
+        {
+            "titulo": "Gerenciamento de recursos distribuídos em sistemas de grande escala.",
+            "autores": "Jeferson Roberto Marques, Fabio Kon",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                1,
+                14
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/050.pdf"
+        },
+        {
+            "titulo": "Implementation and performance of a total order multicast to multiple groups.",
+            "autores": "Udo Fritzke Jr.",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/051.pdf"
+        },
+        {
+            "titulo": "Um agente SNMP para detecção de intrusão baseada na monitoração de interações de protocolos.",
+            "autores": "Edgar Meneghetti, Luciano Gaspary, Liane Tarouco",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/052.pdf"
+        },
+        {
+            "titulo": "Políticas de segurança obrigatórias: Bell e Lapadula no CORBAsec.",
+            "autores": "Carla Merkle Westphall, Joni da S. Fraga, Carlos B. Westphall, Silvia C. S. Bianchi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/053.pdf"
+        },
+        {
+            "titulo": "Especificação formal e implementação de mecanismos de segurança para a resolução de nomes no DNS.",
+            "autores": "Vagner Sacramento, Anamaria Moreira, Guido Lemos, Thais Batista",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/2002/054.pdf"
+        }
+    ]
+}

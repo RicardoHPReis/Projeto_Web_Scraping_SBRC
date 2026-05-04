@@ -1,0 +1,373 @@
+{
+    "ano": 1988,
+    "nr_simposio": "VI",
+    "simposio": "SBRC",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "coord_geral": "José Eduardo de R. Dantas, José Marcos S. Nogueira, Oswaldo Sérgio F. de Carvalho e Newton Alberto de C. Lages",
+    "coord_programa": "Eduardo Whitaker Bergamini, João Eduardo de R. Dantas, José Roberto Boisson de Marca, Liane M. R. Tarouco, Lucas A. Moscato, Newton A. de C. Lages, Paulo Henrque A. Rodrigues, Sílvio R. L. Meira, William F. Giozza",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Iniciais",
+            "autores": "Páginas Iniciais",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 7,
+            "paginas": [
+                1,
+                7
+            ],
+            "paginas_pdf": [
+                1,
+                7
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/frontmatter.pdf"
+        },
+        {
+            "titulo": "Gerenciamento do sistema Compac.",
+            "autores": "José Ricardo P. Navas, José Roberto Emiliano Leite, Maria Cecilia R. B. Mandel, Ricardo de Carvalho Brissac",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                1,
+                13
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p01.pdf"
+        },
+        {
+            "titulo": "Tolerância a faltas em sistemas distribuídos de tempo real baseados em redes locais.",
+            "autores": "Daniel Brandão Cavalcanti",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p02.pdf"
+        },
+        {
+            "titulo": "Um controlador para rede local em anel com passagem de permissão.",
+            "autores": "Newton Alberto de Castilho Lages, Diógenes Cecílio da Silva Junior",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                1,
+                19
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p03.pdf"
+        },
+        {
+            "titulo": "Utilização da rede elétrica e da rede de telefonia para transmissão de sinais digitais.",
+            "autores": "Newton Alberto de Castilho Lages, Francisco Junqueira Muniz",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                1,
+                12
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p04.pdf"
+        },
+        {
+            "titulo": "Uma análise de adequabilidade e validação de primitivas de comunicação entre processos.",
+            "autores": "Augusto César Alves Sampaio, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                1,
+                22
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p05.pdf"
+        },
+        {
+            "titulo": "Desenvolvimento de programas distribuídos através de configuração dinâmica de processos.",
+            "autores": "George Roger Ribeiro Justo, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                1,
+                18
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p06.pdf"
+        },
+        {
+            "titulo": "Uma modelagem funcional dos MHS para a sua implementação.",
+            "autores": "Chun Yin Hsu",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                1,
+                22
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p07.pdf"
+        },
+        {
+            "titulo": "Analise da implementação dos serviços CCR para uma entidade de aplicação JTM",
+            "autores": "Luiz Fernando Rust da Costa Carmo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                1,
+                17
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p08.pdf"
+        },
+        {
+            "titulo": "Uma implementação da chamada remota de procedimento.",
+            "autores": "Celio Estevan Moron, Arthur João Catto",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p09.pdf"
+        },
+        {
+            "titulo": "Um estudo do serviço quarentena de dados com o modo de diálogo duplex.",
+            "autores": "Maria Izabel Cavalcanti Cabral",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                1,
+                16
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p10.pdf"
+        },
+        {
+            "titulo": "Sistema de conferência audio-gráfica para um ambiente de rede local.",
+            "autores": "Luiz Fernando Gomes Soares, Simone de Lima Martins",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                1,
+                22
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p11.pdf"
+        },
+        {
+            "titulo": "Sistema de telefonia para um ambiente de rede local com voz e dados integrados.",
+            "autores": "Luiz Fernando Gomes Soares, Nelson Ramos Ribeiro, Roberto Cesar Serra Cordeiro, Simone de Lima Martins, Solon Benayon da Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                1,
+                15
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p12.pdf"
+        },
+        {
+            "titulo": "Sistema integrado de voz e dados para troca de mensagem em um ambiente de rede local.",
+            "autores": "Luiz Fernando Gomes Soares, Nelson Ribeiro, Roberto Cesar Serra Cordeiro, Simone de Lima Martins, Solon Benayon da Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                1,
+                12
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p13.pdf"
+        },
+        {
+            "titulo": "Especificação e verificação em CCS de sistemas de comunicação.",
+            "autores": "Wanderley Lopes de Souza, Bernardo Gonçalves Riso, Adalberto F. M. Filho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                1,
+                21
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p14.pdf"
+        },
+        {
+            "titulo": "Proposta de especificação e implementação dos serviços de transferência, acesso e manipulação de arquivos (“FTAM”). ",
+            "autores": "Esther de Castro Pacitti",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                1,
+                23
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p15.pdf"
+        },
+        {
+            "titulo": "Padronização de servidores de arquivos em redes.",
+            "autores": "Liane Margarida Rockenbach Tarouco, Maria Janilce Almeida Wilkens",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                1,
+                22
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p16.pdf"
+        },
+        {
+            "titulo": "Serviços de transferência de arquivos em redes de automação de escritório.",
+            "autores": "Tereza Cristina Melo de Brito Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                1,
+                18
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p17.pdf"
+        },
+        {
+            "titulo": "Um servidor de arquivos com transações atômicas e diretórios para redes de computadores.",
+            "autores": "José Edgard Soares Júnior, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                1,
+                19
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1988/p18.pdf"
+        }
+    ]
+}
