@@ -15,7 +15,7 @@ def ler_transformar_pdf(link_pdf:str, ano_evento:int) -> list:
     pdf_dados.raise_for_status()
     pdf_bytes = io.BytesIO(pdf_dados.content)
     pdf_document = f.open(stream=pdf_bytes, filetype="pdf")
-    #print(f"Number of pages: {len(pdf_document)}")
+    pdf_document.save(f"SOL_SBRC/SBRC_{ano_evento}/merged_{ano_evento}.pdf")
     
     anais = abnt.ler_transformar_pdf_ABNT(link_pdf, ano_evento)
    

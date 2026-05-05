@@ -85,9 +85,9 @@ def web_scraping_sbrc(url:str) -> list:
         coord_prog = [c[2] for c in lista_coords if c[0] == eventos_sbrc[i][0]]
         premiados = [p[1] for p in lista_premios if p[0] == eventos_sbrc[i][0]]
         
-        eventos_sbrc[i].append(coord_geral[0] if coord_geral != [] else '')  # Coordenador Geral
-        eventos_sbrc[i].append(coord_prog[0] if coord_prog != [] else '')  # Coordenador do Programa
-        eventos_sbrc[i].append(premiados[0] if premiados != [] else '')  # Premiados
+        eventos_sbrc[i].append(coord_geral[0] if coord_geral != [] else '') # Coordenador Geral
+        eventos_sbrc[i].append(coord_prog[0] if coord_prog != [] else '')   # Coordenador do Programa
+        eventos_sbrc[i].append(premiados[0] if premiados != [] else '')     # Premiados
 
     # Adiciona os links para os anais dos eventos da SBRC, utilizando o BeautifulSoup para extrair os links presentes na página e associando-os aos eventos correspondentes
     todos_links = conteudo_principal.find_all('a')
@@ -99,8 +99,8 @@ def web_scraping_sbrc(url:str) -> list:
     eventos_sbrc.reverse()
     
     # Filtra os eventos da SBRC para incluir apenas aqueles até o ano de 2016, utilizando uma compreensão de lista para selecionar apenas os eventos que atendem a essa condição, e convertendo o ano de cada evento para um inteiro para facilitar a comparação
-    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) <= 2016]
-    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 1990]
+    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) <= 2016]
+    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 1990]
     
     return eventos_sbrc
 
@@ -196,7 +196,7 @@ def main():
     print(f"Total de eventos: {len(lista_simposios)}\n")
     print(f"Total de artigos: {soma_artigos}")
     
-    salvar_json(resultado_json, "lista_SBRC.json")
+    #salvar_json(resultado_json, "lista_SBRC.json")
     salvar_json_por_ano(resultado_json, "lista_SBRC")
 
 

@@ -12,6 +12,7 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
     anais = []
     dados_pdf = []
     pdf_dados = requests.get(link_url)
+    pdf_unificado = f.open()
     soup = BeautifulSoup(pdf_dados.content, 'html.parser')
     conteudo = soup.find('div', class_='entry-content')
     for br in conteudo.find_all("br"):
@@ -36,6 +37,7 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         
         pdf_artigo = requests.get(link_artigo)
         pdf_document = f.open(stream=io.BytesIO(pdf_artigo.content), filetype="pdf")
+        pdf_unificado.insert_file(pdf_document)
         
         if len(texto_des.split('. pp. ')) == 1 or texto_des.split('. pp. ')[-1].find('.') != -1 or paginas[0] == '' or paginas[-1] == '':
             paginas = [1, len(pdf_document)]
@@ -68,5 +70,8 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
             "link": link_artigo
         }
         anais.append(dados_anais_com_ano)
+    
+    pdf_unificado.save(f"SOL_SBRC/SBRC_{ano_evento}/merged_{ano_evento}.pdf")
+    pdf_unificado.close()
     
     return anais
