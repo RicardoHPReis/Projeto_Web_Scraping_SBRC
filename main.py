@@ -10,7 +10,7 @@ import json
 import re
 
 # Função para realizar o web scraping e ler os coordenadores dos eventos da SBRC, retornando uma lista de coordenadores com seus respectivos anos e funções
-def adcionar_coordenadores(link_url:str) -> list:
+def adicionar_coordenadores(link_url:str) -> list:
     coordenadores = []
     pdf_dados = requests.get(link_url)
     soup = BeautifulSoup(pdf_dados.content, 'html.parser')
@@ -39,7 +39,7 @@ def adcionar_coordenadores(link_url:str) -> list:
     return coordenadores
  
 # Função para realizar o web scraping e ler os prêmios dos eventos da SBRC, retornando uma lista de prêmios com seus respectivos anos e vencedores
-def adcionar_premios(link_url:str) -> list:
+def adicionar_premiados(link_url:str) -> list:
     premios = []
     pdf_dados = requests.get(link_url)
     soup = BeautifulSoup(pdf_dados.content, 'html.parser')
@@ -78,8 +78,8 @@ def web_scraping_sbrc(url:str) -> list:
         eventos_sbrc[i][0] = int(eventos_sbrc[i][0])
     
     # Adiciona os coordenadores e os prêmios aos eventos da SBRC, utilizando as funções de leitura de coordenadores e prêmios, e associando-os aos eventos correspondentes
-    lista_coords = adcionar_coordenadores('https://ce-resd.sbc.org.br/?page_id=49')
-    lista_premios = adcionar_premios('https://ce-resd.sbc.org.br/?page_id=296')
+    lista_coords = adicionar_coordenadores('https://ce-resd.sbc.org.br/?page_id=49')
+    lista_premios = adicionar_premiados('https://ce-resd.sbc.org.br/?page_id=296')
     for i, j in enumerate(eventos_sbrc):
         coord_geral = [c[1] for c in lista_coords if c[0] == eventos_sbrc[i][0]]
         coord_prog = [c[2] for c in lista_coords if c[0] == eventos_sbrc[i][0]]
@@ -99,8 +99,9 @@ def web_scraping_sbrc(url:str) -> list:
     eventos_sbrc.reverse()
     
     # Filtra os eventos da SBRC para incluir apenas aqueles até o ano de 2016, utilizando uma compreensão de lista para selecionar apenas os eventos que atendem a essa condição, e convertendo o ano de cada evento para um inteiro para facilitar a comparação
-    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) <= 2016]
-    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 1990]
+    eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) <= 2016]
+    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) >= 2012 and int(e[0]) <= 2016]
+    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 1994]
     
     return eventos_sbrc
 
@@ -175,10 +176,8 @@ def salvar_json_por_ano(lista_dados:list, nome_arquivo:str) -> None:
             print(f"Erro ao salvar arquivo '{nome_arquivo_final}': {e}")
 
 
-def main():
-    soma_artigos = 0
-    url_inicial = "https://ce-resd.sbc.org.br/?page_id=40"
-    
+def main(url_inicial:str):
+    soma_artigos = 0    
     lista_simposios = web_scraping_sbrc(url_inicial)
     for simposios in lista_simposios:
         print(simposios)
@@ -201,4 +200,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main("https://ce-resd.sbc.org.br/?page_id=40")

@@ -35,6 +35,7 @@ def transformar_texto(texto:str) -> str:
     texto = texto.replace("˘g", "ğ").replace("s’", "’s")
     texto = texto.replace(" ,", ",").replace(",,", ",").replace(" .", ".").replace(" ;", ";").replace(" :", ":")
     texto = texto.replace("-\n", "").replace("\n", " ").replace("  ", " ").replace("–", "-")
+    texto = texto.replace(" ", " ").replace("–", "-") #.replace("“", "\"").replace("”", "\"").replace("‘", "'").replace("’", "'").replace("…", "...").replace("•", "-").replace("—", "-")
     
     return texto
 

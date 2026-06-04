@@ -28,7 +28,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/frontmatter.pdf"
         },
         {
-            "titulo": "Gerenciamento do sistema Compac.",
+            "titulo": "Gerenciamento do sistema Compac",
             "autores": "José Ricardo P. Navas, José Roberto Emiliano Leite, Maria Cecilia R. B. Mandel, Ricardo de Carvalho Brissac",
             "ordem": "",
             "universidade": "",
@@ -47,7 +47,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p01.pdf"
         },
         {
-            "titulo": "Tolerância a faltas em sistemas distribuídos de tempo real baseados em redes locais.",
+            "titulo": "Tolerância a faltas em sistemas distribuídos de tempo real baseados em redes locais",
             "autores": "Daniel Brandão Cavalcanti",
             "ordem": "",
             "universidade": "",
@@ -66,7 +66,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p02.pdf"
         },
         {
-            "titulo": "Um controlador para rede local em anel com passagem de permissão.",
+            "titulo": "Um controlador para rede local em anel com passagem de permissão",
             "autores": "Newton Alberto de Castilho Lages, Diógenes Cecílio da Silva Junior",
             "ordem": "",
             "universidade": "",
@@ -85,7 +85,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p03.pdf"
         },
         {
-            "titulo": "Utilização da rede elétrica e da rede de telefonia para transmissão de sinais digitais.",
+            "titulo": "Utilização da rede elétrica e da rede de telefonia para transmissão de sinais digitais",
             "autores": "Newton Alberto de Castilho Lages, Francisco Junqueira Muniz",
             "ordem": "",
             "universidade": "",
@@ -104,7 +104,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p04.pdf"
         },
         {
-            "titulo": "Uma análise de adequabilidade e validação de primitivas de comunicação entre processos.",
+            "titulo": "Uma análise de adequabilidade e validação de primitivas de comunicação entre processos",
             "autores": "Augusto César Alves Sampaio, Paulo Roberto Freire Cunha",
             "ordem": "",
             "universidade": "",
@@ -123,7 +123,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p05.pdf"
         },
         {
-            "titulo": "Desenvolvimento de programas distribuídos através de configuração dinâmica de processos.",
+            "titulo": "Desenvolvimento de programas distribuídos através de configuração dinâmica de processos",
             "autores": "George Roger Ribeiro Justo, Paulo Roberto Freire Cunha",
             "ordem": "",
             "universidade": "",
@@ -142,7 +142,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p06.pdf"
         },
         {
-            "titulo": "Uma modelagem funcional dos MHS para a sua implementação.",
+            "titulo": "Uma modelagem funcional dos MHS para a sua implementação",
             "autores": "Chun Yin Hsu",
             "ordem": "",
             "universidade": "",
@@ -180,7 +180,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p08.pdf"
         },
         {
-            "titulo": "Uma implementação da chamada remota de procedimento.",
+            "titulo": "Uma implementação da chamada remota de procedimento",
             "autores": "Celio Estevan Moron, Arthur João Catto",
             "ordem": "",
             "universidade": "",
@@ -199,7 +199,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p09.pdf"
         },
         {
-            "titulo": "Um estudo do serviço quarentena de dados com o modo de diálogo duplex.",
+            "titulo": "Um estudo do serviço quarentena de dados com o modo de diálogo duplex",
             "autores": "Maria Izabel Cavalcanti Cabral",
             "ordem": "",
             "universidade": "",
@@ -218,7 +218,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p10.pdf"
         },
         {
-            "titulo": "Sistema de conferência audio-gráfica para um ambiente de rede local.",
+            "titulo": "Sistema de conferência audio-gráfica para um ambiente de rede local",
             "autores": "Luiz Fernando Gomes Soares, Simone de Lima Martins",
             "ordem": "",
             "universidade": "",
@@ -237,7 +237,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p11.pdf"
         },
         {
-            "titulo": "Sistema de telefonia para um ambiente de rede local com voz e dados integrados.",
+            "titulo": "Sistema de telefonia para um ambiente de rede local com voz e dados integrados",
             "autores": "Luiz Fernando Gomes Soares, Nelson Ramos Ribeiro, Roberto Cesar Serra Cordeiro, Simone de Lima Martins, Solon Benayon da Silva",
             "ordem": "",
             "universidade": "",
@@ -256,7 +256,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p12.pdf"
         },
         {
-            "titulo": "Sistema integrado de voz e dados para troca de mensagem em um ambiente de rede local.",
+            "titulo": "Sistema integrado de voz e dados para troca de mensagem em um ambiente de rede local",
             "autores": "Luiz Fernando Gomes Soares, Nelson Ribeiro, Roberto Cesar Serra Cordeiro, Simone de Lima Martins, Solon Benayon da Silva",
             "ordem": "",
             "universidade": "",
@@ -275,7 +275,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p13.pdf"
         },
         {
-            "titulo": "Especificação e verificação em CCS de sistemas de comunicação.",
+            "titulo": "Especificação e verificação em CCS de sistemas de comunicação",
             "autores": "Wanderley Lopes de Souza, Bernardo Gonçalves Riso, Adalberto F. M. Filho",
             "ordem": "",
             "universidade": "",
@@ -294,7 +294,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p14.pdf"
         },
         {
-            "titulo": "Proposta de especificação e implementação dos serviços de transferência, acesso e manipulação de arquivos (“FTAM”). ",
+            "titulo": "Proposta de especificação e implementação dos serviços de transferência, acesso e manipulação de arquivos (“FTAM”)",
             "autores": "Esther de Castro Pacitti",
             "ordem": "",
             "universidade": "",
@@ -313,7 +313,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p15.pdf"
         },
         {
-            "titulo": "Padronização de servidores de arquivos em redes.",
+            "titulo": "Padronização de servidores de arquivos em redes",
             "autores": "Liane Margarida Rockenbach Tarouco, Maria Janilce Almeida Wilkens",
             "ordem": "",
             "universidade": "",
@@ -332,7 +332,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p16.pdf"
         },
         {
-            "titulo": "Serviços de transferência de arquivos em redes de automação de escritório.",
+            "titulo": "Serviços de transferência de arquivos em redes de automação de escritório",
             "autores": "Tereza Cristina Melo de Brito Carvalho",
             "ordem": "",
             "universidade": "",
@@ -351,7 +351,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1988/p17.pdf"
         },
         {
-            "titulo": "Um servidor de arquivos com transações atômicas e diretórios para redes de computadores.",
+            "titulo": "Um servidor de arquivos com transações atômicas e diretórios para redes de computadores",
             "autores": "José Edgard Soares Júnior, José Marcos Silva Nogueira",
             "ordem": "",
             "universidade": "",

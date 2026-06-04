@@ -9,15 +9,15 @@
     "premiados": "",
     "anais": [
         {
-            "titulo": "Efficient incremental sensor network deployment algorithm. pp. 3-14",
+            "titulo": "Efficient incremental sensor network deployment algorithm. pp",
             "autores": "Luiz Filipe M. Vieira, Marcos Augusto M. Vieira, Linnyer Beatrys Ruiz, Antônio Alfredo F. Loureiro, Diógenes Cecilio Silva, Antônio Otávio Fernandes",
             "ordem": "1|1|13|1|2|1",
             "universidade": "Computer Science Department, Federal University of Minas Gerais Avenida Antònio Carlos, 6627 - Pampulha - Belo Horizonte-MG Brazil|Department of Electrical Engineer, Federal University of Minas Gerais Avenida Antònio Carlos, 6627 - Pampulha - Belo Horizonte-MG Brazil|Pontifícia Universidade Católica do Paraná R. Imaculada Conceição, 1155 - CEP 80215-901 Curitiba-PR Brazil",
             "lingua": "En",
             "num_paginas": 11,
             "paginas": [
-                1,
-                11
+                3,
+                14
             ],
             "paginas_pdf": [
                 1,
@@ -826,15 +826,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/043.pdf"
         },
         {
-            "titulo": "O rerroteamento parcial pró-ativo em redes baseadas em circuito virtual. pp. 559-562",
+            "titulo": "O rerroteamento parcial pró-ativo em redes baseadas em circuito virtual",
             "autores": "R. de B. Correira, E. L. Cecilio, A. P. M. Dumont, L. F. Rust da C., Luci Pirmez",
             "ordem": "",
             "universidade": "Núcleo de Computação Eletrônica - Universidade Federal do Rio de Janeiro Tel: 021 2598-3159 - Caixa Postal 2324, Rio de Janeiro, RJ, Brasil",
             "lingua": "En",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                559,
+                562
             ],
             "paginas_pdf": [
                 1,
@@ -845,15 +845,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/044.pdf"
         },
         {
-            "titulo": "Proposta para otimização de desempenho do protocolo TCP em redes sem fio 802.11. pp. 563-566",
+            "titulo": "Proposta para otimização de desempenho do protocolo TCP em redes sem fio 802.11",
             "autores": "André Aguiar Santana, Tereza Cristina de Melo Brito Carvalho",
             "ordem": "",
             "universidade": "Escola Politécnica da Universidade de São Paulo (USP)  CEP 05508-900 - São Paulo - SP - Brazil",
             "lingua": "Pt",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                563,
+                566
             ],
             "paginas_pdf": [
                 1,
@@ -864,15 +864,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/045.pdf"
         },
         {
-            "titulo": "Descoberta de rotas e mecanismo de agregação em redes de sensores. pp. 567-570",
+            "titulo": "Descoberta de rotas e mecanismo de agregação em redes de sensores",
             "autores": "Antonio José Gonçalves Pinto, Jorgito Stochero, José Ferreira de Rezende",
             "ordem": "∗|1",
             "universidade": "Grupo de Teleinformática e Automação (GTA) Universidade Federal do Rio de Janeiro (UFRJ)",
             "lingua": "Pt",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                567,
+                570
             ],
             "paginas_pdf": [
                 1,
@@ -883,15 +883,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/046.pdf"
         },
         {
-            "titulo": "PROC: um protocolo pró-ativo com coordenação de rotas em redes de sensores sem fio. pp. 571-574",
+            "titulo": "PROC: um protocolo pró-ativo com coordenação de rotas em redes de sensores sem fio",
             "autores": "Daniel Fernandes Macedo, Luiz Henrique Andrade Correia, Antonio Alfredo Ferreira Loureiro, José Marcos Nogueira",
             "ordem": "1|1",
             "universidade": "|, Antonio Alfredo Ferreira Loureiro|, José Marcos Nogueira|Departamento de Ciência da Computação Universidade Federal de Minas Gerais|Departamento de Ciência da Computação Universidade Federal de Lavras",
             "lingua": "En",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                571,
+                574
             ],
             "paginas_pdf": [
                 1,
@@ -902,15 +902,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/047.pdf"
         },
         {
-            "titulo": "Aspectos de detecção de intrusos em redes de sensores sem fio. pp. 575-578",
+            "titulo": "Aspectos de detecção de intrusos em redes de sensores sem fio",
             "autores": "Ana Paula Ribeiro da Silva, Fernando Augusto Teixeira, Hao Chi Wong, José Marcos S. Nogueira",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                575,
+                578
             ],
             "paginas_pdf": [
                 1,
@@ -921,15 +921,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/048.pdf"
         },
         {
-            "titulo": "Um serviço de distribuição de vídeo sob demanda baseado em uma rede de servidores D-VoD. pp. 579-582",
+            "titulo": "Um serviço de distribuição de vídeo sob demanda baseado em uma rede de servidores D-VoD",
             "autores": "Tiago Salmito, João Paulo Farias, Gledson Elias, Guido Lemos, Luiz Leite",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                579,
+                582
             ],
             "paginas_pdf": [
                 1,
@@ -940,15 +940,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/049.pdf"
         },
         {
-            "titulo": "Improving the quality of service of failure detectors with SNMP and artificial neural networks. pp. 583-586",
+            "titulo": "Improving the quality of service of failure detectors with SNMP and artificial neural networks",
             "autores": "Raimundo José de Araújo Macêdo, Fábio Ramon Lima e Lima",
             "ordem": "",
             "universidade": "Laboratório de Sistemas Distribuídos - LaSiD Departamento de Ciência da Computação Universidade Federal da Bahia Campus de Ondina, CEP: 40170-110, Salvador-BA, Brazil",
             "lingua": "En",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                583,
+                586
             ],
             "paginas_pdf": [
                 1,
@@ -959,15 +959,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/050.pdf"
         },
         {
-            "titulo": "Metodologia para estimar o atraso em um sentido e experimentos na Internet. pp. 589-602",
+            "titulo": "Metodologia para estimar o atraso em um sentido e experimentos na Internet",
             "autores": "Antonio A. de A. Rocha, Rosa M. M. Leão, Edmundo de Souza e Silva",
             "ordem": "",
             "universidade": "Universidade Federal do Rio de Janeiro COPPE/Prog. de Eng. de Sistemas e Computação e Depto. de Ciência da Computação do IM Caixa Postal 68511, Rio de Janeiro, RJ 21941-972 arocha, rosam, edmundo @land.ufrj.br",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                589,
+                602
             ],
             "paginas_pdf": [
                 1,
@@ -978,15 +978,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/051.pdf"
         },
         {
-            "titulo": "Utilização do modelo E para avaliação da qualidade da fala em sistemas de comunicação baseados em voz sobre IP. pp. 603-616",
+            "titulo": "Utilização do modelo E para avaliação da qualidade da fala em sistemas de comunicação baseados em voz sobre IP",
             "autores": "Leandro C. G. Lustosa, Leandro S. G. Carvalho, Paulo H. de A. Rodrigues, Edjair de S. Mota",
             "ordem": "2|1|2|1",
             "universidade": "Laboratório de Voz sobre IP - Departamento de Ciência da Computação - Universidade Federal do Amazonas (UFAM)||Laboratório de Voz sobre IP - Núcleo de Computação Eletrônica - Universidade Federal do Rio de Janeiro (NCE/UFRJ)|| Parcialmente suportados com recursos do projeto UFAM/INdT. | Parcialmente suportados com recursos do GT-VOIP, grupo de trabalho mantido pela RNP. Paulo H. de A. Rodrigues é também professor do Departamento de Computação/IM da UFRJ.",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                603,
+                616
             ],
             "paginas_pdf": [
                 1,
@@ -997,15 +997,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/052.pdf"
         },
         {
-            "titulo": "QoSYNC: quality of synchronization for clocks on networked computers. pp. 617-630",
+            "titulo": "QoSYNC: quality of synchronization for clocks on networked computers",
             "autores": "Arthur de Castro Callado, Judith Kelner, Alejandro C. Frery",
             "ordem": "1|1|2",
             "universidade": "Centro de Informática - Universidade Federal de Pernambuco (UFPE) Caixa Postal 7851 - 50732-970 - Recife - PE - Brazil |Departamento de Tecnologia da Informação - Universidade Federal de Alagoas 57072-970 - Maceió - AL - Brazil",
             "lingua": "En",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                617,
+                630
             ],
             "paginas_pdf": [
                 1,
@@ -1016,15 +1016,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/053.pdf"
         },
         {
-            "titulo": "Algoritmo memético aplicado ao problema de RWA estático em WDM com e sem conversão. pp. 633-646",
+            "titulo": "Algoritmo memético aplicado ao problema de RWA estático em WDM com e sem conversão",
             "autores": "Tatiane Regina Bonfim, Akebo Yamakami, Fabiano J. L. Pádua, Edson Moschim",
             "ordem": "\u0000|\u0000|\u0000",
             "universidade": "Departamento de Telemática - Faculdade de Engenharia Elétrica Universidade Estadual de Campinas - Caixa Postal 6101 - 13081-970 - Campinas, SP Departamento de Semicondutores Instrumentação e Fotònica Faculdade de Engenharia Elétrica - Universidade Estadual de Campinas Caixa Postal 6101 - 13081-970 - Campinas, SP",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                633,
+                646
             ],
             "paginas_pdf": [
                 1,
@@ -1035,15 +1035,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/054.pdf"
         },
         {
-            "titulo": "Appropriate teletraffic framework in IP over WDM. pp. 647-660",
+            "titulo": "Appropriate teletraffic framework in IP over WDM",
             "autores": "Helio Waldman, Fernando L. Trazzi Jr., Moisés R. N. Ribeiro",
             "ordem": "1|2|2",
             "universidade": "DECOM/FEEC/UNICAMP Caixa Postal 6101 - 13083-970 - Campinas, SP - Brasil |LABTEL/DEL/CT/UFES Caixa Postal 01-9011- 29060-970-Vitória, ES - Brasil",
             "lingua": "En",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                647,
+                660
             ],
             "paginas_pdf": [
                 1,
@@ -1054,15 +1054,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/055.pdf"
         },
         {
-            "titulo": "Avaliação de desempenho de algoritmos para alocação dinâmica de comprimentos de onda em redes ópticas transparentes. pp. 661-674",
+            "titulo": "Avaliação de desempenho de algoritmos para alocação dinâmica de comprimentos de onda em redes ópticas transparentes",
             "autores": "André C. B. Soares, William F. Giozza",
             "ordem": "∗|1",
             "universidade": "NUPERC - Universidade Salvador - UNIFACS R. Ponciano de Oliveira, 126, Rio Vermelho - 41950-275 Salvador, BA",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                661,
+                674
             ],
             "paginas_pdf": [
                 1,
@@ -1073,15 +1073,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/056.pdf"
         },
         {
-            "titulo": "A scalable approach for the distribution of E-commerce services based on application level active networks. pp. 677-690",
+            "titulo": "A scalable approach for the distribution of E-commerce services based on application level active networks",
             "autores": "Fabrício Benevenuto, Breno Vitorino, Bruno Coutinho, Dorgival Guedes, Wagner Meira Jr.",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                677,
+                690
             ],
             "paginas_pdf": [
                 1,
@@ -1092,15 +1092,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/057.pdf"
         },
         {
-            "titulo": "Uma avaliação empírica de políticas de invocação para serviços Web replicados. pp. 691-704",
+            "titulo": "Uma avaliação empírica de políticas de invocação para serviços Web replicados",
             "autores": "José Airton Fernandes da Silva, Nabor das Chagas Mendonça",
             "ordem": "",
             "universidade": "Mestrado em Informática Aplicada - Universidade de Fortaleza Caixa Postal 1258 - 60.811-905 - Fortaleza - CE",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                691,
+                704
             ],
             "paginas_pdf": [
                 1,
@@ -1111,15 +1111,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/058.pdf"
         },
         {
-            "titulo": "VM-Flow – um modelo de marketplace virtual baseado em políticas de orquestração de serviços. pp. 705-718",
+            "titulo": "VM-Flow – um modelo de marketplace virtual baseado em políticas de orquestração de serviços",
             "autores": "Ivo José Garcia dos Santos, Edmundo Roberto Mauro Madeira",
             "ordem": "1|1",
             "universidade": "Instituto de Computação - Universidade Estadual de Campinas (UNICAMP) Caixa Postal 6176 - 13.083-970 - Campinas - SP - Brasil",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                705,
+                718
             ],
             "paginas_pdf": [
                 1,
@@ -1130,15 +1130,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/059.pdf"
         },
         {
-            "titulo": "Modelos analíticos em tempo discreto para a obtenção da probabilidade de perda de sistemas com diferenciação de serviço. pp. 721-734",
+            "titulo": "Modelos analíticos em tempo discreto para a obtenção da probabilidade de perda de sistemas com diferenciação de serviço",
             "autores": "João Carmo de Almeida Neto, Luís Felipe M. de Moraes",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                721,
+                734
             ],
             "paginas_pdf": [
                 1,
@@ -1149,15 +1149,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/060.pdf"
         },
         {
-            "titulo": "Gerência adaptativa e programável de qualidade de serviço em redes IP. pp. 735-748",
+            "titulo": "Gerência adaptativa e programável de qualidade de serviço em redes IP",
             "autores": "Miguel F. de Castro, Dominique Gaïti, Abdallah M’hamed, Rossana M. C. Andrade",
             "ordem": "1∗|2|1|3",
             "universidade": "RST - Institut National des Télécommunications 9 rue Charles Fourier - 91011 - Evry Cedex - France|LM2S - Université de Technologie de Troyes 12 rue Marie Curie - 10010 - Troyes Cedex - France|DC - Universidade Federal do Ceará Campus do Pici - Bloco 910 - 60.455-220 - Fortaleza/CE - Brasil",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                735,
+                748
             ],
             "paginas_pdf": [
                 1,
@@ -1168,15 +1168,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/061.pdf"
         },
         {
-            "titulo": "Solução baseada em políticas para gerenciamento integrado de QoS e multicast em redes IP, usando PCIMe. pp. 749-762",
+            "titulo": "Solução baseada em políticas para gerenciamento integrado de QoS e multicast em redes IP, usando PCIMe",
             "autores": "Leandro Vaguetti, Lisandro Granville, Janilce Almeida, Liane Tarouco",
             "ordem": "1|2|2|2",
             "universidade": "Faculdade Euro-Americana Av. das Nações Sul, Trecho 0, Conjunto 5 - 70200-000 Brasília, DF|Instituto de Informática - Universidade Federal do Rio Grande do Sul Caixa Postal 15064 - 90501-970 Porto Alegre, RS",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                749,
+                762
             ],
             "paginas_pdf": [
                 1,
@@ -1187,15 +1187,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/062.pdf"
         },
         {
-            "titulo": "Suporte de tolerância a faltas adaptativa para aplicações desenvolvidas em CCM. pp. 765-778",
+            "titulo": "Suporte de tolerância a faltas adaptativa para aplicações desenvolvidas em CCM",
             "autores": "Fábio Favarim, Joni Fraga, Lau Cheuk Lung, Frank Siqueira",
             "ordem": "1†|1‡|2|3",
             "universidade": "Departamento de Automação e Sistemas - DAS |Departamento de Informática e Estatística - INE Universidade Federal de Santa Catarina - UFSC Florianópolis - SC - Brasil - CEP 88040-900 |Programa de Pós-Graduação em Informática Aplicada - PPGIA Pontifícia Universidade Católica do Paraná - PUCPR",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                765,
+                778
             ],
             "paginas_pdf": [
                 1,
@@ -1206,15 +1206,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/063.pdf"
         },
         {
-            "titulo": "Uma abordagem para investigação de sistemas distribuídos baseados em grupo na Internet. pp. 779-792",
+            "titulo": "Uma abordagem para investigação de sistemas distribuídos baseados em grupo na Internet",
             "autores": "Marinho P. Barcellos, Maglan C. Diemer, André Detsch",
             "ordem": "1",
             "universidade": "PIPCA - Programa de Pós-Graduação em Computação Aplicada Centro de Ciências Exatas e Tecnológicas - UNISINOS Av. Unisinos, 950 - São Leopoldo, RS - CEP93022-000 {marinho,maglan,detsch}@exatas.unisinos.br",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                779,
+                792
             ],
             "paginas_pdf": [
                 1,
@@ -1225,15 +1225,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/064.pdf"
         },
         {
-            "titulo": "Replicação ativa no CORBA: padrões, protocolos e framework de implementação. pp. 793-806",
+            "titulo": "Replicação ativa no CORBA: padrões, protocolos e framework de implementação",
             "autores": "Alysson Neves Bessani, Joni da Silva Fraga, Lau Cheuk Lung, Eduardo Adílio Pelinson Alchieri",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                793,
+                806
             ],
             "paginas_pdf": [
                 1,
@@ -1244,15 +1244,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/065.pdf"
         },
         {
-            "titulo": "Um ambiente para especificação e verificação automática de aplicações baseadas em agentes móveis. pp. 807-820",
+            "titulo": "Um ambiente para especificação e verificação automática de aplicações baseadas em agentes móveis",
             "autores": "Aline M. S. Andrade, Flávio M. Assis Silva, Frederico J. R. Barboza, Rafael A. R. Oliveira",
             "ordem": "",
             "universidade": "LaSiD - Laboratório de Sistemas Distribu ´idos DCC - Departamento de Ciência da Computação UFBA - Universidade Federal da Bahia Av. Adhemar de Barros, S/N - Campus de Ondina 40170-110 Salvador, BA|",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                807,
+                820
             ],
             "paginas_pdf": [
                 1,
@@ -1263,15 +1263,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/066.pdf"
         },
         {
-            "titulo": "Execução segura de assinaturas confiáveis em documentos eletrônicos. pp. 823-836",
+            "titulo": "Execução segura de assinaturas confiáveis em documentos eletrônicos",
             "autores": "Júlio da Silva Dias, Jean Everson Martina, Ricardo Felipe Custódio, Daniel Santana de Freitas",
             "ordem": "1∗|2|2|2",
             "universidade": "Universidade do Estado de Santa Catarina Av. Madre Benvenuta, 2037 - 88035-001 Florianópolis, SC|Laboratório de Segurança em Computação - Universidade Federal de Santa Catarina Caixa Postal 476 - 88040-900 Florianópolis, SC",
             "lingua": "Pt",
             "num_paginas": 13,
             "paginas": [
-                1,
-                13
+                823,
+                836
             ],
             "paginas_pdf": [
                 1,
@@ -1282,15 +1282,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/067.pdf"
         },
         {
-            "titulo": "Impacto das políticas de replicação na disponibilidade de documentos em redes P2P sob ataques DoS. pp. 837-850",
+            "titulo": "Impacto das políticas de replicação na disponibilidade de documentos em redes P2P sob ataques DoS",
             "autores": "Michele Nogueira Lima, Dorgival Olavo Guedes Neto",
             "ordem": "",
             "universidade": "Departamento de Ciência da Computação - DCC Universidade Federal de Minas Gerais Belo Horizonte, MG|",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                837,
+                850
             ],
             "paginas_pdf": [
                 1,
@@ -1301,15 +1301,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2004/068.pdf"
         },
         {
-            "titulo": "Identificação de cenários de intrusão pela classificação, caracterização e análise de eventos gerados pro firewalls. pp. 851-864",
+            "titulo": "Identificação de cenários de intrusão pela classificação, caracterização e análise de eventos gerados pro firewalls",
             "autores": "Fábio Elias Locatelli, Fabiane Dillenburg, Cristina Melchiors, Luciano Gaspary",
             "ordem": "",
             "universidade": "Programa Interdisciplinar de Pós-Graduação em Computação Aplicada (PIPCA) Universidade do Vale do Rio dos Sinos (UNISINOS) Av. Unisinos 950 - 93022-000 - São Leopoldo - RS - Brasil",
             "lingua": "Pt",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                851,
+                864
             ],
             "paginas_pdf": [
                 1,

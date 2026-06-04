@@ -54,8 +54,8 @@
             "lingua": "",
             "num_paginas": 13,
             "paginas": [
-                1,
-                13
+                31,
+                43
             ],
             "paginas_pdf": [
                 1,
@@ -218,15 +218,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1999/011.pdf"
         },
         {
-            "titulo": "Análise comparativa de algoritmos de roteamento multicast para comunicação multimídia em redes ATM. pp.175-190",
+            "titulo": "Análise comparativa de algoritmos de roteamento multicast para comunicação multimídia em redes ATM",
             "autores": "Frank Meylan, Luis Gustavo Gasparini Kiatake, Marcelo Zanoni Santos, Sergio Takeo Kofuji, Jean Pierre Courtiat",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                175,
+                190
             ],
             "paginas_pdf": [
                 1,
@@ -769,15 +769,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1999/040.pdf"
         },
         {
-            "titulo": "Cooperação entre caches para Web. 533-548",
+            "titulo": "Cooperação entre caches para Web",
             "autores": "Roberto Ferreira Brandão, Ricardo de Oliveira Anido",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                533,
+                548
             ],
             "paginas_pdf": [
                 1,
@@ -826,7 +826,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1999/043.pdf"
         },
         {
-            "titulo": "Otimização de desconexão usando o controle de buffers em TCP. p. 569 (short paper)",
+            "titulo": "Otimização de desconexão usando o controle de buffers em TCP",
             "autores": "Carlos de Morais Cordeiro, Judith Kelner, Djamel H. Sadok",
             "ordem": "",
             "universidade": "",

@@ -769,15 +769,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1994/p39.pdf"
         },
         {
-            "titulo": "Realização de um sistema orientado a objetos para o ensino de redes computadores .pp. 746-765",
+            "titulo": "Realização de um sistema orientado a objetos para o ensino de redes computadores",
             "autores": "Guy Barroso, Luís Araújo Jr., Régis Simão, Mauro Oliveira",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 20,
             "paginas": [
-                1,
-                20
+                746,
+                765
             ],
             "paginas_pdf": [
                 1,

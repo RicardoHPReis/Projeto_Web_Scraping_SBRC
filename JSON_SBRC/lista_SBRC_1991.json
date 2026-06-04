@@ -47,15 +47,15 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/1991/p01.pdf"
         },
         {
-            "titulo": "Comunicação de computadores através de redes heterogêneas: existe um solução padronizada? pp. 85-101",
+            "titulo": "Comunicação de computadores através de redes heterogêneas: existe um solução padronizada?",
             "autores": "Wagner Luiz Zucchi",
             "ordem": "",
             "universidade": "",
             "lingua": "",
             "num_paginas": 17,
             "paginas": [
-                1,
-                17
+                85,
+                101
             ],
             "paginas_pdf": [
                 1,

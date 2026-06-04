@@ -73,8 +73,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                50,
+                65
             ],
             "paginas_pdf": [
                 1,
@@ -85,7 +85,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2000/004.pdf"
         },
         {
-            "titulo": "Um mecanismo de retransmissão eficiente para multicast. pp",
+            "titulo": "Um mecanismo de retransmissão eficiente para multicast",
             "autores": "Carlos de M. Cordeiro, Djamel H. Sadok, Judith Kelner",
             "ordem": "",
             "universidade": "",
@@ -111,8 +111,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                85,
+                100
             ],
             "paginas_pdf": [
                 1,
@@ -130,8 +130,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                101,
+                116
             ],
             "paginas_pdf": [
                 1,
@@ -187,8 +187,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                151,
+                166
             ],
             "paginas_pdf": [
                 1,
@@ -206,8 +206,8 @@
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                169,
+                182
             ],
             "paginas_pdf": [
                 1,
@@ -225,8 +225,8 @@
             "lingua": "",
             "num_paginas": 11,
             "paginas": [
-                1,
-                11
+                183,
+                193
             ],
             "paginas_pdf": [
                 1,
@@ -244,8 +244,8 @@
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                194,
+                207
             ],
             "paginas_pdf": [
                 1,
@@ -263,8 +263,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                211,
+                226
             ],
             "paginas_pdf": [
                 1,
@@ -282,8 +282,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                227,
+                242
             ],
             "paginas_pdf": [
                 1,
@@ -301,8 +301,8 @@
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                243,
+                256
             ],
             "paginas_pdf": [
                 1,
@@ -320,8 +320,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                259,
+                274
             ],
             "paginas_pdf": [
                 1,
@@ -339,8 +339,8 @@
             "lingua": "",
             "num_paginas": 11,
             "paginas": [
-                1,
-                11
+                275,
+                285
             ],
             "paginas_pdf": [
                 1,
@@ -351,7 +351,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2000/018.pdf"
         },
         {
-            "titulo": "Uma arquitetura para análise de carga de sinalização em redes de comunicação móvel celular. pp.",
+            "titulo": "Uma arquitetura para análise de carga de sinalização em redes de comunicação móvel celular",
             "autores": "Kelvin Lopes Dias, Jairo Coutinho de Oliveira, Demétrio de Souza M. Filho, Djamel Fawzi Hadj Sadok",
             "ordem": "",
             "universidade": "",
@@ -377,8 +377,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                305,
+                320
             ],
             "paginas_pdf": [
                 1,
@@ -396,8 +396,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                321,
+                336
             ],
             "paginas_pdf": [
                 1,
@@ -415,8 +415,8 @@
             "lingua": "",
             "num_paginas": 15,
             "paginas": [
-                1,
-                15
+                337,
+                351
             ],
             "paginas_pdf": [
                 1,
@@ -434,8 +434,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                355,
+                370
             ],
             "paginas_pdf": [
                 1,
@@ -453,8 +453,8 @@
             "lingua": "",
             "num_paginas": 13,
             "paginas": [
-                1,
-                13
+                371,
+                383
             ],
             "paginas_pdf": [
                 1,
@@ -465,7 +465,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2000/024.pdf"
         },
         {
-            "titulo": "Certificados digitais: uma ferramenta desenvolvida com base no padrão SET. pp.",
+            "titulo": "Certificados digitais: uma ferramenta desenvolvida com base no padrão SET",
             "autores": "Tommy Jakobsen, Maria Janilce B. Almeida",
             "ordem": "",
             "universidade": "",
@@ -491,8 +491,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                403,
+                406
             ],
             "paginas_pdf": [
                 1,
@@ -510,8 +510,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                407,
+                410
             ],
             "paginas_pdf": [
                 1,
@@ -529,8 +529,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                411,
+                414
             ],
             "paginas_pdf": [
                 1,
@@ -548,8 +548,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                415,
+                418
             ],
             "paginas_pdf": [
                 1,
@@ -567,8 +567,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                419,
+                422
             ],
             "paginas_pdf": [
                 1,
@@ -586,8 +586,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                423,
+                426
             ],
             "paginas_pdf": [
                 1,
@@ -605,8 +605,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                427,
+                430
             ],
             "paginas_pdf": [
                 1,
@@ -624,8 +624,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                431,
+                434
             ],
             "paginas_pdf": [
                 1,
@@ -643,8 +643,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                435,
+                438
             ],
             "paginas_pdf": [
                 1,
@@ -662,8 +662,8 @@
             "lingua": "",
             "num_paginas": 4,
             "paginas": [
-                1,
-                4
+                441,
+                444
             ],
             "paginas_pdf": [
                 1,
@@ -681,8 +681,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                457,
+                472
             ],
             "paginas_pdf": [
                 1,
@@ -693,7 +693,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2000/035.pdf"
         },
         {
-            "titulo": "Análise de desempenho da terceirização de serviços de comércio eletrônico. pp.",
+            "titulo": "Análise de desempenho da terceirização de serviços de comércio eletrônico",
             "autores": "Bruno Diniz, Wagner Meira Jr., Virgílio Almeida",
             "ordem": "",
             "universidade": "",
@@ -719,8 +719,8 @@
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                489,
+                502
             ],
             "paginas_pdf": [
                 1,
@@ -738,8 +738,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                505,
+                520
             ],
             "paginas_pdf": [
                 1,
@@ -757,8 +757,8 @@
             "lingua": "",
             "num_paginas": 14,
             "paginas": [
-                1,
-                14
+                519,
+                532
             ],
             "paginas_pdf": [
                 1,
@@ -776,8 +776,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                537,
+                552
             ],
             "paginas_pdf": [
                 1,
@@ -795,8 +795,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                553,
+                568
             ],
             "paginas_pdf": [
                 1,
@@ -814,8 +814,8 @@
             "lingua": "",
             "num_paginas": 16,
             "paginas": [
-                1,
-                16
+                569,
+                584
             ],
             "paginas_pdf": [
                 1,

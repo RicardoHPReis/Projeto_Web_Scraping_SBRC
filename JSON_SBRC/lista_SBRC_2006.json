@@ -9,7 +9,7 @@
     "premiados": "",
     "anais": [
         {
-            "titulo": "Analysis of access selection algorithms for multi-access networks with elastic traffic.",
+            "titulo": "Analysis of access selection algorithms for multi-access networks with elastic traffic",
             "autores": "Igor Cananéa, Dênio Mariz, Jeísa Oliveira, Djamel Sadok, Gábor Fodor",
             "ordem": "1|1|1|1|2",
             "universidade": "Centro de Informática - Universidade Federal de Pernambuco (UFPE) Av. Prof. Luis Freire, S/N - Recife - PE - Brazil|Ericsson Research SE-164 80 Stockholm, Sweden",
@@ -28,7 +28,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st1_1.pdf"
         },
         {
-            "titulo": "Identificação de região de congestionamento através de comunicação inter-veicular.",
+            "titulo": "Identificação de região de congestionamento através de comunicação inter-veicular",
             "autores": "Hélcio Mello, Markus Endler",
             "ordem": "1|1",
             "universidade": "Departamento de Informática - Pontifícia Universidade Católica do Rio de Janeiro Rua Marquês de São Vicente, 225, Gávea, Rio de Janeiro — RJ — Brasil",
@@ -47,7 +47,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st1_2.pdf"
         },
         {
-            "titulo": "Avaliação de desempenho da técnica de varredura em roteamento ad hoc com antenas direcionais.",
+            "titulo": "Avaliação de desempenho da técnica de varredura em roteamento ad hoc com antenas direcionais",
             "autores": "Glauco F. Amorim, José F. de Rezende",
             "ordem": "1|1",
             "universidade": "GTA - PEE - COPPE - Universidade Federal do Rio de Janeiro (UFRJ) Caixa Postal 68.504 - 21.945-970 - Rio de Janeiro - RJ - Brasil",
@@ -66,7 +66,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st1_3.pdf"
         },
         {
-            "titulo": "Evitando interferências primárias em redes ad hoc com antenas direcionais.",
+            "titulo": "Evitando interferências primárias em redes ad hoc com antenas direcionais",
             "autores": "Italo Ramella, José Ferreira de Rezende",
             "ordem": "12|1",
             "universidade": "Grupo de Teleinformática e Automação (GTA) - PEE/COPPE - UFRJ|Diretoria de Telecomunicações da Marinha (DTM) - Marinha do Brasil",
@@ -85,7 +85,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st1_4.pdf"
         },
         {
-            "titulo": "PARADIS: an adaptive middleware for dynamic task allocation in a grid.",
+            "titulo": "PARADIS: an adaptive middleware for dynamic task allocation in a grid",
             "autores": "Michel Hurfin, Jean-Pierre Le Narzul, Julien Pley, Philippe Raïpin Parvédy",
             "ordem": "1|2|3|3",
             "universidade": "INRIA Rennes / IRISA - Campus de Beaulieu, 35042 Rennes cedex - France|GET ENST Bretagne/ IRISA - Campus de Rennes, 35512 Cesson-Sévigné - France|University of Rennes / IRISA - Campus de Beaulieu, 35042 Rennes cedex - France",
@@ -104,7 +104,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st2_1.pdf"
         },
         {
-            "titulo": "Uma heurística de agrupamento de caminhos para escalonamento de tarefas em grades computacionais.",
+            "titulo": "Uma heurística de agrupamento de caminhos para escalonamento de tarefas em grades computacionais",
             "autores": "Bittencourt, L. F., Madeira, E. R. M., Cicerre, F. R. L., Buzato, L. E.",
             "ordem": "1",
             "universidade": "Instituto de Computação - Universidade Estadual de Campinas (UNICAMP) Caixa Postal 6176 - Campinas - São Paulo - Brasil",
@@ -123,7 +123,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st2_2.pdf"
         },
         {
-            "titulo": "Uma heurística de particionamento de carga divisível para grids computacionais.",
+            "titulo": "Uma heurística de particionamento de carga divisível para grids computacionais",
             "autores": "Leonardo de Assis, Nelson Nóbrega-Júnior, Francisco Brasileiro, Walfredo Cirne",
             "ordem": "",
             "universidade": "Laboratório de Sistemas Distribuídos - Departamento de Sistemas e Computação - Universidade Federal de Campina Grande (UFCG) Caixa Postal 10.106 - 58.109-970 - Campina Grande - PB - Brasil",
@@ -142,7 +142,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st2_3.pdf"
         },
         {
-            "titulo": "The ultralight network testbed: motivation, architecture and experience.",
+            "titulo": "The ultralight network testbed: motivation, architecture and experience",
             "autores": "Harvey Newman, Julian Bunn, Richard Cavanaugh, Iosif Legrand, Steven Low, Shawn McKee, Dan Nae, Sylvain Ravot, Conrad Steenberg, Xun Su, Michael Thomas, Frank van Linger, Yang Xia",
             "ordem": "",
             "universidade": "",
@@ -161,7 +161,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st2_4.pdf"
         },
         {
-            "titulo": "Detecção de anomalias de tráfego usando entropia não-extensiva.",
+            "titulo": "Detecção de anomalias de tráfego usando entropia não-extensiva",
             "autores": "Marcelo Luís Monsores, Artur Ziviani, Paulo Sérgio Silva Rodrigues",
             "ordem": "1",
             "universidade": "Laboratório Nacional de Computação Cientíﬁca (LNCC/MCT) Av. Getúlio Vargas, 333 25651-075 - Petrópolis, RJ",
@@ -180,7 +180,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st3_1.pdf"
         },
         {
-            "titulo": "Estimando a média e variância do atraso em um sentido utilizando o IPID da máquina remota.",
+            "titulo": "Estimando a média e variância do atraso em um sentido utilizando o IPID da máquina remota",
             "autores": "Antonio A. de A. Rocha, Rosa M. M. Leão, Edmundo de Souza e Silva",
             "ordem": "",
             "universidade": "COPPE/Prog. de Engenharia de Sistemas e Computação e Departamento de Ciência da Computação do IM Universidade Federal do Rio de Janeiro Caixa Postal 68511 - Rio de Janeiro, RJ - 21941-972",
@@ -199,7 +199,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st3_2.pdf"
         },
         {
-            "titulo": "Avaliação de técnicas de agrupamento na amostragem de tráfego na Internet.",
+            "titulo": "Avaliação de técnicas de agrupamento na amostragem de tráfego na Internet",
             "autores": "Stenio Fernandes, Carlos Kamienski, Denio Mariz, Djmael Sadok",
             "ordem": "1|1,2|1,2|1",
             "universidade": "Centro de Informática - Universidade Federal de Pernambuco (UFPE) Caixa Postal 7851 - Cidade Universitária - 50.732-970 - Recife - PE |Centro Federal de Educação Tecnológica da Paraíba (CEFET-PB) Rua 1| de Maio, 720 - 58015-180 - João Pessoa, PB",
@@ -218,7 +218,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st3_3.pdf"
         },
         {
-            "titulo": "Limite de capacidade e proteção de servidores em redes gigabit.",
+            "titulo": "Limite de capacidade e proteção de servidores em redes gigabit",
             "autores": "Marco Antonio Jonack, Cristina Duarte Murta",
             "ordem": "1",
             "universidade": "Universidade Federal do Paraná Departamento de Informática Caixa Postal 19081 81531-990 Curitiba, PR",
@@ -237,7 +237,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st3_4.pdf"
         },
         {
-            "titulo": "Um modelo para geração de carga de servidores Web utilizando classificação de conteúdo.",
+            "titulo": "Um modelo para geração de carga de servidores Web utilizando classificação de conteúdo",
             "autores": "Carlos Marcelo Pedroso, Keiko Fonseca",
             "ordem": "∗",
             "universidade": "Pós Graduação em Engenharia Elétrica e Informática Industrial Universidade Tecnológica Federal do Paraná - UTFPR Avenida Sete de Setembro 3165, Curitiba, Paraná, Brasil",
@@ -256,7 +256,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st4_2.pdf"
         },
         {
-            "titulo": "Avaliação de desempenho de composição de Web Services usando redes de Petri.",
+            "titulo": "Avaliação de desempenho de composição de Web Services usando redes de Petri",
             "autores": "Arnoldo N. da Silva, Fernando A. A. Lins, José C. S. Júnior, Nelson S. Rosa, Nívia C. Quental, Paulo R. M. Maciel",
             "ordem": "1|1|1|1|2|1",
             "universidade": "Centro de Informática - Universidade Federal de Pernambuco (UFPE) Recife - PE - Brasil |Departamento de Sistemas Computacionais - Universidade de Pernambuco (UPE) Recife - PE - Brasil",
@@ -275,7 +275,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st4_3.pdf"
         },
         {
-            "titulo": "Técnicas para sistemas de vídeo sob demanda escaláveis.",
+            "titulo": "Técnicas para sistemas de vídeo sob demanda escaláveis",
             "autores": "Carlo Kleber da S. Rodrigues, Rosa Maria Meri Leão",
             "ordem": "",
             "universidade": "Universidade Federal do Rio de Janeiro COPPE/PESC, Rio de Janeiro RJ 21941-972, CxP 68511, Brazil",
@@ -294,7 +294,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st5_1.pdf"
         },
         {
-            "titulo": "Estratégias híbridas para transmissão de mídia contínua interativa com compartilhamento de fluxo.",
+            "titulo": "Estratégias híbridas para transmissão de mídia contínua interativa com compartilhamento de fluxo",
             "autores": "Marcus Rocha, Marcelo Maia, Ítalo Cunha, Jussara Almeida, Sérgio Campos",
             "ordem": "1",
             "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais (UFMG) Av. Antònio Carlos, 6627, Pampulha - Belo Horizonte, MG, Brasil, 31270-010",
@@ -313,7 +313,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st5_2.pdf"
         },
         {
-            "titulo": "Distribuição de dados massivos via multicast confiável na RNP: metodologia de avaliação, ferramentas e resultados.",
+            "titulo": "Distribuição de dados massivos via multicast confiável na RNP: metodologia de avaliação, ferramentas e resultados",
             "autores": "Gustavo Bervian Brand, Giovani Facchini, Evandro Dall’Agnol, Renato Costa, Marinho Barcellos, Valter Roesler",
             "ordem": "",
             "universidade": "Universidade do Vale do Rio dos Sinos (Unisinos) Av. Unisinos, 950 - São Leopoldo - RS - Brasil {gugabrand, facchini, evandrocd}@gmail.com, renatof@turing.unisinos.br, marinho@acm.org, roesler@unisinos.br",
@@ -332,7 +332,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st5_3.pdf"
         },
         {
-            "titulo": "Um algoritmo de estabelecimento de LSPs para comunicação multicast em redes WDM baseadas no GMPLS.",
+            "titulo": "Um algoritmo de estabelecimento de LSPs para comunicação multicast em redes WDM baseadas no GMPLS",
             "autores": "Rafael Pereira Esteves, Antônio Jorge Gomes Abelém, Ewerton da Costa Vaz, Michael A. Stanton",
             "ordem": "1|1|2|3",
             "universidade": "Departamento de Informática (DI) - Universidade Federal do Pará (UFPA) Rua Augusto Corrêa, 01 - 66075-110 - Belém, PA - Brasil |Programa de Pós-Graduação em Ciência da Computação (PPGCC) - Universidade Federal do Pará (UFPA) Rua Augusto Corrêa, 01 - 66075-110 - Belém, PA - Brasil |Instituto de Computação (IC) - Universidade Federal Fluminense (UFF) Rua Passo da Pátria, 156, bloco E, sala 350 - 24210-240, Niterói - RJ, Brasil",
@@ -351,7 +351,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st5_4.pdf"
         },
         {
-            "titulo": "A MAC and physical layer theoretical model for IEEE 802.11 networks operating simultaneously with basic and RTS/CTS access schemes.",
+            "titulo": "A MAC and physical layer theoretical model for IEEE 802.11 networks operating simultaneously with basic and RTS/CTS access schemes",
             "autores": "Roger Pierre Fabris Hoefel",
             "ordem": "",
             "universidade": "",
@@ -370,7 +370,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st6_1.pdf"
         },
         {
-            "titulo": "Desenvolvimento de aplicações adaptativas para redes IEEE 802.11.",
+            "titulo": "Desenvolvimento de aplicações adaptativas para redes IEEE 802.11",
             "autores": "Arlindo Flávio da Conceição, Fabio Kon",
             "ordem": "",
             "universidade": "1, Fabio Kon 1 1 Grupo de Sistemas Distribuídos - Departamento de Ciência da Computação Instituto de Matemática e Estatística - Universidade de São Paulo (DCC - IME/USP)",
@@ -389,7 +389,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st6_2.pdf"
         },
         {
-            "titulo": "O uso de pares de pacotes para monitoração da taxa de transmissão e da capacidade de vazão em redes IEEE 802.11.",
+            "titulo": "O uso de pares de pacotes para monitoração da taxa de transmissão e da capacidade de vazão em redes IEEE 802.11",
             "autores": "Arlindo Flávio da Conceição, Fabio Kon",
             "ordem": "",
             "universidade": "1, Fabio Kon 1 1 Grupos de Sistemas Distribuídos - Departamento de Ciência da Computação Instituto de Matemática e Estatística - Universidade de São Paulo (DCC - IME/USP)",
@@ -408,7 +408,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st6_3.pdf"
         },
         {
-            "titulo": "Um mecanismo para a seleção dinâmica de canal em redes IEEE 802.11 infra-estruturadas.",
+            "titulo": "Um mecanismo para a seleção dinâmica de canal em redes IEEE 802.11 infra-estruturadas",
             "autores": "Marcel W. R. da Silva, José F. de Rezende",
             "ordem": "1|1",
             "universidade": "Grupo de Teleinformática e Automação PEE/COPPE/UFRJ Universidade Federal do Rio de Janeiro Rio de Janeiro, RJ - Brasil",
@@ -427,7 +427,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st6_4.pdf"
         },
         {
-            "titulo": "Utilizando honeypots para medição de atividade de rede não usual na Internet.",
+            "titulo": "Utilizando honeypots para medição de atividade de rede não usual na Internet",
             "autores": "Emerson Virti, Leandro Márcio Bertholdo, Liane Tarouco, Lisandro Granville",
             "ordem": "",
             "universidade": "",
@@ -446,7 +446,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st7_1.pdf"
         },
         {
-            "titulo": "Uma abordagem para incorporação flexível de aspectos de segurança em aplicações peer-to-peer.",
+            "titulo": "Uma abordagem para incorporação flexível de aspectos de segurança em aplicações peer-to-peer",
             "autores": "André Detsch, Luciano Paschoal Gaspary, Marinho Pilla Barcellos, Ricardo Nabinger Sanchez",
             "ordem": "1",
             "universidade": "Programa de Pós-Graduação em Computação Aplicada (PIPCA) Universidade do Vale do Rio dos Sinos (UNISINOS)",
@@ -465,7 +465,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st7_2.pdf"
         },
         {
-            "titulo": "Uma abordagem baseada em programação declarativa para configuração de firewalls em ambientes heterogêneos.",
+            "titulo": "Uma abordagem baseada em programação declarativa para configuração de firewalls em ambientes heterogêneos",
             "autores": "Cássio Ditzel Kropiwiec, Edgard Jamhour, Mauro Sérgio Pereira Fonseca, Fabrício Enembreck, Guy Pujolle",
             "ordem": "1|2|2|2|1",
             "universidade": "Laboratoire d’Informatique de Paris 6 Université Pierre et Marie Curie Paris - France |Programa de Pós-Graduação em Informática Aplicada Pontifícia Universidade Católica do Paraná (PUCPR) - Curitiba, PR - Brazil",
@@ -484,7 +484,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st7_3.pdf"
         },
         {
-            "titulo": "Avaliação da confiança por análise comportamental para autorização evolutiva em aplicações seguras na Web.",
+            "titulo": "Avaliação da confiança por análise comportamental para autorização evolutiva em aplicações seguras na Web",
             "autores": "Luiz Fernando Rust da Costa Carmo, Carlos Augusto Reis Júnior",
             "ordem": "",
             "universidade": "",
@@ -503,7 +503,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st7_4.pdf"
         },
         {
-            "titulo": "Análise de fila para tráfego multifractal utilizando cálculo de rede e parâmetro de escala global.",
+            "titulo": "Análise de fila para tráfego multifractal utilizando cálculo de rede e parâmetro de escala global",
             "autores": "Flávio Henrique Teles Vieira, Lee Luan Ling",
             "ordem": "1",
             "universidade": "Departamento de Comunicações, Faculdade de Engenharia Elétrica e de Computação Universidade Estadual de Campinas Albert Einstein, 400 - PO Box 6101 - 13.083-970, Campinas, SP, Brasil)",
@@ -522,7 +522,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st8_1.pdf"
         },
         {
-            "titulo": "Sobre a disputa por recursos de rede WLAN por aplicações VoIP: uma proposta de modelagem usando teoria dos jogos.",
+            "titulo": "Sobre a disputa por recursos de rede WLAN por aplicações VoIP: uma proposta de modelagem usando teoria dos jogos",
             "autores": "Edson H. Watanabe, Daniel S. Menasché, Fernando Silveira Filho, Edmundo A. de Souza e Silva, Rosa Maria M. Leão",
             "ordem": "",
             "universidade": "COPPE-PESC e Dept. de Ciência da Computação - UFRJ",
@@ -541,7 +541,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st8_2.pdf"
         },
         {
-            "titulo": "Avaliação do desempenho de aplicações VoIP P2P.",
+            "titulo": "Avaliação do desempenho de aplicações VoIP P2P",
             "autores": "Rodrigo Barbosa, Arthur Callado, Carlos A. Kamienski, Stênio Fernandes, Dênio Mariz, Judith Kelner, Djamel Sadok",
             "ordem": "",
             "universidade": "Grupo de Pesquisa em Redes e Telecomunicações (GPRT) Centro de Informática - Universidade Federal de Pernambuco (UFPE) Caixa Postal 7851 - 50732-970 - Cidade Universitária, Recife/PE",
@@ -560,7 +560,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st8_3.pdf"
         },
         {
-            "titulo": "Modelagem e avaliação de desempenho da tecnologia Cdma2000 1xEV-DO para aplicação no SBTvD.",
+            "titulo": "Modelagem e avaliação de desempenho da tecnologia Cdma2000 1xEV-DO para aplicação no SBTvD",
             "autores": "José Roberto Boisson de Marca, Flávio Pimentel Duarte, Guilherme D. G. Jaime, Edmundo de Souza e Silva, Rosa Maria Meri Leão, Patricia A. Berquó",
             "ordem": "2|2|1|1|1|2",
             "universidade": "LAND/PESC - Universidade Federal do Rio de Janeiro (UFRJ) Caixa Postal 15.064 - 91.501-970 - Rio de Janeiro - RJ - Brasil |CETUC - Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) Rio de Janeiro - RJ - Brasil",
@@ -579,7 +579,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st8_4.pdf"
         },
         {
-            "titulo": "An XML-based model for SLA definition with quality and performance indicators.",
+            "titulo": "An XML-based model for SLA definition with quality and performance indicators",
             "autores": "Emir Toktar, Guy Pujolle, Edgard Jamhour, Manoel Camillo Penna, Mauro Fonseca",
             "ordem": "*|*|*",
             "universidade": "",
@@ -598,7 +598,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st9_1.pdf"
         },
         {
-            "titulo": "piPEs-BR: uma arquitetura para a medição de desempenho em redes IP.",
+            "titulo": "piPEs-BR: uma arquitetura para a medição de desempenho em redes IP",
             "autores": "Leobino Sampaio, Ivo K. Koga, Herbert Souza, Ivan K. Koga, Guilherme E. Rhoden, Fausto Vetter, Gerson Leiria, José A. S. Monteiro, Edison Melo",
             "ordem": "1|1|1|1|2|2|2|1|2",
             "universidade": "Núcleo Interdepartamental de Pesquisas em Redes de Computadores - NUPERC Universidade Salvador (UNIFACS) Rua Ponciano de Oliveira, 126 - Rio Vermelho 41950-275 - Salvador - BA - Brazil|Laboratório de Interoperabilidade em Redes de Computadores - INTEROP Universidade Federal de Santa Catarina (UFSC) Campus Universitário, CEP 88010-970 - Florianópolis-SC Brasil",
@@ -617,7 +617,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st9_2.pdf"
         },
         {
-            "titulo": "Uma arquitetura baseada em políticas para gerência de VPNs da camada 1.",
+            "titulo": "Uma arquitetura baseada em políticas para gerência de VPNs da camada 1",
             "autores": "Neumar Malheiros, Edmundo Madeira, Fábio Verdi, Maurício Magalhaẽs",
             "ordem": "1|1|2|2",
             "universidade": "Instituto de Computação - Universidade Estadual de Campinas (UNICAMP) Caixa Postal 6176 - 13.083-852 - Campinas - SP|Faculdade de Engenharia Elétrica e de Computação - UNICAMP Caixa Postal 6101 - 13.083-970 - Campinas - SP",
@@ -636,7 +636,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st9_3.pdf"
         },
         {
-            "titulo": "Um elemento autonômico para redes de sensores sem fio.",
+            "titulo": "Um elemento autonômico para redes de sensores sem fio",
             "autores": "Thais R. M. Braga, Fabrício A. Silva, Linnyer B. Ruiz, José Marcos S. Nogueira, Antonio A. F. Loureiro",
             "ordem": "1|1|2|1|1",
             "universidade": "Departamento de Ciência da Computação|Departamento de Engenharia Elétrica Universidade Federal de Minas Gerais Av. Antònio Carlos, 6627 31279-010 Belo Horizonte, MG, Brasil",
@@ -655,7 +655,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st9_4.pdf"
         },
         {
-            "titulo": "Energy consumption tradeoffs in visual sensor networks.",
+            "titulo": "Energy consumption tradeoffs in visual sensor networks",
             "autores": "Cíntia B. Margi, Roberto Manduchi, Katia Obraczka",
             "ordem": "1|1|1",
             "universidade": "Department of Computer Engineering University of California, Santa Cruz (USA)",
@@ -674,7 +674,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st10_1.pdf"
         },
         {
-            "titulo": "Ajustando a potência de transmissão em protocolos MAC para redes de sensores sem fio.",
+            "titulo": "Ajustando a potência de transmissão em protocolos MAC para redes de sensores sem fio",
             "autores": "Luiz H. A. Correia, Daniel F. Macedo, Aldri dos Santos, Antonio A. F. Loureiro, José Marcos S. Nogueira",
             "ordem": "1,2|1|1,3|1|1",
             "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais Belo Horizonte-MG, Brasil|Departamento de Ciência da Computação Universidade Federal de Lavras Lavras-MG, Brasil|Departamento de Ciência da Computação Universidade Federal do Ceará Fortaleza-CE, Brasil",
@@ -693,7 +693,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st10_2.pdf"
         },
         {
-            "titulo": "Um protocolo de roteamento para redes ad hoc com QoS baseado no controle da potência de transmissão.",
+            "titulo": "Um protocolo de roteamento para redes ad hoc com QoS baseado no controle da potência de transmissão",
             "autores": "Daniel F. Macedo, Pedro F. Macedo, Luiz H. A. Correia, Aldri L. dos Santos, Antonio A. F.  Loureiro, José Marcos S. Nogueira",
             "ordem": "1|1|1,2|1,3|1|1",
             "universidade": "Dep. de Ciência da Computação|Dep. de Ciência da Computação|Dep. de Computação Univ. Federal de Minas Gerais Univ. Federal de Lavras Univ. Federal do Ceará Belo Horizonte-MG, Brasil Lavras-MG, Brasil Fortaleza-CE, Brasil",
@@ -712,7 +712,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st10_3.pdf"
         },
         {
-            "titulo": "Otimizando o consumo de energia de dispositivos móveis em sistemas de VoD baseados em pontos de acesso co-localizados.",
+            "titulo": "Otimizando o consumo de energia de dispositivos móveis em sistemas de VoD baseados em pontos de acesso co-localizados",
             "autores": "Leonardo Bidese de Pinho, Claudio Luis de Amorim",
             "ordem": "1|1",
             "universidade": "Laboratório de Computação Paralela (LCP) Programa de Engenharia de Sistemas e Computação (PESC) COPPE - Universidade Federal do Rio de Janeiro (UFRJ) Caixa Postal 68511 - 21941-972 - Rio de Janeiro - RJ - Brasil",
@@ -731,7 +731,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st10_4.pdf"
         },
         {
-            "titulo": "Supporting context-aware applications: scenarios, models and architecture.",
+            "titulo": "Supporting context-aware applications: scenarios, models and architecture",
             "autores": "Ricardo Couto Antunes da Rocha, Markus Endler",
             "ordem": "†|1",
             "universidade": "Departamento de Informática Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) Rio de Janeiro - RJ - Brazil",
@@ -750,7 +750,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st11_1.pdf"
         },
         {
-            "titulo": "Middleware para redes de sensores sem-fio: projeto, implementação e avaliação de consumo de energia.",
+            "titulo": "Middleware para redes de sensores sem-fio: projeto, implementação e avaliação de consumo de energia",
             "autores": "Germano Guimarães, Eduardo Souto, Mardoqueu Vieira, Glauco Vasconcelos, Nelson Rosa, Carlos Ferraz, Judith Kelner",
             "ordem": "1|1,3|2,4|2|2|2|1",
             "universidade": "Grupo de Pesquisas em Redes e Telecomunicações do|Centro de Informática - Universidade Federal de Pernambuco (UFPE) Caixa Postal 50.740-540 - Recife - PE - Brasil |Universidade Federal do Amazonas (UFAM) Manaus - AM - Brasil |Fundação Des. Paulo Feitoza (FPF) Manaus - AM - Brasil",
@@ -769,7 +769,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st11_2.pdf"
         },
         {
-            "titulo": "Provendo aplicações com requisitos não-funcionais dinâmicos através de contratos.",
+            "titulo": "Provendo aplicações com requisitos não-funcionais dinâmicos através de contratos",
             "autores": "Leonardo Cardoso, Alexandre Sztajnberg, Orlando Loques",
             "ordem": "1|2|1",
             "universidade": "Instituto de Computação - Universidade Federal Fluminense |DICC/IME e PEL/FEN - Universidade do Estado do Rio de Janeiro {lcardoso, loques}@ic.uff.br, alexszt@ime.uerj.br",
@@ -788,7 +788,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st11_3.pdf"
         },
         {
-            "titulo": "Otimização da função de roteamento para a engenharia de tráfego em redes IP.",
+            "titulo": "Otimização da função de roteamento para a engenharia de tráfego em redes IP",
             "autores": "Ronaldo Moreira Salles, Vitor Guerra Rolla",
             "ordem": "1|1∗|1",
             "universidade": "Departamento de Sistemas e Computação Instituto Militar de Engenharia Praça General Tibúrcio, 80 Praia Vermelha 22290-270 Rio de Janeiro, RJ",
@@ -807,7 +807,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st12_1.pdf"
         },
         {
-            "titulo": "Using genetic algorithms to LSP setup in MPLS networks.",
+            "titulo": "Using genetic algorithms to LSP setup in MPLS networks",
             "autores": "Adriana Oliveira, Geraldo Robson Mateus",
             "ordem": "",
             "universidade": "Computer Science Department Federal University of Minas Gerais Belo Horizonte, Minas Gerais - Brazil|",
@@ -826,7 +826,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st12_2.pdf"
         },
         {
-            "titulo": "Uma metodologia de classificação para os fluxos de comunicação.",
+            "titulo": "Uma metodologia de classificação para os fluxos de comunicação",
             "autores": "Luís Felipe M. de Moraes, Guilherme S. Vilela",
             "ordem": "1",
             "universidade": "Laboratório de Redes de Alta Velocidade - RAVEL Programa de Engenharia de Sistemas e Computação - COPPE/UFRJ Caixa Postal: 68.511 - 21941-972 - Rio de Janeiro, RJ",
@@ -845,7 +845,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st12_3.pdf"
         },
         {
-            "titulo": "Difusão de dados baseada em atraso e energia para redes de sensores sem fio.",
+            "titulo": "Difusão de dados baseada em atraso e energia para redes de sensores sem fio",
             "autores": "Daniel L. Guidoni, Max do V. Machado, Raquel A. F. Mini, Antonio A. F. Loureiro",
             "ordem": "∗|1†| 1‡| 2|1",
             "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Belo Horizonte, MG, 31270-010, Brasil guidoni,maxm,loureiro @dcc.ufmg.br|Departamento de Ciência da Computação - Pontifícia Universidade Católica de Minas Gerais Belo Horizonte, MG, 30535-610, Brasil aquelmini@pucminas.br",
@@ -864,7 +864,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st13_1.pdf"
         },
         {
-            "titulo": "Uma abordagem baseada em lógica nebulosa para a seleção de protocolos de disseminação de dados em RSSFs.",
+            "titulo": "Uma abordagem baseada em lógica nebulosa para a seleção de protocolos de disseminação de dados em RSSFs",
             "autores": "Ana Lúcia Mostardinha, Nelson Rezende, Flávia C. Delicato, Luci Pirmez",
             "ordem": "1|1,3|2|1",
             "universidade": "NCE/IM - Universidade Federal do Rio de Janeiro - Caixa Postal 2324, Rio de Janeiro, RJ, 20001-970 - Brasil |Departamento de Informática e Matemática Aplicada - Universidade Federal do Rio Grande do Norte. |Centro de Tecnologia - Centro Universitário Metodista Bennett (UNIBENNETT) Rio de Janeiro, RJ, 22230-060 - Brasil",
@@ -883,7 +883,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st13_2.pdf"
         },
         {
-            "titulo": "Atribuição dinâmica de papéis para agregação de dados em redes de sensores sem fio.",
+            "titulo": "Atribuição dinâmica de papéis para agregação de dados em redes de sensores sem fio",
             "autores": "Eduardo Freire Nakamura, Horácio A. B. Fernandes de Oliveira, Luciana Fujii Pontelo, Antonio A. F. Loureiro",
             "ordem": "1,2|1|1|1",
             "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Belo Horizonte, MG, Brasil 31270-010|Centro de Análise, Pesquisa e Inovação Tecnológica - FUCAPI Manaus, AM, Brasil 69075-351",
@@ -902,7 +902,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st13_3.pdf"
         },
         {
-            "titulo": "Projeto integrado de controle de densidade e roteamento em redes de sensores sem fio.",
+            "titulo": "Projeto integrado de controle de densidade e roteamento em redes de sensores sem fio",
             "autores": "Isabela G. Siqueira, Carlos M. S. Figueiredo, Antonio A. F. Loureiro, José M. S. Nogueira, Linnyer B. Ruiz",
             "ordem": "1|12|1|1|1",
             "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais Belo Horizonte, MG, Brasil|FUCAPI - Fundação Centro de Análise, Pesquisa e Inovação Tecnológica Manaus, AM, Brasil",
@@ -921,7 +921,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st13_4.pdf"
         },
         {
-            "titulo": "RecDin: uma infra-estrutura para reconfiguração dinâmica de replicação no FT-CORBA.",
+            "titulo": "RecDin: uma infra-estrutura para reconfiguração dinâmica de replicação no FT-CORBA",
             "autores": "Lau Cheuk Lung, Fábio Favarim, Giuliana Teixeira Santos",
             "ordem": "",
             "universidade": "1 Lau Cheuk Lung|, Fábio Favarim|, Giuliana Teixeira Santos||Programa de Pós-Graduação em Informática Aplicada - PPGIA Pontifícia Universidade Católica do Paraná - PUCPR |Departamento de Automação e Sistemas - DAS Universidade Federal de Santa Catarina - UFSC",
@@ -940,7 +940,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st14_1.pdf"
         },
         {
-            "titulo": "Gerenciamento de filiação em middleware tolerante a faltas.",
+            "titulo": "Gerenciamento de filiação em middleware tolerante a faltas",
             "autores": "Eduardo Adílio Plinson Alchieri, Alysson Neves Bessani, Joni da Silva Fraga, Lau Cheuk Lung",
             "ordem": "1|1|1|2",
             "universidade": "DAS - Departamento de Automação e Sistemas UFSC - Universidade Federal de Santa Catarina Florianópolis - Santa Catarina|PPGIA - Programa de Pós-Graduação em Informática Aplicada PUC-PR - Pontifícia Universidade Católica do Paraná Curitiba - Paraná",
@@ -959,7 +959,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st14_2.pdf"
         },
         {
-            "titulo": "Distributed checkpointing: analysis and benchmarks.",
+            "titulo": "Distributed checkpointing: analysis and benchmarks",
             "autores": "Gustavo M. D. Vieira, Luiz E. Buzato",
             "ordem": "1∗|1",
             "universidade": "Instituto de Computação—Unicamp Caixa Postal 6176 13083-970 Campinas, SP, Brasil",
@@ -978,7 +978,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st14_3.pdf"
         },
         {
-            "titulo": "Balanceamento de chamadas VoIP H.323 para a rede de telefonia pública.",
+            "titulo": "Balanceamento de chamadas VoIP H.323 para a rede de telefonia pública",
             "autores": "Anderson A. Albuquerque, Paulo H. de A. Rodrigues",
             "ordem": "",
             "universidade": "Núcleo de Computação Eletrônica - Departamento de Ciência da Computação/IM     Universidade Federal do Rio de Janeiro                (NCE/UFRJ - DCC/IM/UFRJ)|Caixa Postal 2324 - 20001-970 - Rio de Janeiro - RJ - Brasil Laboratório de Voz Sobre IP - Núcleo de Computação Eletrônica. | Suporte parcial do projeto VoIP4ALL da RNP. Paulo Rodrigues é analista do NCE e professor do DCC. Anderson Albuquerque é mestrando do Programa de Pós-Graduação em Informática do NCE/DCC.",
@@ -997,7 +997,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st15_1.pdf"
         },
         {
-            "titulo": "A method for predicting packet losses with applications to continuous media streaming.",
+            "titulo": "A method for predicting packet losses with applications to continuous media streaming",
             "autores": "Fernando Silveira Filho, Edmundo de Souza e Silva",
             "ordem": "",
             "universidade": "Programa de Engenharia de Sistemas e Computação - COPPE/UFRJ Caixa Postal: 68.511 - 21941-972 - Rio de Janeiro, RJ - Brasil",
@@ -1016,7 +1016,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st15_2.pdf"
         },
         {
-            "titulo": "Stream2P: uma arquitetura distribuída para transmissão de mídia contínua.",
+            "titulo": "Stream2P: uma arquitetura distribuída para transmissão de mídia contínua",
             "autores": "Ítalo Cunha, Cristiano Costa, Jussara Almeida",
             "ordem": "1",
             "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais Brasil",
@@ -1035,7 +1035,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st15_3.pdf"
         },
         {
-            "titulo": "Descoberta de recursos em grades computacionais utilizando estruturas P2P.",
+            "titulo": "Descoberta de recursos em grades computacionais utilizando estruturas P2P",
             "autores": "Vladimir Rocha, Marco A. S. Netto, Fabio Kon",
             "ordem": "1",
             "universidade": "Departamento de Ciência da Computação Instituto de Matemática e Estatística Universidade de São Paulo. Rua do Matão, 1010 - 05508-090 São Paulo, SP",
@@ -1054,7 +1054,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st16_1.pdf"
         },
         {
-            "titulo": "HyperBone: uma rede overlay baseada em hipercubo virtual sobre a Internet.",
+            "titulo": "HyperBone: uma rede overlay baseada em hipercubo virtual sobre a Internet",
             "autores": "Luis C. E. Bona, Elias P. Duarte Jr., Samuel L. V. Mello, Keiko V. O. Fonseca",
             "ordem": "1|2|2|1",
             "universidade": "Universidade Tecnológica Federal do Paraná CPGEI Av. Sete de Setembro 3165 Curitiba PR bona, keiko @cpgei.cefetpr.br|Universidade Federal do Paraná Departamento de Informática Caixa Postal 19018 Curitiba PR elias, slucas @inf.ufpr.br",
@@ -1073,7 +1073,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st16_2.pdf"
         },
         {
-            "titulo": "Uma abordagem adaptativa e escalável para descoberta de serviços em redes ad hoc.",
+            "titulo": "Uma abordagem adaptativa e escalável para descoberta de serviços em redes ad hoc",
             "autores": "Carlos Henrique Pereira Augusto, José Ferreira de Rezende",
             "ordem": "1|1",
             "universidade": "Grupo de Teleinformática e Automação - PEE - Coppe Universidade Federal do Rio de Janeiro (UFRJ)",
@@ -1092,7 +1092,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st16_3.pdf"
         },
         {
-            "titulo": "Strategies to improve reliability in routing overlay networks with selfish nodes.",
+            "titulo": "Strategies to improve reliability in routing overlay networks with selfish nodes",
             "autores": "Bruno Gusmão Rocha, Virgilio Almeida, Dorgival Guedes",
             "ordem": "1|1|1",
             "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais (UFMG) Belo Horizonte - MG - Brazil",
@@ -1111,7 +1111,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st16_4.pdf"
         },
         {
-            "titulo": "Um agente racional para a localização de usuários em ambientes de redes sem fio.",
+            "titulo": "Um agente racional para a localização de usuários em ambientes de redes sem fio",
             "autores": "Filipe M. Roberto, Jeandro de M. Bezerra, Gustavo A. L. de Campos, Marcial P. Fernandez, Joaquim Celestino Jr., Ana Luiza B. de Paula",
             "ordem": "",
             "universidade": "Laboratório de Redes de Comunicação e Segurança da Informação (LARCES) - Universidade Estadual do Ceará (UECE) Av. Paranjana 1700 - Itaperi - 60740-903 - Fortaleza - CE",
@@ -1130,7 +1130,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st17_1.pdf"
         },
         {
-            "titulo": "Descoberta da topologia de redes dinâmicas e descentralizadas com agentes móveis inteligentes.",
+            "titulo": "Descoberta da topologia de redes dinâmicas e descentralizadas com agentes móveis inteligentes",
             "autores": "Bogdan Tomoyuki Nassu, Elias Procópio Duarte Jr.",
             "ordem": "1|2",
             "universidade": "Research Center for Advanced Science and Technology (RCAST) The University of Tokyo — Tokyo — Japan|Departamento de Informática — Universidade Federal do Paraná (UFPR) Curitiba — PR — Brasil",
@@ -1149,7 +1149,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st17_2.pdf"
         },
         {
-            "titulo": "Distribuições estacionárias de velocidade e direção para um novo modelo de mobilidade markoviano baseado em um processo de nascimento e morte.",
+            "titulo": "Distribuições estacionárias de velocidade e direção para um novo modelo de mobilidade markoviano baseado em um processo de nascimento e morte",
             "autores": "Luís Felipe M. de Moraes, Eduardo Hargreaves",
             "ordem": "1|1",
             "universidade": "Laboratório de Redes de Alta Velocidade - RAVEL Programa de Engenharia de Sistemas e Computação - Coppe/UFRJ Caixa Postal 68.511 - 21.941-972 - Rio de Janeiro - RJ - Brasil",
@@ -1168,7 +1168,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st17_3.pdf"
         },
         {
-            "titulo": "Um novo modelo para confiança em redes ad hoc.",
+            "titulo": "Um novo modelo para confiança em redes ad hoc",
             "autores": "Pedro B. Velloso, Rafael P. Laufer, Otto Carlos M. B. Duarte, Guy Pujolle",
             "ordem": "1|2|3|1",
             "universidade": "Laboratoire d’Informatique de Paris 6 (LIP6) Université Pierre et Marie Curie - Paris VI, Paris, France|Computer Science Department University of California, Los Angeles|Grupo de Teleinformática e Automação PEE-COPPE/DEL-POLI Universidade Federal do Rio de Janeiro",
@@ -1187,7 +1187,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st17_4.pdf"
         },
         {
-            "titulo": "First Load Priority: a wavelength converter placement scheme for optical networks with sparse-partial wavelength conversion.",
+            "titulo": "First Load Priority: a wavelength converter placement scheme for optical networks with sparse-partial wavelength conversion",
             "autores": "André Soares, José Carneiro Maranhão, William Giozza, Paulo Cunha",
             "ordem": "1 2 ∗|1 †|1|2",
             "universidade": "NUPERC - Universidade Salvador - UNIFACS R. Ponciano de Oliveira, 126, Rio Vermelho - 41950-275 Salvador - Bahia - Brazil|Centro de Informática - Universidade Federal de Pernambuco - UFPE Recife - Pernambuco - Brazil",
@@ -1206,7 +1206,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st18_1.pdf"
         },
         {
-            "titulo": "ILP formulation and K-Shortest Path heuristic for the RWA problem with allocation of wavelength converters.",
+            "titulo": "ILP formulation and K-Shortest Path heuristic for the RWA problem with allocation of wavelength converters",
             "autores": "Karcius D. R. Assis, A. C. B. Soares, William F. Giozza, Helio Waldman",
             "ordem": "1|2|2|3",
             "universidade": "UEFS- State University of Feira de Santana- DTEC-Av. Universitária, s/n-Km 03 da BR 116, Campus Universitário, CEP:44031-460 |UNIFACS- Salvador University - Rua Ponciano de Oliveira, 126, Rio Vermelho, CEP:41950-275 Salvador-BA, Brazil.E-mail: {karcius, giozza}@unifacs.br |UNICAMP- State University of CampinasAv. Albert Einstein, 400, CP. 6101, Campinas-SP, Brazil.E-mail: waldman@decom.fee.unicamp.br",
@@ -1225,7 +1225,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st18_2.pdf"
         },
         {
-            "titulo": "Heurística lagrangeana para o problema de Traffic Grooming em redes ópticas WDM.",
+            "titulo": "Heurística lagrangeana para o problema de Traffic Grooming em redes ópticas WDM",
             "autores": "Zenilton Kleber G. Patrocínio Jr., Geraldo Robson Mateus",
             "ordem": "1|1",
             "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Caixa Postal 702 - 30123-970 Belo Horizonte, MG",
@@ -1244,7 +1244,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st18_3.pdf"
         },
         {
-            "titulo": "Disseminação de conteúdo poluído em redes P2P.",
+            "titulo": "Disseminação de conteúdo poluído em redes P2P",
             "autores": "Cristiano Costa, Vanessa Soares, Fabricio Benevenuto, Marisa Vasconcelos, Jussara Almeida, Virgilio Almeida, Miranda Mowbray",
             "ordem": "1|1|1|1|1|1|2",
             "universidade": "Departamento de Ciência da Computação Universidade Federal de Minas Gerais (UFMG) Belo Horizonte, Brasil|HP Labs Bristol, UK",
@@ -1263,7 +1263,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st19_1.pdf"
         },
         {
-            "titulo": "Uma arquitetura P2P baseada na hierarquia do endereçamento IP.",
+            "titulo": "Uma arquitetura P2P baseada na hierarquia do endereçamento IP",
             "autores": "Marcos Madruga, Thaís Batista, Luiz Affonso Guedes",
             "ordem": "",
             "universidade": "",
@@ -1282,7 +1282,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st19_2.pdf"
         },
         {
-            "titulo": "Incentivos em redes peer-to-peer de fluxo de mídia com distribuição sincronizada.",
+            "titulo": "Incentivos em redes peer-to-peer de fluxo de mídia com distribuição sincronizada",
             "autores": "Daniel A. G. Manzato, Nelson L. S. da Fonseca",
             "ordem": "",
             "universidade": "Instituto de Computação - Universidade Estadual de Campinas Caixa Postal 6176 - 13084-971 - Campinas - SP - Brazil",
@@ -1301,7 +1301,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st19_3.pdf"
         },
         {
-            "titulo": "Comparando aspectos de desempenho do protocolo SNMP com diferentes estratégias de gateways Web services.",
+            "titulo": "Comparando aspectos de desempenho do protocolo SNMP com diferentes estratégias de gateways Web services",
             "autores": "Ricardo Lemos Vianna, Tiago Fioreze, Lisandro Zambenedetti Granville, Maria Janilce Bosquiroli Almeida, Liane Margarida Rockenbach Tarouco",
             "ordem": "",
             "universidade": "Universidade Federal do Rio Grande do Sul - Instituto de Informática Av. Bento Gonçalves, 9500 - Bloco IV - Porto Alegre, RS - Brasil",
@@ -1320,7 +1320,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st19_4.pdf"
         },
         {
-            "titulo": "EWIDS: uma extensão para arquiteturas de sistemas de detecção de intrusos para redes sem fio metropolitanas.",
+            "titulo": "EWIDS: uma extensão para arquiteturas de sistemas de detecção de intrusos para redes sem fio metropolitanas",
             "autores": "Nilson Rocha Vianna, Reinaldo de B. Correia, Luci Pirmez",
             "ordem": "1,2|1|1",
             "universidade": "Universidade Federal do Rio de Janeiro - Núcleo de Computação Eletrônica Prédio do CCMN - Bloco C, Caixa Postal: 2324 - CEP: 20.010-974 Cidade Universitária - Ilha do Fundão, Rio de Janeiro, RJ |Diretoria de Telecomunicações da Marinha (DTM) Rua 1º de março, 118 - 3º, 4º e 5º andares centro - Rio de Janeiro, RJ - CEP: 20.090-070",
@@ -1339,7 +1339,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st20_1.pdf"
         },
         {
-            "titulo": "Detecção de intrusos descentralizada em redes de sensores sem fio.",
+            "titulo": "Detecção de intrusos descentralizada em redes de sensores sem fio",
             "autores": "Ana Paula R. da Silva, Marcelo H. T. Martins, Bruno P. S. Rocha, Antonio A. F. Loureiro, Linnyer B. Ruiz, Hao C. Wong",
             "ordem": "1|1|1|1|1|1",
             "universidade": "Departamento de Ciência da Computação - Universidade Federal de Minas Gerais Caixa Postal 702 - 30123-970 Belo Horizonte, MG, Brasil",
@@ -1358,7 +1358,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st20_2.pdf"
         },
         {
-            "titulo": "Um ambiente anti-clonagem para telefone móvel.",
+            "titulo": "Um ambiente anti-clonagem para telefone móvel",
             "autores": "Alessandro Brawerman, John A. Copeland",
             "ordem": "1",
             "universidade": "School of Electrical and Computer Engineering Georgia Institute of Technology Atlanta - GA, USA",
@@ -1377,7 +1377,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st20_3.pdf"
         },
         {
-            "titulo": "Rotas alternativas para detecção e aumento da resiliência à intrusão distribuída em RSSF.",
+            "titulo": "Rotas alternativas para detecção e aumento da resiliência à intrusão distribuída em RSSF",
             "autores": "Sérgio de Oliveira, Hao Chi Wong, José Marcos Nogueira, Willington Paula",
             "ordem": "",
             "universidade": "",
@@ -1396,7 +1396,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st20_4.pdf"
         },
         {
-            "titulo": "Arquitetura e protótipo de rede de pacotes em anel com transmissão e comutação no domínio óptico.",
+            "titulo": "Arquitetura e protótipo de rede de pacotes em anel com transmissão e comutação no domínio óptico",
             "autores": "Marcos R. Salvador, Eduardo Mobilon, Vinicius G. de Oliveira, Rodrigo Bernardo, Luis R. Monte, Mateus M. Pereira, Leonardo Pezzolo, Maria F. M. B. B. F. de Oliveira, Antonio D. Coral, Alberto Paradisi, Furio Damiani, Peter Jürgen Tatsch, Nelson L. S. da Fonseca, Marcelo M. Uesono",
             "ordem": "1",
             "universidade": "Marcos R. Salvador, |Eduardo Mobilon, |Vinicius G. de Oliveira, |Rodrigo Bernardo, |Luis R. Monte, |Mateus M. Pereira, |Leonardo Pezzolo, |Maria F. M. B. B. F. de Oliveira, |Antonio D. Coral, |Alberto Paradisi, |Furio Damiani, |Peter Jürgen Tatsch, |Nelson L. S. da Fonseca, |Marcelo M. Uesono |Fundação CPqD Centro de Pesquisa e Desenvolvimento em Telecomunicações  13086-902 - Campinas - SP - Brasil |Universidade Estadual de Campinas (Unicamp) 13084-971 - Campinas, SP, Brasil",
@@ -1415,7 +1415,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st21_1.pdf"
         },
         {
-            "titulo": "Efficient routing and wavelength assignment for wavelength-routed optical networks by a GRASP heuristic.",
+            "titulo": "Efficient routing and wavelength assignment for wavelength-routed optical networks by a GRASP heuristic",
             "autores": "Roger Souza de Paula, Carlos Magnus Carlson Filho",
             "ordem": "1|2",
             "universidade": "Departamento de Telemática                    Faculdade de Engenharia Elétrica e de Computação (FEEC)         Universidade Estadual de Campinas (Unicamp) - Campinas, SP - Brasil |Faculdade de Tecnologia (FATEC) - São José do Rio Preto, SP - Brasil",
@@ -1434,7 +1434,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st21_2.pdf"
         },
         {
-            "titulo": "Gerência de falhas baseada em políticas para redes ópticas.",
+            "titulo": "Gerência de falhas baseada em políticas para redes ópticas",
             "autores": "Cláudio Carvalho, Edmundo Madeira, Fábio Verdi, Maurício Magalhães",
             "ordem": "1|1|2|2",
             "universidade": "Universidade Estadual de Campinas (UNICAMP) - Instituto de Computação (IC) Caixa Postal 6176, 13084-971, Campinas-SP, Brasil|UNICAMP - Faculdade de Engenharia Elétrica e de Computação (FEEC) Caixa Postal 6101, 13083-970, Campinas-SP, Brasil",
@@ -1453,7 +1453,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st21_3.pdf"
         },
         {
-            "titulo": "LuaSpace EPlus – um ambiente para desenvolvimento de aplicações CORBA no Eclipse.",
+            "titulo": "LuaSpace EPlus – um ambiente para desenvolvimento de aplicações CORBA no Eclipse",
             "autores": "André Gustavo Duarte de Almeida, Thais Batista, Nélio Cacho",
             "ordem": "",
             "universidade": "Departamento de Informática e Matemática Aplicada (DIMAp) Universidade Federal do Rio Grande do Norte (UFRN) Campus Universitário - Lagoa Nova - 59.072-970 - Natal - RN",
@@ -1472,7 +1472,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st22_1.pdf"
         },
         {
-            "titulo": "Depurando sistemas de objetos distribuídos da forma que gostaríamos.",
+            "titulo": "Depurando sistemas de objetos distribuídos da forma que gostaríamos",
             "autores": "Giuliano Mega, Fabio Kon",
             "ordem": "",
             "universidade": "Departamento de Ciência Computação - IME/USP",
@@ -1491,7 +1491,7 @@
             "link": "https://ce-resd.sbc.org.br/sbrc/2006/st22_2.pdf"
         },
         {
-            "titulo": "A model for CORBA communications in ad hoc networks.",
+            "titulo": "A model for CORBA communications in ad hoc networks",
             "autores": "Luiz Lima Jr., Alcides Calsavara",
             "ordem": "",
             "universidade": "Pontifical Catholic University of Paraná, Brazil Post-Graduate Program on Applied Computing",
