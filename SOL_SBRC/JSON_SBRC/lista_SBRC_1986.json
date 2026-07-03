@@ -1,0 +1,582 @@
+{
+    "ano": 1986,
+    "nr_simposio": "IV",
+    "simposio": "SBRC",
+    "cidade": "Recife",
+    "estado": "PE",
+    "coord_geral": "Paulo Roberto Freire Cunha",
+    "coord_programa": "Paulo Roberto Freire Cunha",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Iniciais",
+            "autores": "Páginas Iniciais",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 7,
+            "paginas": [
+                1,
+                7
+            ],
+            "paginas_pdf": [
+                1,
+                7
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/frontmatter.pdf"
+        },
+        {
+            "titulo": "Validação de protocolos de comunicação através de rede de Petri: aplicação em sinalização telefônica",
+            "autores": "Shusaburo Motoyama, Walter da Cunha Borelli, Magda Patrícia Caldeira Arantes, Roberto T. Tamura",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                1,
+                20
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p01.pdf"
+        },
+        {
+            "titulo": "Applicative specification of computer networks and protocols",
+            "autores": "Silvio Lemos Meira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 10,
+            "paginas": [
+                21,
+                30
+            ],
+            "paginas_pdf": [
+                1,
+                10
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p02.pdf"
+        },
+        {
+            "titulo": "Development and operation of an OSI-based network for the scientific community",
+            "autores": "K. Ullmann, DFN-Verein",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                31,
+                41
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p03.pdf"
+        },
+        {
+            "titulo": "Modelagem do serviço gerenciamento de diálogo da camada de sessão",
+            "autores": "Maria Izabel Cavalcanti Cabral, Jacques Phillipe Sauvé",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                42,
+                57
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p04.pdf"
+        },
+        {
+            "titulo": "Estudo comparativo entre o PTV/SERPRO e as tendências da ISO para a padronização da sintaxe de transferência de informações",
+            "autores": "Eveline Távora de Queiroz Cobra, Pedro Koshino",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                58,
+                80
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p05.pdf"
+        },
+        {
+            "titulo": "Apropriação de uso dos recursos computacionais em uma rede de computação com vistas a contabilização de preço",
+            "autores": "Paulo Guilherme Teixeira Freire",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                81,
+                102
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p06.pdf"
+        },
+        {
+            "titulo": "Distributed allocation of identical resources",
+            "autores": "Osvaldo S. F. Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                103,
+                118
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p07.pdf"
+        },
+        {
+            "titulo": "Fracionamento-disseminação: uma técnica para a segurança de dados em sistemas distribuídos",
+            "autores": "J. Fraga",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                119,
+                132
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p08.pdf"
+        },
+        {
+            "titulo": "Interconnection between computer networks in Germany",
+            "autores": "Wulf L.-Bauerfeld, DFN-Verein Berlin",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                133,
+                147
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p09.pdf"
+        },
+        {
+            "titulo": "The comic toolkit for building distributed systems",
+            "autores": "M. Sloman, J. Kramer, J. Magee",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 10,
+            "paginas": [
+                148,
+                157
+            ],
+            "paginas_pdf": [
+                1,
+                10
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p10.pdf"
+        },
+        {
+            "titulo": "Alternativas de acesso de computadores a redes públicas",
+            "autores": "José da Silva Rodrigues Filho, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                158,
+                180
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p11.pdf"
+        },
+        {
+            "titulo": "Um concentrador/comutador local de pacotes X.25, supervisionado remotamente",
+            "autores": "José Roberto Emiliano Leite",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                181,
+                198
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p12.pdf"
+        },
+        {
+            "titulo": "Dimac: um protocolo de acesso por passagem de Token",
+            "autores": "Clylton Galamba Fernandes, Jaelson Freire Brelaz de Castro, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                199,
+                216
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p13.pdf"
+        },
+        {
+            "titulo": "Arquitetura de um suporte de comunicação baseado na rede local ethernet e no unix",
+            "autores": "Joberto S. B. Martins, Gérard Noguez",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                217,
+                233
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p14.pdf"
+        },
+        {
+            "titulo": "Serviços e primitivas para transferência de arquivos",
+            "autores": "Selim Asfora Neto, Merval Jurema Filho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                234,
+                248
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p15.pdf"
+        },
+        {
+            "titulo": "Proposta de especificação de um servidor de impressora",
+            "autores": "Bernardo Gonçalves Riso, Elizabeth Sueli Specialski, Maria Marta Leite",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                249,
+                262
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p16.pdf"
+        },
+        {
+            "titulo": "O servidor de impressão da REDPUC",
+            "autores": "Vieira EAP, Fonseca NLS, Schwabe D.",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                263,
+                279
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p17.pdf"
+        },
+        {
+            "titulo": "Considerações sobre a utilização de técnicas de descrição formal de protocolos",
+            "autores": "Aroldo Y. Yai, Jaime Ono, Lauro T. Muramoto, William Astolfi, Stefania Stiubiener",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                280,
+                300
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p18.pdf"
+        },
+        {
+            "titulo": "Estudo e proposta de testes de comportamento do protocolo de transporte da ISO",
+            "autores": "Denis Gabos, Hamilton Fernandes de Mattias, Sidnei Hideo Tano, Stefania Stiubiener",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 24,
+            "paginas": [
+                301,
+                324
+            ],
+            "paginas_pdf": [
+                1,
+                24
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p19.pdf"
+        },
+        {
+            "titulo": "Analisador sintático em Prolog para a linguagem de especificação de protocolos Estelle",
+            "autores": "Wanderley Lopes de Souza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 29,
+            "paginas": [
+                325,
+                353
+            ],
+            "paginas_pdf": [
+                1,
+                29
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p20.pdf"
+        },
+        {
+            "titulo": "Recent developments in protocol specification, validation and testing",
+            "autores": "Gregor v. Bochmann",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                354,
+                368
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p21.pdf"
+        },
+        {
+            "titulo": "Implementação de uma estação de voz num computador pessoal de 16 bits",
+            "autores": "Wagner Luiz Zucchi, Wilson Vicente Ruggiero",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                369,
+                391
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p22.pdf"
+        },
+        {
+            "titulo": "Rede experimental da PUC/RJ para integração de voz e dados",
+            "autores": "Luiz Fernando G. Soares, Marcus Fábio Vieira, Simone L. Martins",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                392,
+                407
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p23.pdf"
+        },
+        {
+            "titulo": "Implantação de um protocolo de transporte em uma rede local",
+            "autores": "Liane Margarida Rockenbach Tarouco, Jussara Issa Musse",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                408,
+                421
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p24.pdf"
+        },
+        {
+            "titulo": "Uma implementação de serviços de nível 6 e 7 na REDURGS",
+            "autores": "Liane Margarida Rockenbach Tarouco, Maria Janilce Almeida Wilkens",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                422,
+                439
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p25.pdf"
+        },
+        {
+            "titulo": "Reliability bounds for networks with statistical dependence",
+            "autores": "Eddy H. Carrasco, Charles J. Colbourn",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 5,
+            "paginas": [
+                440,
+                444
+            ],
+            "paginas_pdf": [
+                1,
+                5
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p26.pdf"
+        },
+        {
+            "titulo": "Um pacote de simulação para avaliação de desempenho de redes locais",
+            "autores": "Antonio Cauper Filho, Jacques Philippe Sauvé, José Antão Beltrão Moura",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                445,
+                461
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p27.pdf"
+        },
+        {
+            "titulo": "Um modelo analítico modular para protocolos de acesso em redes locais",
+            "autores": "Marcos André M. Primo, J. Antão B. Moura",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 22,
+            "paginas": [
+                462,
+                483
+            ],
+            "paginas_pdf": [
+                1,
+                22
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p28.pdf"
+        },
+        {
+            "titulo": "High throughput local network",
+            "autores": "G. Pujolle",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 8,
+            "paginas": [
+                484,
+                491
+            ],
+            "paginas_pdf": [
+                1,
+                8
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1986/p29.pdf"
+        }
+    ]
+}

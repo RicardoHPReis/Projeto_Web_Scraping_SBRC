@@ -156,18 +156,19 @@ def web_scraping_eventos(eventos_sbrc:list) -> list:
 
 # Função para salvar os dados em um arquivo JSON, recebendo a lista de dados e o nome do arquivo como parâmetros
 def salvar_json(lista_dados:list, nome_arquivo:str) -> None:
+    nome_arquivo_final = f"SOL_SBRC/{nome_arquivo}.json"
     try:
-        with open(nome_arquivo, "w", encoding='utf-8') as arquivo_json:
+        with open(nome_arquivo_final, "w", encoding='utf-8') as arquivo_json:
             json.dump(lista_dados, arquivo_json, ensure_ascii=False, indent=4)
-        print(f"Arquivo '{nome_arquivo}' salvo com sucesso.")
+        print(f"Arquivo '{nome_arquivo_final}' salvo com sucesso.")
     except IOError as e:
-        print(f"Erro ao salvar arquivo '{nome_arquivo}': {e}")
+        print(f"Erro ao salvar arquivo '{nome_arquivo_final}': {e}")
 
 
 def salvar_json_por_ano(lista_dados:list, nome_arquivo:str) -> None:
-    Path('JSON_SBRC').mkdir(parents=True, exist_ok=True)
+    Path('SOL_SBRC/JSON_SBRC').mkdir(parents=True, exist_ok=True)
     for evento in lista_dados:
-        nome_arquivo_final = f"JSON_SBRC/{nome_arquivo}_{evento['ano']}.json"
+        nome_arquivo_final = f"SOL_SBRC/JSON_SBRC/{nome_arquivo}_{evento['ano']}.json"
         try:
             with open(nome_arquivo_final, "w", encoding='utf-8') as arquivo_json:
                 json.dump(evento, arquivo_json, ensure_ascii=False, indent=4)
@@ -195,7 +196,7 @@ def main(url_inicial:str):
     print(f"Total de eventos: {len(lista_simposios)}\n")
     print(f"Total de artigos: {soma_artigos}")
     
-    #salvar_json(resultado_json, "lista_SBRC.json")
+    salvar_json(resultado_json, "lista_SBRC")
     salvar_json_por_ano(resultado_json, "lista_SBRC")
 
 

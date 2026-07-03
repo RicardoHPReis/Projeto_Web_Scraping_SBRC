@@ -1,0 +1,601 @@
+{
+    "ano": 1987,
+    "nr_simposio": "V",
+    "simposio": "SBRC",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "coord_geral": "Stefania Stiubiener",
+    "coord_programa": "Stefania Stiubiener",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Iniciais",
+            "autores": "Páginas Iniciais",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 9,
+            "paginas": [
+                1,
+                9
+            ],
+            "paginas_pdf": [
+                1,
+                9
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/frontmatter.pdf"
+        },
+        {
+            "titulo": "Protocolos de aplicação em redes locais de computadores na automação industrial (protocolos MAP/TOP)",
+            "autores": "José Roberto Emiliano Leite, Manuel de Jesus Mendes, Maurício Ferreira Magalhães",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                1,
+                20
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p01.pdf"
+        },
+        {
+            "titulo": "Aplicação de redes locais em automação industrial",
+            "autores": "Tereza Cristina Melo de Brito Carvalho, Antonio José Chagas de Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 34,
+            "paginas": [
+                21,
+                54
+            ],
+            "paginas_pdf": [
+                1,
+                34
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p02.pdf"
+        },
+        {
+            "titulo": "Especificando protocolos através de uma metodologia baseada em redes de Petri",
+            "autores": "Jaelson Freire Brelaz de Castro, Paulo Roberto Freire Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 27,
+            "paginas": [
+                56,
+                82
+            ],
+            "paginas_pdf": [
+                1,
+                27
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p04.pdf"
+        },
+        {
+            "titulo": "Aspectos da implementação do protocolo LAPD a RDSI (Rede Digital de Serviços Integrados)",
+            "autores": "Durval Carvalho de Avila Jacintho, Maria Fernanda Simonetti Ribeiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                83,
+                95
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p05.pdf"
+        },
+        {
+            "titulo": "Uma abordagem em modelagem do protocolo da camada de sessão",
+            "autores": "Maria Izabel Cavalcanti Cabral, Jacques Phillipe Sauvé",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                96,
+                106
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p06.pdf"
+        },
+        {
+            "titulo": "Aplicações do compilador Estelle",
+            "autores": "Wanderley Lopes de Souza, Edilson Ferneda",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                107,
+                120
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p07.pdf"
+        },
+        {
+            "titulo": "LOTOS: uma técnica para a descrição formal de serviços e protocolos de comunicação",
+            "autores": "Wanderley Lopes de Souza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 24,
+            "paginas": [
+                121,
+                144
+            ],
+            "paginas_pdf": [
+                1,
+                24
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p08.pdf"
+        },
+        {
+            "titulo": "O sistema Compac para redes de comunicação de dados",
+            "autores": "Fernando Campos Arruda Junior, José Roberto Emiliano Leite, Eduardo Cezar Grizendi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                146,
+                161
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p10.pdf"
+        },
+        {
+            "titulo": "Um sistema de comunicação confiável entre microcomputadores através da Renpac",
+            "autores": "Wagner Luiz Zucchi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                162,
+                179
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p11.pdf"
+        },
+        {
+            "titulo": "Implementação de um ponto de acesso de transferência eletrônica de fundos (PATEF)",
+            "autores": "José Roberto Emiliano Leite, Luiz Otávio Merlin Miranda, Flávio Tonioli Mariotto, Claudia de Paula Krahembul",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                180,
+                196
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p12.pdf"
+        },
+        {
+            "titulo": "Worldwide implementation of open systems interconnection (OSI) standards",
+            "autores": "Richard desJardins",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                197,
+                208
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p13.pdf"
+        },
+        {
+            "titulo": "Modelagem de aplicações críticas em redes locais com passagem de ficha",
+            "autores": "Marcos A. G. Brasileiro, José Antão B. Moura",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 24,
+            "paginas": [
+                209,
+                232
+            ],
+            "paginas_pdf": [
+                1,
+                24
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p14.pdf"
+        },
+        {
+            "titulo": "Modelagem de aplicações em redes locais",
+            "autores": "Claudio Cesar de Sá, Marcos A. G. Brasileiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                233,
+                249
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p15.pdf"
+        },
+        {
+            "titulo": "Protocolo de comunicação em um sistema distribuído baseado num barramento paralelo centralizado",
+            "autores": "Claudio Kirner, Jorge Luiz e Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                250,
+                270
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p16.pdf"
+        },
+        {
+            "titulo": "Caracterização de uma rede local para integração de serviços de dados, áudio e vídeo",
+            "autores": "Cesar A. C. Teixeira, Wilson V. Ruggiero",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 28,
+            "paginas": [
+                271,
+                298
+            ],
+            "paginas_pdf": [
+                1,
+                28
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p17.pdf"
+        },
+        {
+            "titulo": "Rastreamento em ambiente logo suportado por rede local",
+            "autores": "Eduardo Valle, Clylton Galamba Fernandes",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                299,
+                318
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p18.pdf"
+        },
+        {
+            "titulo": "Um processador de comunicação de rede local para controle de processos",
+            "autores": "Leonardo Appezato",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 23,
+            "paginas": [
+                319,
+                341
+            ],
+            "paginas_pdf": [
+                1,
+                23
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p19.pdf"
+        },
+        {
+            "titulo": "Equipamentos de rede com funções de gerenciamento",
+            "autores": "Carlos B. Westphall",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                342,
+                358
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p20.pdf"
+        },
+        {
+            "titulo": "O centro de supervisão e controle do sistema Compac",
+            "autores": "José Eduardo Martins, Oswaldo Luiz Fernandes, Cristiana de Souza Santos, Neusa Kazumi Ishikawa",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                359,
+                371
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p21.pdf"
+        },
+        {
+            "titulo": "Recent developments in protocol testing",
+            "autores": "Behçet Sarikaya",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                372,
+                392
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p22.pdf"
+        },
+        {
+            "titulo": "Manipulação de expressões de fragmentação em sistemas distribuídos com uma máquina de inferências",
+            "autores": "Pedro Manoel Silveira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 9,
+            "paginas": [
+                393,
+                401
+            ],
+            "paginas_pdf": [
+                1,
+                9
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p23.pdf"
+        },
+        {
+            "titulo": "Executivo para implantação de redes em ambientes MS-DOS",
+            "autores": "Joberto S. B. Martins, J. H. F. Cavalcanti",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 4,
+            "paginas": [
+                411,
+                414
+            ],
+            "paginas_pdf": [
+                1,
+                4
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p24.pdf"
+        },
+        {
+            "titulo": "Rumo a um ambiente de programação distribuída em Modula-2",
+            "autores": "Lídia Segre, Michael Staton",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 3,
+            "paginas": [
+                423,
+                425
+            ],
+            "paginas_pdf": [
+                1,
+                3
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p25.pdf"
+        },
+        {
+            "titulo": "Um núcleo de sistema operacional distribuído para aplicações em tempo real",
+            "autores": "J. Fraga, J. M. Farines, L. Nacamura, V. Mazzola",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                426,
+                437
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p26.pdf"
+        },
+        {
+            "titulo": "Sistema multi-tarefas distribuído para redes locais",
+            "autores": "José Motta, Jorge Ramos",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                438,
+                452
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p27.pdf"
+        },
+        {
+            "titulo": "Implementação de um ponto de acesso de videotexto (PAV ou Videopad)",
+            "autores": "Milton Ben-Hur Faber, José Roberto Emiliano Leite, Marco Túlio S. Liporoni, Akiko Hayashi",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                453,
+                472
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p28.pdf"
+        },
+        {
+            "titulo": "Concentrador de telefones para uma rede local com integração de serviços de voz e dados",
+            "autores": "Luiz Fernando Gomes Soares, Marcus Fábio Vieira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 21,
+            "paginas": [
+                473,
+                493
+            ],
+            "paginas_pdf": [
+                1,
+                21
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p29.pdf"
+        },
+        {
+            "titulo": "Interface de comunicação para rede local: implementação de um circuito integrado",
+            "autores": "M.T.C. Andrade, M.R.P. Barretto, W.R. Esposito, W.A.M. Van Noije",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                494,
+                510
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p30.pdf"
+        },
+        {
+            "titulo": "O comutador de pacotes do sistema Compac",
+            "autores": "José Roberto Emiliano Leite, Angelo Antonio Mantovani, Carlos Gunter Klemz, Rosana Jamal F. dos Santos, Maria Cecília R. B. Mandel, Selma Cristina G. F. Cintra",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                511,
+                530
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p31.pdf"
+        },
+        {
+            "titulo": "O concentrador multiprotocolo Compac",
+            "autores": "José Roberto Emiliano Leite, Fernando Campos Arruda Junior, José Ricardo Portillo Navas, Ivo Alexandre Fernandes",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                531,
+                546
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1987/p32.pdf"
+        }
+    ]
+}
