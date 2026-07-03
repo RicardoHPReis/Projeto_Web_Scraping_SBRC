@@ -1,0 +1,715 @@
+{
+    "ano": 1995,
+    "nr_simposio": "XIII",
+    "simposio": "SBRC",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "coord_geral": "José Marcos Silva Nogueira",
+    "coord_programa": "José Augusto Suruagy Monteiro",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Iniciais",
+            "autores": "Páginas Iniciais",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 10,
+            "paginas": [
+                1,
+                10
+            ],
+            "paginas_pdf": [
+                1,
+                10
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/frontmatter.pdf"
+        },
+        {
+            "titulo": "Utilização da técnica Estelle para gerar sequências de teste para protocolos de comunicação",
+            "autores": "Vitório Bruno Mazzola, Luís Otávio Rodrigues da Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                3,
+                22
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p01.pdf"
+        },
+        {
+            "titulo": "Modelagem orientada ao objeto de especificações escritas em Estelle",
+            "autores": "Ciro de Barros Barbosa, Wanderley Lopes de Souza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                23,
+                39
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p02.pdf"
+        },
+        {
+            "titulo": "Especificando protocolos em Z com agentes",
+            "autores": "João Bosco M. Sobral, Jorge L. S. Leão, Aloysio C. P. Pedroza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                41,
+                60
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p03.pdf"
+        },
+        {
+            "titulo": "A critical assessment of testability in communication protocols",
+            "autores": "Antonio A. F. Loureiro, Samuel T. Chanson, Son T. Vuong",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                61,
+                80
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p04.pdf"
+        },
+        {
+            "titulo": "Análise de desempenho de um multiplexador de células com descarte de bits",
+            "autores": "Marta Barría, Reinaldo Vallejos, Luiz Fernando G. Soares",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                83,
+                101
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p05.pdf"
+        },
+        {
+            "titulo": "Implementação de mecanismos de policiamento para redes de alta velocidade",
+            "autores": "Célio Vinicius Neves de Albuquerque, Marcio Faerman, Otto Carlos Muniz Bandeira Duarte",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                103,
+                119
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p06.pdf"
+        },
+        {
+            "titulo": "Suporte para monitoramento e controle de carga em sistemas distribuídos",
+            "autores": "Rodrigo Cardoso Uchôa, Noemi de La Rocque Rodriguez",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                123,
+                142
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p07.pdf"
+        },
+        {
+            "titulo": "Uma metodologia de apoio à análise e ao desenvolvimento de aplicações em sistemas de gerenciamento de redes de computadores",
+            "autores": "Suzana de Queiroz Ramos, Paulo Roberto Freire Cunha, Mauro Oliveira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                143,
+                161
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p08.pdf"
+        },
+        {
+            "titulo": "Representação dinâmica de objetos em sistemas de gerenciamento de redes",
+            "autores": "Cybelle Suemi Oda, Edson dos Santos Moreira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                163,
+                178
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p09.pdf"
+        },
+        {
+            "titulo": "Protocolos ponto-a-multiponto com retransmissões de múltiplas cópias adaptados ao ambiente de satélite a alta velocidade",
+            "autores": "Heliomar Medeiros de Lima, Otto Carlos Muniz Bandeira Duarte",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                181,
+                198
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p10.pdf"
+        },
+        {
+            "titulo": "Modelo de nó único com fila para a Manhattan Street Network",
+            "autores": "Antonio Augusto T. P. de Moraes, Lee Luan Ling",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                199,
+                211
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p11.pdf"
+        },
+        {
+            "titulo": "ALLOS - uma ferramenta para solucionar modelos de redes de filas usando cadeias de Markov",
+            "autores": "Stanley R. de M. Oliveira, Maria Izabel C. Cabral, Edilson Ferneda, Marcos A. G. Brasileiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                213,
+                225
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p12.pdf"
+        },
+        {
+            "titulo": "Serviço de transferência de dados multiponto-a-multiponto",
+            "autores": "Marcos Tadeu von Lutzow Vidal, Otto Carlos Muniz Bandeira Duarte, Aloysio de Castro Pinto Pedroza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                229,
+                245
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p13.pdf"
+        },
+        {
+            "titulo": "Comunicação de dados em redes celulares de telefonia móvel (RCTM)",
+            "autores": "Juergen Rochol, Marcelo Boeira Barcelos, Henrique Pufal",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                247,
+                264
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p14.pdf"
+        },
+        {
+            "titulo": "Causal order protocols for group communication",
+            "autores": "Raimundo José de Araújo Macêdo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                265,
+                283
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p15.pdf"
+        },
+        {
+            "titulo": "SODA: a lease-based consistent distributed file system",
+            "autores": "Fabio Kon, Arnaldo Mandel",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                287,
+                300
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p16.pdf"
+        },
+        {
+            "titulo": "Um esquema para acessar objetos em ambientes distribuídos",
+            "autores": "Luiz Otávio Botelho Lento, Edmundo Roberto Mauro Madeira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                301,
+                317
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p17.pdf"
+        },
+        {
+            "titulo": "A customized communication subsystem for FT-Linda",
+            "autores": "Dorgival O. Guedes, David E. Bakken, Nina T. Bhatti, Matti A. Hiltunen, Richard D. Schlichting",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                319,
+                338
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p18.pdf"
+        },
+        {
+            "titulo": "Integrating real-time requirements and fault-tolerance",
+            "autores": "Célio Estevan Moron",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                339,
+                353
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p19.pdf"
+        },
+        {
+            "titulo": "Migrando uma solução de interoperabilidade entre sistemas TMNs baseada na metodologia AIDE para o ambiente OSIMIS",
+            "autores": "J. Neuman de Souza, A. Mauro B. de Oliveira, Michael A. Stanton",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                357,
+                369
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p20.pdf"
+        },
+        {
+            "titulo": "Extensão da plataforma de gerência OSIMIS pela implementação da função de medida de contabilização",
+            "autores": "Luiz Fernando Kormann, Adriano Coser, Elvis Melo Vieira, Carlos Becker Westphall",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                371,
+                388
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p21.pdf"
+        },
+        {
+            "titulo": "Utilização do modelo TMN no gerenciamento de redes ATM",
+            "autores": "Carlos de Castro Goulart, José Marcos Silva Nogueira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                389,
+                408
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p22.pdf"
+        },
+        {
+            "titulo": "Um núcleo de sistema distribuído para a simulação a eventos discretos",
+            "autores": "Carlos Maziero",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                411,
+                430
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p23.pdf"
+        },
+        {
+            "titulo": "Arquitetura de um ambiente virtual distribuído para aplicações de larga escala",
+            "autores": "Regina Borges de Araujo, Cláudio Kirner",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                431,
+                441
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p24.pdf"
+        },
+        {
+            "titulo": "Um suporte para aplicações de trabalho cooperativo do tipo editor distribuído",
+            "autores": "Udo Fritzke Jr., Jean-Marie Farines",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                443,
+                459
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p25.pdf"
+        },
+        {
+            "titulo": "Uma metodologia para a implementação de sistemas distribuídos em hardware a partir de uma descrição formal",
+            "autores": "Luci Pirmez, Aloysio de Castro P. Pedroza, Antônio Carneiro de Mesquita",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                463,
+                481
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p26.pdf"
+        },
+        {
+            "titulo": "Especificação LOTOS de uma plataforma de apoio à gerência de redes",
+            "autores": "Mirela Sechi Moretti Annoni Notare, Bernardo Gonçalves Riso",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 20,
+            "paginas": [
+                483,
+                502
+            ],
+            "paginas_pdf": [
+                1,
+                20
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p27.pdf"
+        },
+        {
+            "titulo": "Especificação funcional de um servidor para o serviço não orientado à conexão na RDSI-FL",
+            "autores": "Pedro Grael Jr., Ivanil S. Bonatti",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                503,
+                516
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p28.pdf"
+        },
+        {
+            "titulo": "P-RIO: a metodologia RIO sobre PVM",
+            "autores": "Enrique Vinicio Carrera E., Orlando Loques, Julius Leite",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                519,
+                531
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p29.pdf"
+        },
+        {
+            "titulo": "Parallel cluster labeling on a network of workstations",
+            "autores": "Felipe Knop, Vernon Rego",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                533,
+                548
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p30.pdf"
+        },
+        {
+            "titulo": "The federative trader model of the multiware platform",
+            "autores": "Luiz Augusto de Paula Lima Jr., Edmundo Roberto Mauro Madeira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                549,
+                563
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p31.pdf"
+        },
+        {
+            "titulo": "Um esquema para o gerenciamento do tráfego de aplicações em redes TCP-IP",
+            "autores": "Carlos Kelner Silveira, Edmundo R. M. Madeira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                567,
+                585
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p32.pdf"
+        },
+        {
+            "titulo": "Gerência de segurança OSI interface de controle de acesos",
+            "autores": "Alexandre Moraes Ramos, Elizabeth Specialski",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                587,
+                603
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p33.pdf"
+        },
+        {
+            "titulo": "Controle de acesso em gerência de segurança para a rede UFSC",
+            "autores": "Elvis Melo Vieira, Maria Cristina Roschetta, Carlos B. Westphall",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                605,
+                615
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p34.pdf"
+        },
+        {
+            "titulo": "Suporte à execução do ambiente DisCo",
+            "autores": "Sílvio Soares Bandeira, Paulo R. F. Cunha",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                619,
+                636
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p35.pdf"
+        },
+        {
+            "titulo": "Uma experiência de portabilidade do ANSAware para ambiente Novell",
+            "autores": "Manoel Camillo Penna, Marcelo Ehalt, Mauro Sérgio Fonseca, Sergies Batista",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                637,
+                654
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1995/p36.pdf"
+        }
+    ]
+}

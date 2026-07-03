@@ -1,0 +1,810 @@
+{
+    "ano": 1992,
+    "nr_simposio": "X",
+    "simposio": "SBRC",
+    "cidade": "Recife",
+    "estado": "PE",
+    "coord_geral": "José Augusto Suruagy Monteiro",
+    "coord_programa": "José Augusto Suruagy Monteiro",
+    "premiados": "",
+    "anais": [
+        {
+            "titulo": "Páginas Iniciais",
+            "autores": "Páginas Iniciais",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 10,
+            "paginas": [
+                1,
+                10
+            ],
+            "paginas_pdf": [
+                1,
+                10
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/frontmatter.pdf"
+        },
+        {
+            "titulo": "Avaliação de desempenho de sistemas distribuídos especificados em Estelle",
+            "autores": "Pedro Mejía Ochoa, Edmundo de Souza e Silva",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                19,
+                34
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p01.pdf"
+        },
+        {
+            "titulo": "Uma ferramenta para integração ASN.1/Estelle",
+            "autores": "Maria Marta Leite, Jean-Marie Farines",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                35,
+                49
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p02.pdf"
+        },
+        {
+            "titulo": "Conceitos de engenharia de protocolos utilizados na implementação de um protocolo de aplicação em ambiente de manufatura",
+            "autores": "Pedro Frosi Rosa, Stefania Stiubiener",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 11,
+            "paginas": [
+                50,
+                60
+            ],
+            "paginas_pdf": [
+                1,
+                11
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p03.pdf"
+        },
+        {
+            "titulo": "Implementação de um protocolo para sincronização de relógio",
+            "autores": "Miguel Antonio Sovierzoski, José Luiz Andriolli Pereira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                67,
+                79
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p04.pdf"
+        },
+        {
+            "titulo": "Avaliação da implantação da Bitnet nas universidades estaduais paulistas",
+            "autores": "Eduardo Martins Morgado",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                80,
+                92
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p05.pdf"
+        },
+        {
+            "titulo": "A rede interna da PUC-RIO",
+            "autores": "Michael Anthony Stanton",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                93,
+                106
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p06.pdf"
+        },
+        {
+            "titulo": "O acesso a variáveis MMS utilizando a interface de aplicação MAP",
+            "autores": "Verônica Lima Pimentel de Sousa",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                109,
+                120
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p07.pdf"
+        },
+        {
+            "titulo": "Uma abordagem para a gerência de produção em redes industrias",
+            "autores": "S. B. M., Joberto, Fernando W. Cruz",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                121,
+                132
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p08.pdf"
+        },
+        {
+            "titulo": "Projeto de um protocolo LLC para rede local MINI-MAP usando a linguagem Estelle",
+            "autores": "Marcelo Moraes de Azevedo, Maurício Assad Neder, Aloysio de Castro Pinto Pedroza, Hélio Schor, Elton Lemos Santos",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                133,
+                146
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p09.pdf"
+        },
+        {
+            "titulo": "Um sistema de simulação para o cálculo de processos",
+            "autores": "Waldomiro Soares Yuan, Aloysio de Castro Pinto Pedroza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                169,
+                182
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p10.pdf"
+        },
+        {
+            "titulo": "Extending CCS with multiway rendezvous",
+            "autores": "Rosvelter João Coelho da Costa, Jean-Pierre Courtiat",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 9,
+            "paginas": [
+                183,
+                191
+            ],
+            "paginas_pdf": [
+                1,
+                9
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p11.pdf"
+        },
+        {
+            "titulo": "Uma variante do modelo LOTOS básico com tempo estocástico para especificação e avaliação de desempenho em sistemas distribuídos dependentes do tempo",
+            "autores": "Murilo Silva de Camargo, Jean-Marie A. Farines",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                192,
+                207
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p12.pdf"
+        },
+        {
+            "titulo": "Pré-implementando especificações LOTOS",
+            "autores": "Queiroz, José; Serhrouchni, Ahmed; Najm, Elie; Cunha, Paulo",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                208,
+                223
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p13.pdf"
+        },
+        {
+            "titulo": "Avaliação de desempenho de redes FDDI utilizando a ferramenta RESQ2",
+            "autores": "Sérgio de F. Brito, William F. Giozza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 12,
+            "paginas": [
+                225,
+                246
+            ],
+            "paginas_pdf": [
+                1,
+                12
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p14.pdf"
+        },
+        {
+            "titulo": "Abordagem orientada a objetos no desenvolvimento de simuladores de redes locais",
+            "autores": "Maria Madalena Dias, Maria Izabel Cavalcanti Cabral, Marcos Antonio Gonçalves Brasileiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 16,
+            "paginas": [
+                247,
+                262
+            ],
+            "paginas_pdf": [
+                1,
+                16
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p15.pdf"
+        },
+        {
+            "titulo": "Projeto e otimização de topologias de redes de computadores de longa distância, auxiliados por computador",
+            "autores": "Éder Manoel de Abreu, Paulo Xavier Ramos",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                263,
+                275
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p16.pdf"
+        },
+        {
+            "titulo": "Especificação e implementação do protocolo de acesso a base de dados remota",
+            "autores": "Ana Maria Motta Garcia Lopes, Manuel de Jesus Mendes",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 10,
+            "paginas": [
+                279,
+                288
+            ],
+            "paginas_pdf": [
+                1,
+                10
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p17.pdf"
+        },
+        {
+            "titulo": "Implementação e análise de desempenho do protocolo de sessão",
+            "autores": "José Ferreira de Rezende, Otto Carlos M. B. Duarte",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                289,
+                302
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p18.pdf"
+        },
+        {
+            "titulo": "Interoperabilidade e certificação de produtos O S I",
+            "autores": "Denis Gabos",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                303,
+                317
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p19.pdf"
+        },
+        {
+            "titulo": "Reasoning about distributed system specification: the temporal-causal way",
+            "autores": "Jaelson Freire Brelaz de Castro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 19,
+            "paginas": [
+                321,
+                339
+            ],
+            "paginas_pdf": [
+                1,
+                19
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p20.pdf"
+        },
+        {
+            "titulo": "Defining a verification methodology for distributed algorithms",
+            "autores": "Tereza C. M. B. Carvalho, Ana R. Cavalli, Sidney Monreal Martin",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                340,
+                357
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p21.pdf"
+        },
+        {
+            "titulo": "Integração de redes acadêmicas: aplicações e gerenciamento cooperantes",
+            "autores": "Liane Margarida Rockenbach Tarouco",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                361,
+                374
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p22.pdf"
+        },
+        {
+            "titulo": "Um protótipo de servidor de modem sobre uma rede TCP/IP",
+            "autores": "Roseli Maria da Silva, Edson dos Santos Moreira",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 10,
+            "paginas": [
+                375,
+                384
+            ],
+            "paginas_pdf": [
+                1,
+                10
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p23.pdf"
+        },
+        {
+            "titulo": "Sistema de manipulação de imagens via correio eletrônico. Sistema FACO",
+            "autores": "Fernando Antonio Marques da Silva, Paulo Henrique de Aguiar Rodrigues",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                385,
+                397
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p24.pdf"
+        },
+        {
+            "titulo": "EDI sobre sistemas abertos de comunicação",
+            "autores": "Daniel Maurice Perpignan, Tereza Cristina Melo de Brito Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                398,
+                414
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p25.pdf"
+        },
+        {
+            "titulo": "Desempenho de servidores de arquivos baseados em redes locais",
+            "autores": "Ana Paula G. S. Rossato, Regina H. C. Santana",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                417,
+                430
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p26.pdf"
+        },
+        {
+            "titulo": "Comparação de desempenho de paradigmas para acesso distribuído a bancos de dados em redes locais",
+            "autores": "Carlos A. M. Bastos, Daniel A. Menascé, Luis F. G. Soares",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                431,
+                444
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p27.pdf"
+        },
+        {
+            "titulo": "Análise de algoritmos para reprodução em tempo real de voz em redes de pacotes",
+            "autores": "T. L. P. Bastos, L. F. G. Soares",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 18,
+            "paginas": [
+                445,
+                462
+            ],
+            "paginas_pdf": [
+                1,
+                18
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p28.pdf"
+        },
+        {
+            "titulo": "Estudo comparativo de controles de admissão para redes digitais de serviços integrados de faixa larga",
+            "autores": "Rosângela Fernandes Coelho, José Augusto Suruagy Monteiro",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                463,
+                475
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p29.pdf"
+        },
+        {
+            "titulo": "Uma plataforma de computação para administração de IBCNs",
+            "autores": "A. Mauro B. Oliveira, Jose Neuman de Sousa, Manoel Camilo Penna, Joaquim Celestino Junior",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                483,
+                496
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p30.pdf"
+        },
+        {
+            "titulo": "Um modelo de gerência de rede em ambiente TCP/IP",
+            "autores": "Reges Antonio Bronzatti, Liane M. R. Tarouco",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                497,
+                510
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p31.pdf"
+        },
+        {
+            "titulo": "Estruturação de base de conhecimento de um sistema de apoio à gerência de redes locais",
+            "autores": "Fernando Luís Dotti, Liane Margarida Rockenbach Tarouco",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 15,
+            "paginas": [
+                511,
+                525
+            ],
+            "paginas_pdf": [
+                1,
+                15
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p32.pdf"
+        },
+        {
+            "titulo": "Uso do FDDI e SONET em uma implementação de comutação digital distribuída (CDD)",
+            "autores": "Paulo M. C. Pessoa, Victor Valenzuela",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                529,
+                542
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p33.pdf"
+        },
+        {
+            "titulo": "Técnicas de aceleração da comunicação em um barramento paralelo centralizado",
+            "autores": "Rosana C. de M. Grillo Gonçalves, Claudio Kirner",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                543,
+                556
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p34.pdf"
+        },
+        {
+            "titulo": "Arquitetura e implementação de uma interface de comunicação integrada para tráfego de voz e dados em redes locais",
+            "autores": "Alexandre M. Moraes, William F. Giozza",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 14,
+            "paginas": [
+                557,
+                570
+            ],
+            "paginas_pdf": [
+                1,
+                14
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p35.pdf"
+        },
+        {
+            "titulo": "Um núcleo “Linda” para desenvolvimento de aplicações distribuídas em uma rede Unix",
+            "autores": "Dorgival O. Guedes Neto, Osvaldo S. F. Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 13,
+            "paginas": [
+                573,
+                585
+            ],
+            "paginas_pdf": [
+                1,
+                13
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p36.pdf"
+        },
+        {
+            "titulo": "Sistema multitalk",
+            "autores": "Lúcia Maria Oliveira, Marcelo Migueletto de Andrade, Osvaldo S. F. Carvalho",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 8,
+            "paginas": [
+                586,
+                593
+            ],
+            "paginas_pdf": [
+                1,
+                8
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/p37.pdf"
+        },
+        {
+            "titulo": "On the design and implementation of distributed systems using LOTOS",
+            "autores": "Ed Brinksma",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 1,
+            "paginas": [
+                1,
+                1
+            ],
+            "paginas_pdf": [
+                1,
+                1
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/palestra1.pdf"
+        },
+        {
+            "titulo": "A evolução de redes acadêmicas no país",
+            "autores": "Demi Getschko, Michael Anthony Stanton",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 17,
+            "paginas": [
+                1,
+                17
+            ],
+            "paginas_pdf": [
+                1,
+                17
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/palestra2.pdf"
+        },
+        {
+            "titulo": "LOTOS: state of the art and perspectives",
+            "autores": "Abdellatif Obaid",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 5,
+            "paginas": [
+                1,
+                5
+            ],
+            "paginas_pdf": [
+                1,
+                5
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/palestra3.pdf"
+        },
+        {
+            "titulo": "Networking support for multimedia",
+            "autores": "Jacky Barré",
+            "ordem": "",
+            "universidade": "",
+            "lingua": "",
+            "num_paginas": 1,
+            "paginas": [
+                1,
+                1
+            ],
+            "paginas_pdf": [
+                1,
+                1
+            ],
+            "resumo": "",
+            "referencias": "",
+            "link": "https://ce-resd.sbc.org.br/sbrc/1992/palestra4.pdf"
+        }
+    ]
+}
