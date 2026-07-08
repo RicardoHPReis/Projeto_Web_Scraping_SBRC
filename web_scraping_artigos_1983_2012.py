@@ -40,7 +40,6 @@ def separar_titulo_paginas(texto_descricao:str, num_paginas:int) -> tuple:
     paginas = [p.strip() for p in paginas]
     
     #print(f"Texto descrição: {texto_descricao} - Texto título: {texto_titulo} - Páginas: {paginas}") 
-    
     if paginas[0] != '' and paginas[-1] == '':
         paginas = [int(re.sub(r'[^0-9]', '', paginas[0])), int(re.sub(r'[^0-9]', '', paginas[0]))+num_paginas-1]
     elif paginas[0] == '' and paginas[-1] != '':
@@ -64,7 +63,6 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         br.replace_with("\n")
     
     todos_links = conteudo.find_all('p')
-    #todos_links = todos_links[18:21]
     for i, link in enumerate(todos_links):
         if link.find('a') == None:
             continue
@@ -109,7 +107,6 @@ def ler_transformar_web(link_url:str, ano_evento:int) -> list:
         }
         anais.append(dados_anais_com_ano)
     
-    pdf_unificado.save(f"SOL_SBRC/SBRC_{ano_evento}/merged_{ano_evento}.pdf")
     pdf_unificado.close()
     
     return anais
