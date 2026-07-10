@@ -101,7 +101,7 @@ def web_scraping_sbrc(url:str) -> list:
     # Filtra os eventos da SBRC para incluir apenas aqueles até o ano de 2016, utilizando uma compreensão de lista para selecionar apenas os eventos que atendem a essa condição, e convertendo o ano de cada evento para um inteiro para facilitar a comparação
     eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) <= 2016]
     #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) >= 2012 and int(e[0]) <= 2016]
-    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 1994]
+    #eventos_sbrc = [e for e in eventos_sbrc if int(e[0]) == 2016]
     
     return eventos_sbrc
 

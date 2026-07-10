@@ -141,6 +141,7 @@ def ler_transformar_pdf_ABNT(link_pdf:str, ano_evento:int) -> list:
 
             # Se o texto da página contém "Resumo." ou "Resumo -", é provável que seja o início do resumo em português, caso contrário, é provável que seja o início do resumo em inglês. 
             # A ideia é usar essa informação para tentar identificar o resumo da melhor forma possível, mesmo que haja algumas inconsistências na formatação dos PDFs.
+            
             if (text.find("Resumo.") != -1 or text.find("Resumo -") != -1):
                 lingua = 'Pt'
                 resumo = text.split("Resumo -", 1)[-1] if text.find("Resumo -") != -1 else text.split("Resumo.", 1)[-1]
@@ -150,6 +151,7 @@ def ler_transformar_pdf_ABNT(link_pdf:str, ano_evento:int) -> list:
                 lingua = 'En'
                 abstract = text.split("Abstract -", 1)[-1] if text.find("Abstract -") != -1 else text.split("Abstract.", 1)[-1]
                 resumo = abstract.split("1.", 1)[0].strip()
+            
             
             # Junção de todos os dados do artigo em um dicionário, que é adicionado a uma lista de anais. 
             # A ideia é criar um dicionário com todas as informações do artigo, para facilitar a organização e o acesso a essas informações posteriormente.
@@ -184,7 +186,7 @@ def ler_transformar_pdf_ABNT(link_pdf:str, ano_evento:int) -> list:
             
         if len(anais) > 0:
             # Caso haja algum artigo que apresente um resumo em protuguês, mas não foi identificado na primeira página, é feito a busca novamente.
-            if (text.find("Resumo.") != -1 or text.find("Resumo -") != -1) and anais[-1]['lingua'] != "En":
+            if (text.find("Resumo.") != -1 or text.find("Resumo -") != -1) and anais[-1]['lingua'] == "En":
                 fl_referencias = False
                 resumo_pt = text.split("Resumo -", 1)[-1] if text.find("Resumo -") != -1 else text.split("Resumo.", 1)[-1]
                 resumo_pt = resumo_pt.split("1.", 1)[0].strip()
